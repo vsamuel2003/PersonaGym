@@ -26,7 +26,7 @@ Currently our framework supports the evaluation of any model available through t
 
 ## Evaluation
 
-To start the evaluation of a persona or multple personas, begin by inputting your OpenAI, Anthropic, and TogetherAI API keys [here](https://github.com/vsamuel2003/PersonaGym/blob/master/code/api_keys.py
+To start the evaluation of a persona or multple personas, begin by inputting your OpenAI, Anthropic, and TogetherAI API keys [here](https://github.com/vsamuel2003/PersonaGym/blob/master/code/api_keys.py)
 ```bash
 OPENAI_API_KEY = "Insert OpenAI key here"
 CLAUDE_API_KEY = "Insert Claude key here"
