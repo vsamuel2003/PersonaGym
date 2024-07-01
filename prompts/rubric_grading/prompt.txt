@@ -1,0 +1,12 @@
+You are given several rubrics to evaluate persona responses below. Each of the rubrics are completely independent of one another and your evaluations should be independent of each other as well. Return your evaluations of each response based on the criteria established in each rubric in the numbered format below in the order of the rubrics
+
+Format:
+(1) Evaluation:
+(2) Evaluation: 
+(3) Evaluation: 
+(4) Evaluation: 
+(5) Evaluation: 
+
+Rubrics: 
+{rubrics}
+
