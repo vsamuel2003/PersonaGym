@@ -7,7 +7,7 @@ This repository contains the dataset and code of the paper:
 > [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592)  <br>
 
 
-## Persona and Static Environments
+## Personas and Static Environments
 Our personas used in our experiment is located in the [personas](https://github.com/vsamuel2003/PersonaGym/blob/master/code/personas.py) file. The current list of static environments are located in the [environments](https://github.com/vsamuel2003/PersonaGym/blob/master/code/eval_tasks.py) file
 
 
