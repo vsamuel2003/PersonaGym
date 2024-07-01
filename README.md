@@ -33,7 +33,7 @@ CLAUDE_API_KEY = "Insert Claude key here"
 LLAMA_API_KEY = "Insert Llama key here"
 ```
 
-Then run the `run.py` file in the code directory. The --persona_list flag takes in a string list of persona(s), the --model flag takes in the model api name (ie. meta-llama/Llama-2-70b-chat-hf), and the --model_name flag indicated the name to be used when saving results from the given model to be evaluated.
+Then run the `run.py` file in the code directory. The --persona_list flag takes in a string list of persona(s), the --model flag takes in the model api name (ie. meta-llama/Llama-2-70b-chat-hf), and the --model_name flag indicates the name to be used when saving results from the given model to be evaluated.
 An example of running the `run.py` file is included below
 
 ```bash
