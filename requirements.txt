@@ -1,0 +1,4 @@
+anthropic==0.30.0
+numpy==2.0.0
+openai==1.35.7
+together==1.2.1
