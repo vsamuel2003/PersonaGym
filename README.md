@@ -1,6 +1,6 @@
 # PersonaGym
 
-![Task](pipeline.png)
+![Task](pipeline.jpg)
 
 This repository contains the dataset and code of the paper:
 > **PersonaGym** 
