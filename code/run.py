@@ -200,12 +200,51 @@ def save_responses(persona, task_to_qa, model_name):
 
     with open(f'{dir}/{persona}_qa.json', 'w') as file:
         json.dump(task_to_qa, file, indent=4)
+      
+def save_questions(persona, questions, model_name):
+    dir = f"../questions"
+    if not os.path.exists(dir):
+        os.makedirs(dir)
+
+    with open(f'{dir}/{persona}.json', 'w') as file:
+        json.dump(questions, file, indent=4)
+      
+def load_questions(persona, saved_questions):
+    dir = f"../questions/{saved_questions}"
+    if not os.path.exists(dir):
+        print(f"No questions directory {saved_questions}")
+        exit(0)
+      
+    with open(f'{dir}/{persona}.json', 'r') as file:
+      questions = json.load(file)
+
+    return questions
+
+def load_responses(persona, saved_responses): 
+    dir = saved_responses
+    if not os.path.exists(dir):
+        print(f"No responses directory {saved_responses}")
+        exit(0)
+      
+    with open(f'{dir}/{persona}_qa.json', 'r') as file:
+      task_to_qa = json.load(file)
+
+    return task_to_qa
     
 
-def main(persona, model, model_name=None):
-    settings = select_settings(persona)
-    questions = gen_questions(persona, settings)
-    task_to_qa = gen_answers(persona, questions, model)
+def main(persona, model, model_name=None, saved_questions=None, saved_responses=None):
+    if saved_responses:
+      task_to_qa = load_responses(persona, saved_responses)
+
+    else:
+      if saved_questions:
+        questions = load_questions(persona, model_name)
+        
+      else:
+        settings = select_settings(persona)
+        questions = gen_questions(persona, settings)
+        
+      task_to_qa = gen_answers(persona, questions, model)
         
     scores = score_answers(persona, task_to_qa)
     overall = 0
@@ -227,13 +266,15 @@ if __name__ == "__main__":
     parser.add_argument("--persona_list", type=str, help="List of personas", default="[]")
     parser.add_argument("--model", type=str, help="A valid model name from the api options of: OpenAI, Claude, TogetherAI", default="meta-llama/Llama-2-70b-chat-hf")
     parser.add_argument("--model_name", help="Model name to save results", default=None)
+    parser.add_argument("--saved_questions", help="Path to load in generated questions", default=None)
+    parser.add_argument("--saved_responses", help="Path to load in generated question-answer pairs", default=None)
 
     args = parser.parse_args()
     persona_list = eval(args.persona_list)
 
     results = {}
     for i, persona in enumerate(args.persona_list):
-        scores = main(persona, args.model, args.model_name)
+        scores = main(persona, args.model, args.model_name, args.saved_questions)
         results[persona] = scores["PersonaScore"]
         logger.info(f'Done with {i + 1}/{len(args.persona_list)} personas')
     
