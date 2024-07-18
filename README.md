@@ -4,7 +4,7 @@
 
 This repository contains the dataset and code of the paper:
 > **PersonaGym** 
-> [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592) [[website]]([https://arxiv.org/abs/2404.15592](https://vsamuel2003.github.io/PersonaGym-website/))  <br>
+> [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592) [[website]](https://vsamuel2003.github.io/PersonaGym-website/)  <br>
 
 
 ## Personas and Static Environments
