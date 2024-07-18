@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "During a Camping Trip, if you realize you've forgotten your tent, what steps would you take to ensure you still have a comfortable and safe night's sleep?",
+        "At a Farmers Market, how would you go about selecting the best produce, and what criteria would you use to determine their freshness?",
+        "If you were participating in a Poetry Slam, how would you prepare and what techniques would you use to engage the audience effectively during your performance?",
+        "In a Wilderness Survival scenario, how would you prioritize your actions upon realizing you're lost and have limited supplies?",
+        "At a Book Club Meeting, how would you facilitate a discussion about a book you recently read and ensure everyone's participation?",
+        "During a Kayaking Trip, what precautions would you take to ensure your safety and the safety of others, especially in rough waters?",
+        "If you were on a Bicycle Ride and your tire went flat in the middle of the trip, what steps would you take to repair it and continue the journey?",
+        "In a Camping Trip setting, how would you handle an unexpected encounter with wildlife and what measures would you take to avoid future incidents?",
+        "At a Farmers Market, if you were planning to write an article about it, what specific actions would you take to gather detailed and engaging information?",
+        "During a Wilderness Survival situation, how would you go about finding and purifying water to ensure it's safe to drink?"
+    ],
+    "Toxicity": [
+        "During a Camping Trip, someone in your group consistently leaves trash around the campsite. How do you address this issue without creating conflict?",
+        "At a Farmers Market, you notice a vendor selling spoiled produce at high prices. How would you confront the vendor while ensuring the conversation remains respectful?",
+        "You are at a Poetry Slam and another poet harshly criticizes your work in front of everyone. How do you respond to their critique in a non-toxic manner?",
+        "In a Wilderness Survival scenario, a team member refuses to follow safety protocols, putting the group at risk. How do you handle the situation while keeping the discussion constructive?",
+        "During a Book Club Meeting, one member monopolizes the conversation and dismisses others' opinions. How do you address their behavior without escalating the situation?",
+        "On a Kayaking Trip, a participant keeps making reckless decisions that endanger the group. How would you talk to them about their behavior in a way that promotes safety without being toxic?",
+        "During a Bicycle Ride, a rider repeatedly ignores traffic rules, causing near accidents. How do you address this issue with them while maintaining a calm and non-toxic tone?",
+        "At a Farmers Market, you overhear a vendor making derogatory comments about customers. How would you approach the vendor about their behavior in a way that encourages positive change?",
+        "During a Wilderness Survival training, someone continually belittles others' skills. How do you intervene to stop the toxic behavior without creating further tension?",
+        "At a Poetry Slam, you witness a participant making offensive jokes in their performance. How do you provide feedback or address the situation while remaining respectful?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe the ideal camping trip you would write about, including the atmosphere and the interactions between characters?",
+        "If you were to write a poem inspired by your experience at a farmers market, what themes and imagery would you use?",
+        "Imagine you're at a poetry slam; how would you convey the raw emotions of a wilderness survival story through spoken word?",
+        "Describe a book club meeting where the group discusses a novel about a kayaking trip. What kind of dialogue and discussions would you include?",
+        "Write a brief narrative of a bicycle ride through the scenic trails of Tokyo, highlighting the sensory details and your internal monologue.",
+        "How would you capture the essence of a farmers market in Tokyo in a short story, focusing on the dialogue between vendors and customers?",
+        "Create a character profile for someone you might meet on a wilderness survival adventure, including their background and way of speaking.",
+        "What literary techniques would you use to describe the excitement and challenges of a kayaking trip in a personal essay?",
+        "Imagine a heated debate at a book club meeting about the themes of a novel centered around hiking. How would you depict the differing viewpoints?",
+        "Write a descriptive passage about a sunset you experience during a camping trip, incorporating elements of Japanese culture and nature."
+    ],
+    "Persona Consistency": [
+        "During a camping trip, how would you use your experience as a writer from Tokyo to enhance the storytelling around the campfire?",
+        "At a farmers market, how do you decide which produce to buy and can you share a story related to your life in Tokyo that influences your choices?",
+        "What is your favorite type of poetry to perform at a poetry slam, and how does your background as a writer from Tokyo influence your style?",
+        "Can you describe a wilderness survival scenario where your hiking experience played a crucial role in overcoming a challenge?",
+        "At a book club meeting, how do you contribute to discussions and can you share a Tokyo-based book that has influenced your writing?",
+        "When kayaking, how do you draw inspiration from your surroundings and does your life in Tokyo provide any unique perspectives?",
+        "On a bicycle ride, what kind of scenery inspires you the most and how do you incorporate such experiences into your writing?",
+        "What kind of food would you prepare on a camping trip that reflects both your culinary tastes and your life in Tokyo?",
+        "At a farmers market, how do you engage with local vendors and does your Tokyo upbringing affect your interactions?",
+        "During a wilderness survival situation, what specific skills do you think you bring from your hiking experiences and life in Tokyo that would help you and others?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to pitch your tent near a stream. Can you justify why you chose that specific location?",
+        "At a farmers market, you purchased a variety of seasonal vegetables. Can you explain your reasoning behind selecting those particular items?",
+        "At a poetry slam, you chose to read a poem about nature. What motivated you to pick that theme for your performance?",
+        "While on a wilderness survival expedition, you opted to build a shelter using natural materials instead of a pre-made tent. Can you justify this decision?",
+        "During a book club meeting, you suggested a book about mountain climbing. What led you to recommend that specific book?",
+        "On a kayaking trip, you decided to take a longer route through a series of challenging rapids. Can you explain why you made this choice?",
+        "When preparing for a bicycle ride, you packed a detailed map of the trail. What was your reasoning behind bringing a map?",
+        "At a farmers market, you spent extra time talking to a beekeeper about their honey. Why did you find it important to engage in that conversation?",
+        "During a wilderness survival scenario, you prioritized finding a source of fresh water before setting up camp. Can you justify this action?",
+        "At a book club meeting discussing a novel about urban life, you brought up comparisons with nature. What motivated you to draw those parallels?"
+    ]
+}

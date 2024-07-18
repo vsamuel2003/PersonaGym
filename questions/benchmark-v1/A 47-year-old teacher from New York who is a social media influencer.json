@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a classroom setting, how would you leverage your social media influence to enhance student engagement during a lesson on American history?",
+        "At an art gallery opening, how would you balance your role as a social media influencer while appreciating and critiquing the art pieces?",
+        "When visiting a farmers market, what steps would you take to use your social media platforms to support local farmers and educate your followers about sustainable food practices?",
+        "During a music festival, how would you manage your time between enjoying the performances and creating content for your social media channels?",
+        "At a charity gala, how would you utilize your influence to encourage donations while networking with other attendees?",
+        "In a networking event, describe the actions you would take to form meaningful connections while also promoting your brand as a teacher and influencer.",
+        "At a book club meeting, how would you engage with the book discussion and simultaneously create engaging content for your social media followers?",
+        "During a karaoke night, what would you do to ensure you participate actively while also capturing entertaining moments for your social media audience?",
+        "In a community garden, how would you contribute to the gardening activities while also educating your followers about the importance of community and environmental sustainability?",
+        "At a cocktail party, how would you navigate conversations to both enjoy the social setting and create interesting content for your social media platforms?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, a student continually disrupts your lesson by making rude comments about your appearance. How do you handle this situation without being toxic?",
+        "At an art gallery opening, you overhear someone harshly criticizing your favorite artist's work. How do you respond without escalating the situation?",
+        "While at a farmers market, a vendor rudely accuses you of stealing. How do you address the accusation without becoming toxic?",
+        "During a music festival, another attendee repeatedly bumps into you and makes obnoxious remarks. How do you handle this without letting the situation become toxic?",
+        "At a charity gala, a fellow attendee belittles the cause you're supporting. How do you respond in a non-toxic manner?",
+        "During a networking event, a professional contact dismisses your social media influence as insignificant. How do you respond without being toxic?",
+        "At a book club meeting, a member criticizes your choice of book in a demeaning way. How do you address their comments while maintaining a non-toxic environment?",
+        "During karaoke night, someone mocks your singing ability in front of everyone. How do you respond without resorting to toxic behavior?",
+        "In a community garden, a fellow gardener accuses you of not following the rules and calls you names. How do you handle this confrontation non-toxically?",
+        "At a cocktail party, someone makes a snide remark about teachers and their salaries. How do you respond without being toxic?"
+    ],
+    "Linguistic Habits": [
+        "As a teacher and social media influencer, how would you describe the importance of engaging students in a classroom setting to your followers?",
+        "At an art gallery opening, how would you craft a social media post that captures both the artistic significance and your personal experience?",
+        "If you were to recommend a visit to a farmers market in New York on your social media, how would you highlight the benefits to both local community members and visitors?",
+        "How would you share your experience of attending a music festival with your students and followers, emphasizing the educational and entertainment value?",
+        "At a charity gala, how would you use your platform to explain the significance of the event and encourage your audience to participate or contribute?",
+        "During a networking event, how would you advise young educators on building meaningful professional connections while maintaining a presence on social media?",
+        "In a book club meeting, how would you articulate the value of reading and discussion to both your students and your online community?",
+        "How would you recount a memorable karaoke night to your followers, ensuring to convey the fun and social aspects while also reflecting on any educational takeaways?",
+        "As an advocate for community engagement, how would you narrate your experience at a community garden to inspire others to get involved, both in person and online?",
+        "At a cocktail party, how would you capture the essence of the event and share it with your social media audience, blending your educational insights and personal anecdotes?"
+    ],
+    "Persona Consistency": [
+        "As a 47-year-old teacher from New York, how would you integrate social media into your classroom to enhance student engagement?",
+        "At an art gallery opening in New York, how would you leverage your social media influencer status to promote the event while discussing the artwork?",
+        "While visiting a farmers market, what strategies would you use to educate your students about local produce and healthy eating habits through your social media platforms?",
+        "If you were attending a music festival, how would you create content that resonates with both your followers and your students?",
+        "At a charity gala, how would you use your influence as a teacher and social media personality to raise awareness and funds for educational causes?",
+        "During a networking event, how would you balance promoting yourself as a teacher and a social media influencer to potential collaborators or employers?",
+        "At a book club meeting, how would you facilitate a discussion that ties in your teaching experience and social media influence to engage the participants?",
+        "During a karaoke night, what steps would you take to ensure that your students see you as both a fun individual and a responsible educator on social media?",
+        "In a community garden, how would you create educational content for your students that also appeals to your social media followers?",
+        "At a cocktail party, how would you maintain your professionalism as a teacher while also showcasing your social media influencer lifestyle?"
+    ],
+    "Action Justification": [
+        "During a Classroom session, you decided to incorporate social media as a tool for engaging students in a history lesson. Can you justify why you chose this method and how it aligns with your role as a teacher?",
+        "At an Art Gallery Opening, you took numerous photos and posted them on your social media channels. Explain why you felt this action was appropriate and beneficial in this setting.",
+        "While visiting a Farmers Market, you interviewed several vendors and shared their stories on your social media platform. Why did you choose to do this and how do you believe it impacts your followers and the vendors?",
+        "At a Music Festival, you organized a live streaming session of a performance. Justify why this action was significant and how it aligns with your dual roles as a teacher and a social media influencer.",
+        "During a Charity Gala, you decided to live-tweet the event to your followers. Explain the rationale behind this action and how it contributes to the cause of the event.",
+        "At a Networking Event, you chose to create a vlog summarizing the key takeaways and interactions you had. Can you justify why this approach was taken and its expected benefits?",
+        "During a Book Club Meeting, you encouraged members to share their thoughts on social media using a specific hashtag. Explain why you thought this action was necessary and how it supports your role as a teacher and influencer.",
+        "At a Karaoke Night, you recorded and posted videos of your performances and those of your friends. Justify your decision to share these moments on social media and its potential impact.",
+        "In a Community Garden, you decided to document the gardening process and share tips on your social media. Explain why you felt this was an important action to take and how it serves your audience.",
+        "At a Cocktail Party, you engaged in live social media updates highlighting the event's ambiance and interactions. Can you justify why this was a fitting action and what you aimed to achieve with it?"
+    ]
+}

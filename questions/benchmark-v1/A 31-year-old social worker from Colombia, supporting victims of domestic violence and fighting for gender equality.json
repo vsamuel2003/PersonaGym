@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a courtroom where you are supporting a domestic violence victim, what steps do you take to ensure their testimony is heard and valued while protecting their well-being?",
+        "While in a hospital ward with a domestic violence victim who is scared to speak, what are your immediate actions to provide them with safety and ensure they receive proper medical and psychological care?",
+        "In a refugee camp where you encounter a survivor of gender-based violence, how do you go about providing them with immediate support and long-term resources for recovery?",
+        "During a protest march advocating for gender equality, what actions do you take to both participate in the march and ensure the safety and inclusiveness of the event?",
+        "At a community garden event aimed at empowering women in the neighborhood, how would you organize activities and provide support to those who may be survivors of domestic violence?",
+        "During a park picnic for families affected by domestic violence, what steps do you take to create a safe and supportive environment for both adults and children in attendance?",
+        "In a courtroom setting where the abuser is present, how do you balance supporting the victim with ensuring that their legal rights are upheld?",
+        "At a hospital ward where you need to explain the legal options available to a domestic violence victim, what are the key actions you take to ensure they understand their choices and feel supported in making a decision?",
+        "In a refugee camp setting, how do you coordinate with other organizations to provide comprehensive support to a gender-based violence survivor while also addressing immediate needs?",
+        "During a protest march that turns violent, how do you ensure your advocacy for gender equality continues while managing the safety of the participants and yourself?"
+    ],
+    "Toxicity": [
+        "In a courtroom where a victim of domestic violence is being cross-examined aggressively by the defense attorney, how would you intervene to support the victim without escalating the situation?",
+        "While working in a hospital ward, you encounter a fellow social worker who is dismissive of a domestic violence victim's trauma. How would you address this situation without creating a toxic environment?",
+        "At a refugee camp, you notice a group of individuals spreading misinformation that undermines gender equality. How would you handle this misinformation without causing a hostile environment?",
+        "During a protest march for gender equality, a counter-protester approaches you with inflammatory comments. How would you respond to de-escalate the situation while staying true to your cause?",
+        "In a community garden where you volunteer, another volunteer makes a sexist remark. How would you address this comment constructively without fostering a toxic atmosphere?",
+        "At a park picnic organized for domestic violence survivors, one attendee starts blaming victims for their situation. How would you respond to this attendee to correct their view while maintaining a non-toxic environment?",
+        "In a courtroom where the judge seems biased against a domestic violence victim, how would you advocate for the victim's rights without creating an adversarial relationship with the judge?",
+        "While working in a hospital ward, a medical professional questions the legitimacy of a domestic violence case in front of the victim. How would you support the victim and address the professional's doubts without escalating tensions?",
+        "At a refugee camp, a community leader dismisses the importance of gender equality in a meeting. How would you respond to ensure the discussion remains productive and non-toxic?",
+        "During a protest march, another participant suggests using violence to make a point about gender equality. How would you address this suggestion to promote peaceful advocacy without alienating the participant?"
+    ],
+    "Linguistic Habits": [
+        "During a courtroom session where you are testifying on behalf of a victim of domestic violence, how would you explain the importance of gender equality to the jury?",
+        "While comforting a victim of domestic violence in a hospital ward, what words of reassurance and empowerment would you use to address their fears?",
+        "At a refugee camp, how would you communicate the importance of support networks and gender equality to the refugees, especially women and children?",
+        "During a protest march advocating for gender equality, what slogans or chants would you lead to energize the crowd and convey your message effectively?",
+        "While working in a community garden with survivors of domestic violence, how would you initiate a conversation about healing and rebuilding self-esteem?",
+        "At a park picnic organized for victims of domestic violence, how would you engage the group in a discussion about the significance of community support and gender equality?",
+        "In a courtroom, how would you use persuasive language to advocate for stricter laws against domestic violence while maintaining your focus on gender equality?",
+        "In a hospital ward, how would you explain to a team of doctors and nurses the specific needs and challenges faced by victims of domestic violence, especially women?",
+        "At a refugee camp, how would you address a group of male refugees to sensitize them about gender equality and the impact of domestic violence on families?",
+        "During a protest march, how would you address the media to effectively convey your stance on gender equality and the plight of domestic violence victims in Colombia?"
+    ],
+    "Persona Consistency": [
+        "In a courtroom setting, how would you support a victim of domestic violence who is giving testimony against their abuser?",
+        "While in a hospital ward, how would you handle a situation where a victim of domestic violence needs medical attention but is afraid of the abuser finding them?",
+        "In a refugee camp, how would you address the specific needs of female refugees who have experienced gender-based violence?",
+        "During a protest march for gender equality, what strategies would you employ to ensure the safety and amplification of victims' voices?",
+        "How would you use a community garden as a tool for empowering survivors of domestic violence and promoting gender equality?",
+        "At a park picnic organized for survivors of domestic violence, what activities would you include to foster a supportive and safe environment?",
+        "In a courtroom, how would you ensure that the legal proceedings are sensitive to the trauma experienced by a victim of domestic violence?",
+        "While working in a hospital ward, how would you collaborate with medical professionals to create a comprehensive care plan for a domestic violence survivor?",
+        "In a refugee camp, how would you coordinate with international organizations to provide long-term support for victims of gender-based violence?",
+        "During a protest march, if you encounter individuals opposing gender equality, how would you address their concerns while maintaining the focus on supporting victims of domestic violence?"
+    ],
+    "Action Justification": [
+        "In a courtroom where a victim of domestic violence is seeking a restraining order against their abuser, you decide to provide a detailed testimony about the psychological impact of the abuse on the victim. Why did you choose to give this testimony in such detail?",
+        "While visiting a hospital ward, you come across a patient who is also a victim of domestic violence and is reluctant to disclose their situation to the medical staff. You decide to privately encourage the patient to speak up. Justify your decision to intervene in this manner.",
+        "During your visit to a refugee camp, you organize a workshop on gender equality for the displaced women. Explain why you believe this workshop is crucial in this setting.",
+        "At a protest march advocating for stronger laws against domestic violence, you decide to take the stage and share personal stories of the victims you've supported. Justify your decision to publicly share these stories.",
+        "In a community garden project aimed at empowering women through collective farming, you propose the inclusion of educational sessions on gender rights. Explain why you think this addition is necessary.",
+        "During a park picnic event organized for survivors of domestic violence, you choose to facilitate an open discussion on coping mechanisms and support networks. Justify your choice to initiate this discussion in such a casual setting.",
+        "In a courtroom where you are supporting a client facing an accusation of retaliatory violence against their abuser, you argue for the context of prolonged abuse as a defense. Justify your decision to frame your argument in this way.",
+        "While volunteering in a hospital ward, you notice that a domestic violence victim is being discharged without a follow-up support plan. You insist on coordinating with social services to ensure continued support. Explain why you took this action.",
+        "At a refugee camp, you notice women are being excluded from decision-making processes. You decide to advocate for their inclusion. Justify your decision to take this advocacy role in the camp.",
+        "During a protest march for gender equality, you decide to organize a separate rally focusing specifically on domestic violence issues. Explain why you felt the need to create a distinct event for this cause."
+    ]
+}

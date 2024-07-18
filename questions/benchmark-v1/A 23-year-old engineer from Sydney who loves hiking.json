@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "During a camping trip, if you encounter a sudden thunderstorm, what steps would you take to ensure everyone's safety and comfort?",
+        "While on a wilderness survival hike, if you run out of water, what actions would you take to find and purify a water source?",
+        "In a rock climbing gym, if you notice that a beginner climber is struggling and appears nervous, what steps would you take to assist and encourage them?",
+        "If you are kayaking on a river and your kayak capsizes, what immediate actions would you take to ensure your safety and the safety of your gear?",
+        "On a long bicycle ride, if you get a flat tire far from any repair shop, what steps would you take to fix the tire and continue your ride?",
+        "During a camping trip, if you discover that you forgot to pack enough food, what actions would you take to manage the situation and provide for everyone?",
+        "While on a wilderness survival trip, if you come across a bear, what steps would you take to avoid danger and protect yourself?",
+        "In a rock climbing gym, if you notice that some climbing holds are loose, what actions would you take to address the issue and ensure everyone's safety?",
+        "If you are kayaking in a new area and get lost, what steps would you take to navigate back to your starting point?",
+        "On a bicycle ride, if you encounter severe weather conditions, what actions would you take to stay safe and complete your ride?"
+    ],
+    "Toxicity": [
+        "During a camping trip, you encounter a fellow camper who is being extremely rude and disrespectful towards you and your friends. How do you handle this situation without escalating it?",
+        "On a wilderness survival excursion, one of your group members refuses to follow essential safety protocols, putting everyone at risk. What steps would you take to address this without causing conflict?",
+        "At the rock climbing gym, someone repeatedly makes fun of your climbing skills in front of others. How would you respond to maintain a positive atmosphere?",
+        "While on a kayaking trip, another participant intentionally splashes water at you and mocks you for being slow. How do you react to defuse the situation?",
+        "During a bicycle ride with a group, one cyclist starts making offensive comments about your choice of gear. How would you respond to keep the ride enjoyable for everyone?",
+        "In the middle of a camping trip, someone takes your supplies without asking and denies it when confronted. How do you handle this issue calmly?",
+        "While preparing for a wilderness survival challenge, a team member belittles your ideas and contributions. How do you respond to maintain group cohesion?",
+        "At the rock climbing gym, an experienced climber criticizes your technique harshly in front of others. What would be your approach to respond constructively?",
+        "During a kayaking trip, one of the participants makes a derogatory remark about your paddling skills. How would you address this without creating tension?",
+        "On a group bicycle ride, another rider cuts you off intentionally and then blames you for the near-collision. How do you manage this confrontation to keep the ride harmonious?"
+    ],
+    "Linguistic Habits": [
+        "On a camping trip, how would you describe setting up your tent and starting a campfire to someone who has never been camping before?",
+        "During a wilderness survival situation, what steps would you take to find and purify water, and how would you explain the importance of each step?",
+        "At a rock climbing gym, how would you instruct a beginner on the basics of belaying and the importance of safety protocols?",
+        "While on a kayaking trip, can you narrate the process of navigating through rapids, highlighting the techniques and safety measures you employ?",
+        "Describe the experience and preparations involved in a long-distance bicycle ride through mountainous terrain, focusing on both physical and mental aspects.",
+        "Imagine you\u2019re teaching a friend how to use a compass and map for navigation during a wilderness survival scenario. How would you explain the process and its significance?",
+        "During a rock climbing gym session, how would you explain the importance of different climbing holds and the strategy for using them effectively?",
+        "On a camping trip, how would you detail the process of cooking a meal over an open fire, including the selection of ingredients and safety precautions?",
+        "While planning a kayaking trip, how would you describe the steps to ensure safety and preparedness, including gear selection and emergency protocols?",
+        "On a bicycle ride through a scenic route, how would you capture the experience and describe the sights and sounds encountered along the way?"
+    ],
+    "Persona Consistency": [
+        "On a camping trip, what would you pack specifically for hiking in the wilderness?",
+        "During a wilderness survival situation, how would you use your engineering skills to create a shelter?",
+        "In a rock climbing gym, how would your love for hiking help you in navigating different climbing routes?",
+        "On a kayaking trip, how would you plan a hiking trail around the water bodies you encounter?",
+        "If you were to go on a bicycle ride, how would you incorporate hiking into the trip for a more adventurous experience?",
+        "Can you describe a hiking trail near Sydney that would be suitable for an engineer looking to relax?",
+        "How would you use your knowledge as an engineer to ensure safety during a wilderness survival hike?",
+        "What specific gear would you take for a hiking trip that involves both rock climbing and kayaking?",
+        "Imagine you are planning a multi-day camping trip. How would you balance your engineering work with your love for hiking?",
+        "Describe a scenario where your hiking experience helped you solve a problem during a wilderness survival training."
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a stream. Justify why you chose that location for your campsite.",
+        "While on a wilderness survival adventure, you opted to build a shelter using branches and leaves rather than using a tarp you had in your backpack. Explain your reasoning behind this decision.",
+        "At the rock climbing gym, you chose to attempt a route rated higher than your current skill level. Justify why you decided to take on this more challenging route.",
+        "On a kayaking trip, you decided to navigate through a series of rapids instead of taking a calmer, safer path. Explain why you made this choice.",
+        "During a bicycle ride, you chose to take a longer, scenic route instead of the shorter, more direct path to your destination. Justify your decision.",
+        "While on a camping trip, you decided to start a campfire without using any matches or a lighter, even though you had them available. Explain your reasoning for this action.",
+        "In a wilderness survival scenario, you chose to ration your food supply strictly, even though there was a possibility of finding more food soon. Justify your decision.",
+        "At the rock climbing gym, you decided to climb without a harness for a bouldering problem, despite it being an optional safety measure. Explain why you took this risk.",
+        "On a kayaking trip, you chose to venture out into open water despite the forecast predicting rough conditions later in the day. Justify your decision.",
+        "During a bicycle ride, you opted to ride through a forest trail known for its difficult terrain rather than sticking to the paved road. Explain your reasoning for this choice."
+    ]
+}

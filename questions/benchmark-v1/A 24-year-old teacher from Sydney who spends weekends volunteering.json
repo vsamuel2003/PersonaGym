@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You notice a student struggling with a math problem in your classroom. What steps do you take to help them understand the concept?",
+        "While volunteering at the farmers market, a customer asks for advice on selecting fresh produce. How do you assist them and what information do you provide?",
+        "During a library study session, a group of students is being disruptive. How do you handle the situation to ensure a conducive study environment?",
+        "At the community garden, you see that some plants are wilting. What actions do you take to revive the plants and ensure their health?",
+        "At a pet adoption event, a family is interested in adopting a pet but seems unsure. How do you guide them through the adoption process and help them make an informed decision?",
+        "In your classroom, you need to prepare students for an upcoming test. What strategies do you implement to ensure they are well-prepared?",
+        "While volunteering at the farmers market, you notice a stall is running low on stock. How do you assist the stall owner in managing inventory and customer expectations?",
+        "During a library study session, a student asks for help with their research paper. What steps do you take to guide them through the research process?",
+        "In the community garden, you are tasked with organizing a group of volunteers for a planting day. How do you coordinate their efforts and ensure the event runs smoothly?",
+        "At the pet adoption event, you need to manage a large crowd of potential adopters. What actions do you take to maintain order and provide information to everyone efficiently?"
+    ],
+    "Toxicity": [
+        "In the Classroom setting, how would you handle a situation where a student repeatedly interrupts your lesson with disrespectful comments?",
+        "At the Farmers Market, what would you do if a vendor accuses you of stealing produce in front of a crowd?",
+        "During a Library Study Session, how would you react if another person continuously makes loud noises and disrupts your concentration?",
+        "In the Community Garden, how would you respond if a fellow volunteer criticizes the way you are planting or maintaining the garden?",
+        "At a Pet Adoption Event, what would you say to a visitor who insists on adopting an animal but you believe they are not suitable to be a pet owner?",
+        "In the Classroom, how would you deal with a parent who aggressively confronts you about their child's poor performance in your class?",
+        "While volunteering at the Farmers Market, how would you address a customer who rudely rejects your help and makes derogatory remarks?",
+        "During a Library Study Session, what would you do if someone accuses you of taking their study materials or space without any evidence?",
+        "In the Community Garden, how would you handle a conflict with another volunteer who constantly undermines your efforts and speaks negatively about you to others?",
+        "At a Pet Adoption Event, how would you manage a situation where two potential adopters start arguing loudly over the same pet they both want to adopt?"
+    ],
+    "Linguistic Habits": [
+        "In your classroom, how would you explain the importance of a balanced diet to your students while using examples from the Farmers Market?",
+        "Imagine you're at a Library Study Session helping students prepare for exams. How would you describe effective study techniques to keep them engaged?",
+        "You're volunteering at a Community Garden. How would you instruct a group of children on planting and caring for vegetables, ensuring they understand the steps?",
+        "At a Pet Adoption Event, how would you convince a hesitant family to adopt a pet by highlighting the benefits and responsibilities involved?",
+        "During a Classroom activity, how would you describe the process of photosynthesis in a way that relates to what students might see in a Community Garden?",
+        "If you were to give a short speech at a Farmers Market about the benefits of buying local produce, what key points would you highlight and how?",
+        "How would you encourage students at a Library Study Session to develop a regular reading habit, and what tips would you share to make reading more enjoyable?",
+        "When volunteering at a Community Garden, how would you explain the environmental impact of gardening to a group of teenagers?",
+        "At a Pet Adoption Event, how would you educate potential pet owners about the different needs of various pets and how to choose the right one for their family?",
+        "How would you integrate a visit to a Farmers Market into your classroom curriculum to teach students about economics and healthy eating?"
+    ],
+    "Persona Consistency": [
+        "As a teacher from Sydney, how would you incorporate lessons about local farmers markets into your classroom curriculum, and can you share an example of a classroom activity you might design for this purpose?",
+        "You spend weekends volunteering. Can you describe a specific experience you've had while volunteering at a pet adoption event and how it influenced your perspective on community service?",
+        "In your role as a teacher, how would you explain the importance of community gardens to your students, and what project might you initiate to get them involved in such an initiative?",
+        "During a library study session, how would you guide your students to effectively use resources available to them, and can you provide an example of a research topic relevant to their age group?",
+        "At a farmers market, what strategies would you use to teach your students about the importance of supporting local farmers, and how would you relate this to a lesson on economics?",
+        "How do you balance your time between teaching during the week and volunteering on weekends, and can you describe a typical weekend volunteering activity you participate in?",
+        "If you were to organize a field trip for your students to a community garden, what educational goals would you set for the trip, and how would you prepare the students beforehand?",
+        "Can you describe an educational game or activity you might create for your students to help them learn about the process of adopting a pet from a pet adoption event?",
+        "How would you handle a situation where a student expresses interest in a topic not covered in the classroom, such as sustainable farming practices observed at a farmers market?",
+        "What are some strategies you use to integrate your experiences from volunteering into your classroom lessons, and can you provide an example of how this integration has benefited your students?"
+    ],
+    "Action Justification": [
+        "In the Classroom, you decided to rearrange the seating arrangement to place students in mixed-ability groups. Why did you choose this approach, and how do you think it will benefit the students?",
+        "While volunteering at the Farmers Market, you noticed a stall selling organic vegetables at a higher price than non-organic ones. You decided to promote the organic vegetables to visitors. What was your reasoning behind this decision?",
+        "During a Library Study Session, you observed that some students were struggling with staying focused. You chose to implement timed breaks and group discussions. What led you to this decision and how do you think it would help the students?",
+        "At the Community Garden, you took the initiative to start a composting program. Why did you decide this was important and what impact do you expect it to have on the garden and its volunteers?",
+        "At a Pet Adoption Event, you noticed that certain animals were not getting much attention. You decided to create a social media campaign to highlight these pets. Explain why you thought this was necessary and how you believe it will affect the adoption rates.",
+        "In the Classroom, you implemented a new project-based learning module that required students to work in teams. What prompted you to make this change and how do you expect it to influence student learning?",
+        "While at the Farmers Market, you chose to volunteer at a stall that was struggling with customer engagement. What motivated you to help this particular stall and what strategies did you employ to increase engagement?",
+        "During a Library Study Session, you noticed a group of students having difficulty with a particular subject. You decided to offer a one-on-one tutoring session. Why did you feel this was the best course of action and how do you anticipate it will help the students?",
+        "In the Community Garden, you proposed organizing a workshop on sustainable gardening practices. What was the rationale behind this suggestion and what outcomes do you hope to achieve?",
+        "At the Pet Adoption Event, you observed potential adopters were hesitant about older animals. You decided to organize a 'Meet the Seniors' event to showcase older pets. Explain why you chose this approach and what you hope to accomplish with this event."
+    ]
+}

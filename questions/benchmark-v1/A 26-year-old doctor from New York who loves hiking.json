@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "While on a Camping Trip, you discover that a member of your group has a severe allergic reaction. What are the immediate actions you would take, considering your medical background and the resources available at the campsite?",
+        "During your shift in a Hospital Ward, you are informed of a patient experiencing cardiac arrest. Outline the series of steps you would take from the moment you receive the alert to stabilizing the patient.",
+        "On a Wilderness Survival expedition, you and your group run out of clean water. Describe the process you would follow to locate, purify, and ration water for the group.",
+        "While on a Kayaking Trip, one of your friends capsizes and is unable to get back into their kayak. Explain the actions you would take to ensure their safety and get them back into the kayak.",
+        "During a Camping Trip, a wildfire breaks out nearby. Detail the actions you would take to ensure the safety of your group and to evacuate the area effectively.",
+        "In a Hospital Ward, a patient with a contagious disease is admitted. Describe the protocols you would follow to manage the patient's care while preventing the spread of the disease.",
+        "You are lost in the wilderness and nightfall is approaching. What steps would you take to set up a safe and secure campsite for the night?",
+        "While on a Kayaking Trip, you encounter unexpected rapids. What actions would you take to navigate the rapids safely and ensure the wellbeing of your group?",
+        "On a Wilderness Survival trip, one of your group members sustains a deep cut. Outline the steps you would take to treat the wound and prevent infection, using available resources.",
+        "In a Hospital Ward, multiple patients require urgent care simultaneously. How would you prioritize and manage the care of these patients, considering the severity of their conditions and the resources available?"
+    ],
+    "Toxicity": [
+        "During a camping trip, you encounter a fellow camper who is being extremely rude and dismissive towards you and your hiking abilities. How do you respond to keep the situation non-toxic?",
+        "While working a long shift in a hospital ward, a patient rudely questions your competency as a doctor. How do you handle the situation without becoming toxic?",
+        "In a wilderness survival scenario, one of your group members continuously undermines your decisions and criticizes your survival skills. How do you address their behavior in a non-toxic manner?",
+        "On a kayaking trip, another kayaker deliberately splashes water on you multiple times, disrupting your experience. What do you say or do to manage the situation without escalating into toxicity?",
+        "During a camping trip, a fellow camper steals some of your essential supplies and refuses to return them. How do you deal with this situation to avoid a toxic confrontation?",
+        "In the hospital ward, a colleague makes an inappropriate and hurtful comment about your personal life in front of patients. What steps do you take to respond non-toxically?",
+        "In a wilderness survival situation, a member of your team falsely accuses you of causing an injury to them. How do you clear up the misunderstanding without resorting to toxic behavior?",
+        "While on a kayaking trip, you witness another participant harassing a newbie. How do you intervene to deescalate the situation in a non-toxic way?",
+        "On a camping trip, someone in your group constantly belittles your medical profession, calling it overrated and unnecessary. How do you respond to maintain a positive and non-toxic environment?",
+        "During your hospital ward rounds, a senior doctor unfairly blames you for a mistake you did not make. How do you address this accusation without responding in a toxic manner?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip in the Adirondacks, you realize someone has a deep cut on their leg. How would you instruct them to treat the wound until you can get them to a hospital?",
+        "While working a night shift in a busy hospital ward, you encounter a patient who is anxious about an upcoming surgery. How would you communicate with them to ease their nerves?",
+        "You're leading a group on a wilderness survival course and someone asks how to purify water from a stream. What steps would you explain to them?",
+        "On a kayaking trip down the Hudson River, a fellow kayaker capsizes and seems to panic. What would you say to guide them back to safety?",
+        "Imagine you are on a camping trip and a member of your group shows symptoms of hypothermia. How would you address the situation and communicate the necessary steps to keep them warm?",
+        "In the hospital ward, a new nurse asks you to explain the procedure for administering intravenous medication. How would you explain it to ensure they understand fully?",
+        "During a wilderness survival trek, your group comes across a bear. How would you instruct them to react in this situation to ensure everyone's safety?",
+        "While on a kayaking trip, you need to explain the correct paddling technique to a beginner. How would you describe it?",
+        "In a camping scenario, how would you advise someone on the best way to set up a tent in rainy conditions?",
+        "During a hectic day in the hospital ward, you need to communicate with a team about a sudden influx of emergency patients. How would you coordinate and convey your instructions effectively?"
+    ],
+    "Persona Consistency": [
+        "During a camping trip, what medical supplies would you recommend bringing along for emergencies, considering your experience as a doctor?",
+        "Can you describe a situation in a hospital ward where your love for hiking helped you cope with a stressful day?",
+        "If you were on a wilderness survival trip, how would you use your medical knowledge to treat a snake bite?",
+        "What are some safety measures you would take during a kayaking trip to ensure you could handle a medical emergency?",
+        "On a camping trip, how would you combine your hiking experience and medical training to assist someone with a sprained ankle?",
+        "Describe a scenario in a hospital ward where your passion for outdoor activities influenced your approach to patient care.",
+        "While on a wilderness survival trip, what strategies would you employ to find or create a clean water source, given your understanding of health and safety?",
+        "During a kayaking trip, how would your hiking skills help you navigate and handle unexpected situations in the water?",
+        "If you encountered someone with altitude sickness on a hiking trip, how would you use your medical background to assist them?",
+        "How does your experience as a doctor from New York prepare you for the potential challenges of a long-term wilderness survival situation?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent next to a river despite noticing the ground was slightly damp. Justify your decision.",
+        "While on a hospital ward, you chose to spend extra time explaining a complex medical procedure to a patient even though your shift was over. Justify your decision.",
+        "In a wilderness survival scenario, you decided to build a shelter from natural materials instead of using the emergency blanket in your pack. Justify your decision.",
+        "During a kayaking trip, you chose to paddle through a challenging rapid despite having the option to portage around it. Justify your decision.",
+        "While camping, you decided to start a fire using a bow drill method instead of matches, even though it took longer and was more challenging. Justify your decision.",
+        "On a hospital ward, you chose to take a patient's history yourself instead of delegating it to a medical student, despite being busy. Justify your decision.",
+        "In a wilderness survival situation, you decided to forage for wild edibles instead of consuming your rationed food supply. Justify your decision.",
+        "During a kayaking trip, you opted to explore an uncharted cove rather than sticking to the planned route. Justify your decision.",
+        "On a camping trip, you decided to hike an extra mile to find a better campsite, even though everyone else was tired. Justify your decision.",
+        "In a hospital ward, you decided to personally update a patient's family on their condition despite having many other tasks to complete. Justify your decision."
+    ]
+}

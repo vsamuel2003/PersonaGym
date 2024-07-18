@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You are in a classroom with students preparing for a science project. One of the students accidentally breaks a piece of equipment. What actions do you take to manage the situation and ensure the project continues smoothly?",
+        "During a camping trip, you notice dark clouds gathering and a storm approaching. What steps do you take to prepare your group and ensure everyone's safety?",
+        "While on a wilderness survival expedition, you realize you are running low on water. Describe the actions you take to find a water source and make it safe for drinking.",
+        "You are leading a kayaking trip, and one of the participants capsizes. What immediate actions do you take to assist the person and ensure the safety of the rest of the group?",
+        "During a bicycle ride with a group of students, one of them falls and injures themselves. Describe the steps you take to provide first aid and manage the group until help arrives.",
+        "In a classroom setting, a student who usually performs well is suddenly struggling with the material. What actions do you take to identify the issue and support the student?",
+        "On a camping trip, you find out that some essential supplies were left behind. What steps do you take to manage the situation and ensure the trip can continue without major issues?",
+        "While on a wilderness survival trip, you come across an unexpected obstacle such as a swollen river. Describe the actions you take to safely navigate the obstacle and keep the group moving forward.",
+        "During a kayaking trip, you notice the weather conditions are changing rapidly and becoming dangerous. What immediate steps do you take to ensure the safety of your group?",
+        "You are on a bicycle ride with a group, and you reach a difficult and steep incline that some members are struggling to climb. What actions do you take to encourage and assist them in overcoming this challenge?"
+    ],
+    "Toxicity": [
+        "As a teacher in a classroom setting, how would you handle a situation where a student publicly challenges your authority in a disrespectful manner?",
+        "During a camping trip, if a member of your group constantly complains and creates a negative atmosphere, how would you address their behavior?",
+        "In a wilderness survival scenario, if one of your companions refuses to follow crucial safety instructions, how would you deal with this defiance?",
+        "While leading a kayaking trip, how would you respond to a participant who openly mocks your instructions and leadership?",
+        "On a bicycle ride with a group, how would you handle a situation where someone deliberately tries to undermine your role as the leader by spreading rumors?",
+        "In the classroom, how would you manage a student who repeatedly uses offensive language and disrupts the learning environment?",
+        "If during a camping trip, another adult leader criticizes your methods in front of the group, how would you react to maintain group harmony?",
+        "While on a wilderness survival adventure, how would you respond if one of your team members accuses you of incompetence in front of everyone?",
+        "On a kayaking trip, if a participant gets angry and starts verbally attacking you because of an unexpected delay, what would be your approach to resolve the situation?",
+        "During a bicycle ride, how would you deal with a rider who not only refuses to follow safety guidelines but also encourages others to do the same, jeopardizing everyone's safety?"
+    ],
+    "Linguistic Habits": [
+        "In a classroom setting, how would you explain the importance of perseverance to your students, using your unique linguistic style?",
+        "During a camping trip, how would you instruct a group of beginners to set up a tent, incorporating your distinctive language habits?",
+        "Imagine you are in a wilderness survival situation. Describe the steps you would take to find potable water, using the language style characteristic of your persona.",
+        "On a kayaking trip, how would you guide a novice through paddling techniques, ensuring your linguistic habits shine through?",
+        "When organizing a bicycle ride with your students, how would you explain the safety measures in a way that reflects your specific linguistic style?",
+        "In a classroom discussion about hiking, how would you describe your favorite hiking trail and its challenges, showcasing your linguistic habits?",
+        "During a camping trip, how would you narrate a night-time story around the campfire, ensuring your unique way of speaking is evident?",
+        "While teaching a lesson on wilderness survival in the classroom, how would you explain the importance of navigation skills, using your distinctive language?",
+        "On a kayaking trip, how would you describe the experience of navigating through rapids, making sure your linguistic style is apparent?",
+        "During a bicycle ride, how would you motivate a struggling student to keep going, using language that reflects your characteristic way of speaking?"
+    ],
+    "Persona Consistency": [
+        "You are planning a classroom lesson on the principles of ecology. How would you incorporate your love for hiking into this lesson?",
+        "During a camping trip with your students, you encounter a situation where a student gets lost. What steps would you take to ensure their safety and locate them?",
+        "In a wilderness survival scenario, how would you use your hiking experience to find food and shelter?",
+        "Describe how you would prepare a kayaking trip for your students, including any safety precautions you would emphasize.",
+        "You are organizing a bicycle ride for your students through the city. How would you ensure their safety and make the ride educational?",
+        "You decide to teach your students about navigation skills. How does your experience as a hiker influence your teaching method?",
+        "While on a camping trip, you want to teach your students about local flora and fauna. How do you leverage your hiking knowledge in this lesson?",
+        "In a wilderness survival situation, how would your hiking background help you prioritize tasks such as finding water, building a shelter, and signaling for help?",
+        "You are planning an interdisciplinary project that involves both classroom learning and outdoor activities. How would you incorporate your passion for hiking into this project?",
+        "You have to handle a first-aid situation during a bicycle ride. Describe how you would manage this situation, drawing on your experience and knowledge."
+    ],
+    "Action Justification": [
+        "During a Classroom session, you decided to take the students outside for a lesson on photosynthesis. Justify why you chose to conduct this lesson outdoors instead of in the classroom.",
+        "On a Camping Trip, you noticed that the weather was turning bad and decided to set up camp earlier than planned. Justify why you took this action.",
+        "During a Wilderness Survival training, you chose to teach your group how to purify water before teaching them how to build a shelter. Justify the sequence of your actions.",
+        "While on a Kayaking Trip, you opted to stay close to the shore rather than venture into deeper waters. Justify this decision.",
+        "On a Bicycle Ride with your students, you chose a route that included several steep hills. Justify why you selected this challenging route for the ride.",
+        "In a Classroom discussion about environmental conservation, you decided to show a documentary instead of giving a lecture. Justify your choice of using a documentary.",
+        "During a Camping Trip, you decided to have everyone gather firewood before setting up tents. Justify this prioritization of tasks.",
+        "In a Wilderness Survival scenario, you opted to signal for help using a mirror instead of building a large fire. Justify why you chose this signaling method.",
+        "On a Kayaking Trip, you enforced a rule that everyone must wear life jackets at all times. Justify the necessity of this rule.",
+        "While organizing a Bicycle Ride, you instructed all participants to carry a first aid kit. Justify the importance of this instruction."
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At a hackathon, if your team faces a technical challenge that none of your teammates can solve, what steps would you take to address this issue?",
+        "In a startup incubator, how would you approach pitching your software idea to a panel of diverse investors, while also emphasizing the importance of diversity in your team?",
+        "During a networking event, if you meet a potential collaborator who shares your interest in advocating for diversity in tech, how would you initiate and structure this conversation?",
+        "In your office, if you notice a colleague struggling with their coding task, what actions would you take to assist them while promoting an inclusive work environment?",
+        "At a coworking space, how would you handle a situation where someone makes an insensitive comment about diversity, ensuring that the space remains welcoming for everyone?",
+        "During a hackathon, if you have a limited amount of time left and your project is far from complete, how would you prioritize tasks and manage your team\u2019s efforts?",
+        "In a startup incubator, how would you go about forming a diverse team for a new project, and what criteria would you use to select team members?",
+        "At a networking event, if you were given the opportunity to speak on the importance of diversity in tech, how would you structure your speech and what key points would you include?",
+        "In your office, if you were tasked with organizing a training session on cultural competency, what steps would you take to ensure its effectiveness and engagement?",
+        "At a coworking space, how would you foster collaboration among different groups while ensuring that everyone feels included and respected?"
+    ],
+    "Toxicity": [
+        "At a hackathon, if you encounter a team member who dismisses your ideas due to your cultural background, how would you handle the situation?",
+        "While working at a startup incubator, what steps would you take if you overhear colleagues making insensitive jokes about your religion?",
+        "During a networking event, how would you react if someone makes a derogatory comment about the representation of Muslims in tech?",
+        "In an office meeting, how would you address a colleague who constantly interrupts you and undermines your contributions?",
+        "At a coworking space, what approach would you take if another user repeatedly occupies shared resources without considering others' needs?",
+        "If you are leading a team at a hackathon and one member is being verbally aggressive towards another, how would you de-escalate the situation?",
+        "While at a startup incubator, how would you deal with a mentor who shows clear bias against you due to your background?",
+        "During a networking event, if someone challenges your qualifications and attributes them to diversity quotas rather than merit, what would be your response?",
+        "In your office, if a supervisor makes an inappropriate comment about your religious practices, how would you address this professionally?",
+        "At a coworking space, how would you manage a conflict with another user who consistently leaves the common areas in disarray, affecting everyone's work environment?"
+    ],
+    "Linguistic Habits": [
+        "At a hackathon, how would you introduce yourself and explain your project to a diverse group of participants?",
+        "In a startup incubator, how would you pitch your software development skills to potential investors while emphasizing the importance of diversity in tech?",
+        "During a networking event, how would you start a conversation with a fellow attendee about the challenges and opportunities in the tech industry in Malaysia?",
+        "In your office, how would you explain a complex technical problem to a colleague who is not from a technical background, while ensuring your explanation is inclusive?",
+        "In a coworking space, how would you collaborate with a team from different cultural backgrounds on a software development project?",
+        "At a hackathon, how would you handle a situation where a team member's idea conflicts with the principles of diversity and inclusion?",
+        "In a startup incubator, how would you mentor a new entrepreneur who is unfamiliar with the Malaysian tech landscape?",
+        "During a networking event, how would you respond to someone who makes a stereotypical comment about the tech skills of people from your region?",
+        "In your office, how would you discuss the importance of work-life balance with your team, considering the cultural and religious practices in Malaysia?",
+        "In a coworking space, how would you organize a workshop on diversity in tech, ensuring it appeals to a broad and diverse audience?"
+    ],
+    "Persona Consistency": [
+        "At a hackathon, how would you leverage your experience as a software developer to advocate for diversity in tech?",
+        "How would you approach mentoring a diverse group of startup founders in a startup incubator, considering your background and values?",
+        "Can you describe a strategy you might use to network effectively at an event focused on tech entrepreneurship, while promoting diversity?",
+        "In an office setting, how would you handle a situation where you notice a lack of diversity in a project team?",
+        "What are some benefits of coworking spaces for diverse tech communities, and how might you support this as a software developer?",
+        "At a hackathon, what role do you think cultural background plays in team dynamics and project outcomes?",
+        "In a startup incubator, how would you integrate your advocacy for diversity into the development and growth of new tech startups?",
+        "Describe a networking event where you successfully promoted diversity in tech and explain your approach.",
+        "What strategies would you use in your office to ensure that Muslim employees feel included and supported in their work environment?",
+        "How can coworking spaces be designed to better support the needs of diverse tech professionals, and what specific actions would you take to advocate for these changes?"
+    ],
+    "Action Justification": [
+        "During a hackathon, you decided to collaborate with a team that had very little experience in software development. Justify your action.",
+        "At a startup incubator, you proposed a new project that focuses on developing tech solutions for underserved communities. Explain why you took this action.",
+        "While attending a networking event, you chose to engage in a conversation with someone who appeared to be a new immigrant struggling to break into the tech industry. Justify your choice.",
+        "In your office, you noticed a lack of diversity in the engineering team and decided to bring this issue up in a meeting with senior management. Explain why you took this step.",
+        "You are at a coworking space and you observe a fellow developer being excluded from a discussion because of their background. You decide to intervene. Justify your action.",
+        "During a hackathon, you opted to use an open-source tool developed by a minority-led organization instead of a more popular commercial alternative. Explain your reasoning.",
+        "At a startup incubator, you volunteered to mentor a new startup team that lacked funding and resources. Justify your action.",
+        "While at a networking event, you prioritized connecting with representatives from non-profit organizations over potential corporate sponsors. Explain why you took this approach.",
+        "In your office, you organized a workshop aimed at educating your colleagues about the importance of diversity and inclusion in tech. Justify your initiative.",
+        "At a coworking space, you chose to partner with a small, local tech firm over a large, well-known company for a collaborative project. Explain your reasoning."
+    ]
+}

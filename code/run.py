@@ -161,7 +161,7 @@ def score_rubrics(sys_prompt, scoring_prompt, num_evals=1):
     return sum(scores) / len(scores)
 
 
-# Full score examples for debugging purposes
+
 def gen_answers(persona, questions, model):
     task_to_qa = {}
 
@@ -200,12 +200,20 @@ def save_responses(persona, task_to_qa, model_name):
 
     with open(f'{dir}/{persona}_qa.json', 'w') as file:
         json.dump(task_to_qa, file, indent=4)
+
+def save_scores(save_name, scores):
+    dir = f"../scores"
+    if not os.path.exists(dir):
+        os.makedirs(dir)
+
+    with open(f'{dir}/{save_name}.json', 'w') as file:
+        json.dump(scores, file, indent=4)
       
       
 def load_questions(persona, saved_questions):
     dir = f"../questions/{saved_questions}"
     if not os.path.exists(dir):
-        print(f"No questions directory {saved_questions}")
+        print(f"No questions directory {dir}")
         exit(0)
     
     file_path = f'{dir}/{persona}.json'
@@ -271,10 +279,12 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", help="Model name to save results", default=None)
     parser.add_argument("--saved_questions", help="Path to load in generated questions", default=None)
     parser.add_argument("--saved_responses", help="Path to load in generated question-answer pairs", default=None)
-    parser.add_argument("--benchmark", type=str, help="flag for running benchmark", default="")
+    parser.add_argument("--benchmark", type=str, help="flag for running benchmark", default=None)
+    parser.add_argument("--save_name", type=str, help="unique name to identify saved scores", default="no_name_specified")
 
     args = parser.parse_args()
-    if len(args.benchmark) > 0:
+
+    if args.benchmark:
         persona_list = benchmark_personas
         saved_questions = args.benchmark
         saved_responses = None
@@ -284,13 +294,14 @@ if __name__ == "__main__":
         saved_responses = args.saved_responses
 
     results = {}
-    for i, persona in enumerate(args.persona_list):
+    for i, persona in enumerate(persona_list):
         scores = main(persona, args.model, args.model_name, saved_questions, saved_responses)
         results[persona] = scores["PersonaScore"]
-        logger.info(f'Done with {i + 1}/{len(args.persona_list)} personas')
+        logger.info(f'Done with {i + 1}/{len(persona_list)} personas')
     
     
     logger.info(results)
+    save_scores(args.save_name, scores)
     logger.info("Evaluation Done!")
     
 

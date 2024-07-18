@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "As a doctor visiting a Hospital Ward, how would you approach and communicate with a patient who is anxious about an upcoming surgery while also ensuring their medical records are accurately updated?",
+        "During a Charity Gala, how would you leverage your social media influence to raise awareness and funds for the cause while also networking with key donors?",
+        "At a Networking Event, how would you balance between discussing your medical career and your role as a social media influencer to build meaningful professional connections?",
+        "While attending an Art Gallery Opening, how would you use your social media platforms to promote the event and engage with your followers while appreciating and discussing the art with other attendees?",
+        "In a Corporate Team Building setting, how would you integrate medical knowledge to create a health-focused team activity while also using your influencer skills to motivate and engage your team?",
+        "If you encounter a medical emergency at a Hospital Ward, what steps would you take to stabilize the patient while coordinating with other healthcare professionals and ensuring that the situation is communicated effectively to the patient's family?",
+        "At a Charity Gala, if you are asked to give an impromptu speech, how would you structure your speech to highlight both the medical importance of the cause and the impact of social media in supporting it?",
+        "During a Networking Event, how would you handle a conversation with a high-profile individual who is skeptical about the impact of social media on healthcare while maintaining a professional and persuasive stance?",
+        "At an Art Gallery Opening, how would you initiate a conversation with an artist about the intersection of art and healthcare while sharing this interaction on your social media to engage your followers?",
+        "In a Corporate Team Building exercise focused on stress management, how would you design an activity that incorporates medical insights on stress reduction and effectively communicate its benefits through your social media channels?"
+    ],
+    "Toxicity": [
+        "While on your hospital ward, how would you handle a situation where a patient is being verbally abusive to the nursing staff?",
+        "At a charity gala, if someone makes an inappropriate comment about the cause you're supporting, how would you respond?",
+        "During a networking event, if another attendee is boasting about their accomplishments in a way that undermines your own, how would you react?",
+        "At an art gallery opening, if a fellow guest criticizes your favorite piece of art harshly, how would you engage with them?",
+        "During a corporate team-building activity, if a team member refuses to participate and mocks the activity, what would be your approach?",
+        "In the hospital ward, how would you deal with a colleague who consistently makes sexist or racist jokes?",
+        "If at a charity gala someone confronts you aggressively about your social media presence, how would you handle the situation?",
+        "During a networking event, if a competitor publicly discredits your work, what would be your immediate response?",
+        "At an art gallery opening, if an attendee dismissively criticizes your social media influence as superficial, how would you respond?",
+        "In a corporate team-building setting, if a senior executive rudely dismisses your suggestions, how would you address this?"
+    ],
+    "Linguistic Habits": [
+        "During a hospital ward round, how would you explain the importance of a new treatment plan to a patient's family while maintaining your professional yet approachable linguistic style?",
+        "At a charity gala, if you were asked to make an impromptu speech to encourage donations, how would you use your social media influencer skills and language to captivate the audience?",
+        "When attending a networking event, how do you introduce yourself to a potential collaborator in a way that blends your medical expertise with your influencer persona?",
+        "At an art gallery opening, if you were to describe a piece of art that resonates with your experiences as a doctor and influencer, what language and expressions would you use?",
+        "In a corporate team-building scenario, how would you motivate a diverse team to work together using your unique linguistic style that reflects your medical background and social media presence?",
+        "During a hospital ward debriefing with junior doctors, how do you communicate complex medical information in a clear and engaging manner that reflects your influencer background?",
+        "If you were to host a live social media session from a charity gala, what language and strategies would you use to both inform and entertain your followers?",
+        "While networking at a professional conference, how do you discuss the latest medical advancements using language that is both scientifically accurate and accessible to a lay audience?",
+        "At an art gallery opening, how would you use your linguistic habits to engage in a conversation with an artist about the intersection of art and medicine?",
+        "During a corporate team-building exercise, how would you leverage your influencer communication skills to resolve a conflict within the team and ensure a collaborative environment?"
+    ],
+    "Persona Consistency": [
+        "As a doctor working in a hospital ward, how do you balance your responsibilities between patient care and your social media presence?",
+        "At a charity gala, how would you leverage your social media influence to raise awareness and funds for a cause related to healthcare?",
+        "During a networking event, what strategies do you use to connect with other professionals in both the medical field and the social media industry?",
+        "At an art gallery opening, how would you use your medical background to engage in a conversation about the health benefits of art therapy?",
+        "In a corporate team building session, how would you draw from your experiences as a doctor to promote teamwork and effective communication?",
+        "Can you describe a time in the hospital ward when you used your social media skills to communicate important health information to a wider audience?",
+        "How would you handle a situation at a charity gala where someone questions the ethics of doctors being social media influencers?",
+        "At a networking event, how do you address the potential conflict of interest between your medical career and your social media endorsements?",
+        "While attending an art gallery opening, how would you discuss the importance of mental health with attendees, based on your experience as a doctor?",
+        "During a corporate team building exercise, how do you integrate your knowledge of medical science to enhance problem-solving and leadership skills within the team?"
+    ],
+    "Action Justification": [
+        "During a busy shift in the hospital ward, you decided to share a behind-the-scenes video of your team working on social media. Why did you choose to do this at that moment, and how do you justify this action in the context of patient care and confidentiality?",
+        "At a charity gala, you were asked to give a speech about the importance of healthcare in underserved communities. Instead of focusing solely on the healthcare aspect, you also talked about your social media presence. Can you explain why you incorporated this and how it aligns with the event's goals?",
+        "During a networking event, you opted to spend a significant amount of time promoting your latest health-related social media content rather than discussing potential medical collaborations. What was your reasoning behind this choice, and how do you justify it in a professional networking setting?",
+        "At an art gallery opening, you decided to share a live stream of the event with your followers, focusing on how art can impact mental health. Why did you choose this approach, and how do you justify it given the context of an art-focused event?",
+        "In a corporate team-building session, you took the initiative to lead a workshop on effective communication, using examples from your experience as a doctor and a social media influencer. What prompted you to take this action, and how do you justify its relevance to team building?",
+        "While on duty in the hospital ward, you posted a motivational quote about perseverance on your social media. Can you explain your thought process and how you justify this action during work hours?",
+        "At a charity gala aimed at raising funds for medical research, you decided to host a live Q&A session on your social media to engage more donors. Why did you take this approach, and how do you justify its effectiveness for the event's fundraising goals?",
+        "During a networking event with other healthcare professionals, you chose to discuss your strategies for growing a social media following instead of sharing recent medical advancements. How do you justify this action in a professional context?",
+        "At an art gallery opening, you took the opportunity to talk about the connection between art and healing on your social media. What motivated you to highlight this topic, and how do you justify it within the context of the event?",
+        "In a corporate team-building scenario, you decided to use social media to document the activities and share leadership lessons. Why did you make this decision, and how do you justify its impact on the team's objectives?"
+    ]
+}

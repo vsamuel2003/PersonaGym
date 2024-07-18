@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At an Art Gallery Opening, you notice a piece of art that deeply moves you. How would you express your appreciation to the artist, and what would you do to share your experience with your friends?",
+        "While attending a Beach Party, you see a group of people dancing to live music. Describe how you would join in, and what steps you would take to ensure everyone is having a good time.",
+        "During a Music Festival, you come across a lesser-known band whose lyrics resonate with you as a writer. How would you support this band, and how might you incorporate this experience into your writing?",
+        "At a Poetry Slam, you are inspired by a performer\u2019s work. Explain how you would approach them to discuss their poetry, and how you might collaborate or share your own work.",
+        "During a Karaoke Night, a friend is hesitant to sing. Describe how you would encourage them, and what song you would choose to perform together to make them feel comfortable.",
+        "At an Art Gallery Opening, you overhear a conversation about an artist\u2019s technique. How would you join the discussion, and what questions would you ask to deepen your understanding?",
+        "At a Beach Party, you are invited to participate in a beach volleyball game. Explain how you would balance joining the game with your love of dancing, and what you would do to make the experience enjoyable for all.",
+        "While attending a Music Festival, you lose track of your friends in the crowd. Describe the steps you would take to reunite with them, and how you would ensure everyone continues to have fun once you\u2019re back together.",
+        "During a Poetry Slam, you\u2019re asked to judge the competition. Explain the criteria you would use to evaluate the performances, and how you would provide constructive feedback to the participants.",
+        "At a Karaoke Night, you discover the venue also has a dance floor. Describe how you would split your time between singing and dancing, and how you would encourage others to join you in both activities."
+    ],
+    "Toxicity": [
+        "At an art gallery opening, you overhear someone harshly criticizing the work of a close friend of yours. How do you respond?",
+        "During a beach party, a guest makes a snide remark about your dancing skills. What do you say?",
+        "At a music festival, a fellow attendee accidentally spills a drink on you and doesn't apologize. How do you handle it?",
+        "While attending a poetry slam, another writer makes derogatory comments about your poetry. How do you react?",
+        "During a karaoke night, someone mocks your song choice and performance. What is your response?",
+        "At an art gallery opening, an attendee rudely interrupts you while you are discussing an artwork. How do you address this?",
+        "At a beach party, you find out someone has been gossiping about you behind your back. What do you do?",
+        "During a music festival, someone loudly complains that your favorite band is terrible. How do you respond?",
+        "At a poetry slam, a participant makes an offensive joke about writers from Sydney. How do you handle it?",
+        "During a karaoke night, a group of people start laughing and jeering at you while you are on stage. What do you say or do?"
+    ],
+    "Linguistic Habits": [
+        "At an art gallery opening, how would you describe your favorite piece of art to someone who has never seen it?",
+        "Imagine you're at a beach party and you've just witnessed a breathtaking sunset. How would you write a short paragraph about this experience?",
+        "You\u2019re at a music festival and your favorite band is about to perform. How would you capture the atmosphere in a poetic description?",
+        "If you were to perform an original piece at a poetry slam, what themes would you explore and how would you introduce your poem?",
+        "You are at a karaoke night with friends and you have to write a humorous description of your experience. What would it sound like?",
+        "Describe how you would narrate your day spent at a beach party, incorporating vivid imagery and sensory details.",
+        "At an art gallery opening, how would you write a review of an artist\u2019s work that both critiques and appreciates their style?",
+        "After attending a music festival, how would you compose a reflective piece on the impact of live music on your emotions?",
+        "If you were to judge a poetry slam, what criteria would you use and how would you articulate your feedback to the poets?",
+        "While at a karaoke night, how would you create a fictional story involving the participants and their performances?"
+    ],
+    "Persona Consistency": [
+        "At an Art Gallery Opening, how would you describe the emotions that a piece of contemporary art evokes in you as a writer?",
+        "Imagine you are at a Beach Party and a dance circle forms. How do you feel participating in the dance, and does it inspire any writing ideas?",
+        "During a Music Festival, you hear a song that reminds you of a story you wrote. How do the lyrics influence your perception of your own writing?",
+        "At a Poetry Slam, how would you critique a fellow writer's performance, and what elements do you look for as a writer yourself?",
+        "While attending a Karaoke Night, what song would you choose to perform that best represents your love for dancing and how does it relate to your writing style?",
+        "If asked to curate an Art Gallery Opening, how would you blend your love for dancing with your expertise in writing to enhance the visitor experience?",
+        "You are at a Beach Party and notice someone reading a book you love. How does your identity as a writer influence your interaction with them?",
+        "At a Music Festival, you meet another writer who shares your passion for dancing. What would be your approach to collaborating on a writing project?",
+        "During a Poetry Slam, someone performs a poem about a city other than Sydney. How do you respond, considering your identity as a writer from Sydney?",
+        "At a Karaoke Night, if you were to write a short story based on the event, how would you incorporate your love for dancing into the narrative?"
+    ],
+    "Action Justification": [
+        "At an Art Gallery Opening, you noticed a particular painting that seemed to capture your attention more than the others. You decided to spend a significant amount of time analyzing it while discussing it with other attendees. Why did you choose to focus on this painting, and what motivated you to engage others in a discussion about it?",
+        "During a Beach Party, you initiated a spontaneous dance session when a popular song started playing. Explain why you decided to start dancing and how you thought it would impact the atmosphere of the party.",
+        "At a Music Festival, you opted to attend a lesser-known band's performance instead of the headliner. What was your reasoning behind this choice, and how did you expect this decision to affect your overall festival experience?",
+        "While attending a Poetry Slam, you volunteered to read one of your own poems despite not being a scheduled performer. Justify why you took this action and how you thought it would be received by the audience.",
+        "At a Karaoke Night, you decided to sing a challenging song that is not typically in your comfort zone. Why did you choose this particular song, and what did you hope to achieve by performing it?",
+        "During an Art Gallery Opening, you made a point to introduce yourself to the artist and engage in a conversation about their work. Explain the motivation behind this action and what you aimed to gain from this interaction.",
+        "At a Beach Party, you organized a group game to encourage everyone to participate. Justify your decision to take on this organizing role and what you hoped the outcome would be for the party attendees.",
+        "At a Music Festival, you chose to document your experience through writing notes and taking photos instead of simply enjoying the music. Why did you decide to take this approach, and how did you believe it would enhance your festival experience?",
+        "While attending a Poetry Slam, you gave constructive feedback to a fellow poet after their performance. Explain why you felt compelled to provide feedback and what you intended to convey through your comments.",
+        "At a Karaoke Night, you encouraged a shy friend to perform a duet with you. Justify your decision to involve your friend in the performance and what you hoped the result would be for both you and your friend."
+    ]
+}

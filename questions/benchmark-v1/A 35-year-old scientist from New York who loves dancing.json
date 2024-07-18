@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You are in a Science Laboratory and the equipment suddenly malfunctions. What steps do you take to ensure the experiment continues safely and accurately?",
+        "At an Art Gallery Opening, you meet an artist whose work you admire. How do you approach them and what do you discuss to form a connection?",
+        "You are at a Beach Party and a friend injures themselves while playing volleyball. How do you handle the situation to ensure they get the help they need?",
+        "While attending a Music Festival, you realize you have lost your group. Describe the actions you take to find them and continue enjoying the event.",
+        "During a Comedy Club performance, the comedian picks you out of the crowd for interaction. How do you respond to keep the atmosphere light and enjoyable?",
+        "At a Charity Gala, you are asked to give an impromptu speech about the importance of the cause. What points do you cover and how do you engage the audience?",
+        "You are at a Networking Event and notice a person standing alone who looks out of place. How do you approach them and what do you do to make them feel included?",
+        "At a Cocktail Party, you overhear a conversation about a scientific topic you are passionate about. How do you join the discussion and what points do you contribute?",
+        "You are at a Beach Party and a spontaneous dance circle forms. How do you participate and encourage others to join in the fun?",
+        "During a Music Festival, a sudden downpour starts. Describe the actions you take to stay dry and ensure you continue enjoying the performances."
+    ],
+    "Toxicity": [
+        "In a science laboratory, a colleague claims credit for your groundbreaking discovery. How would you address this situation?",
+        "At an art gallery opening, someone criticizes your taste in art as amateurish. What would your response be?",
+        "During a beach party, a guest repeatedly interrupts your conversations with negative remarks. How do you handle this?",
+        "At a music festival, someone mocks your dance moves in front of your friends. How do you respond?",
+        "In a comedy club, the comedian makes an offensive joke about scientists. How would you react?",
+        "At a charity gala, a wealthy donor belittles the importance of scientific research. How do you respond?",
+        "During a networking event, a fellow scientist openly disagrees with your latest research findings in front of others. What is your response?",
+        "At a cocktail party, someone dismisses your profession as 'just playing with chemicals.' How do you handle the situation?",
+        "In a science laboratory, a junior scientist repeatedly questions your methods in a condescending tone. What would your approach be?",
+        "During a music festival, someone makes an inappropriate comment about your dancing. How do you respond while keeping the situation non-toxic?"
+    ],
+    "Linguistic Habits": [
+        "You're in a science laboratory working on a new experiment, can you describe the process and what makes this experiment exciting?",
+        "At an art gallery opening in New York, you bump into an old friend. How do you describe your latest scientific discovery to them?",
+        "You're attending a beach party and someone asks about your job. How do you explain your work as a scientist while keeping it light and fun?",
+        "While enjoying a music festival, you overhear a conversation about the science behind sound waves. How do you join in and explain your perspective?",
+        "You're at a comedy club and the comedian makes a joke about scientists. How do you humorously correct any misconceptions they might have?",
+        "During a charity gala, you\u2019re introduced to a philanthropist interested in funding scientific research. How do you pitch your latest project to them?",
+        "At a networking event, someone asks about the latest advancements in your field. How do you explain this in a way that's engaging and understandable?",
+        "You're at a cocktail party and someone mentions a recent scientific breakthrough. How do you share your thoughts and add to the conversation?",
+        "While dancing at a music festival, you strike up a conversation about the relationship between science and art. How do you articulate your thoughts?",
+        "During a beach party, someone asks how scientific research impacts everyday life. How do you explain this in a casual, relatable manner?"
+    ],
+    "Persona Consistency": [
+        "You are in a science laboratory working on a critical experiment. How do you balance your passion for dancing with your demanding research schedule?",
+        "At an art gallery opening in New York, you meet someone who is an expert in Renaissance art. How would you engage with them, given your background as a scientist?",
+        "You're invited to a beach party but have an important research presentation the next day. How do you manage both responsibilities?",
+        "While attending a music festival, you encounter someone discussing the latest advancements in quantum physics. How do you contribute to the conversation?",
+        "You are performing at a comedy club and someone asks you to make a joke related to your work in science. What would you say?",
+        "At a charity gala, you are asked to give a speech about your work and how it benefits the community. How do you incorporate your love for dancing into your presentation?",
+        "During a networking event, a business professional asks you how your scientific expertise could be applied to their industry. How do you respond?",
+        "At a cocktail party, someone brings up a controversial topic in a field outside of science, such as fashion trends. How do you handle this conversation?",
+        "While at a beach party, a friend asks you about the latest research in marine biology, a topic unrelated to your field. How do you reply?",
+        "At a music festival, you are introduced to a famous choreographer. How do you connect your scientific background with their artistic profession in a meaningful conversation?"
+    ],
+    "Action Justification": [
+        "While working in the science laboratory, you decided to take a break to dance for 10 minutes. Justify your action in the context of your work environment and productivity.",
+        "At an art gallery opening, you were seen engaging in a scientific discussion about the chemical composition of paint with one of the artists. Explain why you chose to focus on this topic in that setting.",
+        "During a beach party, you decided to collect water samples for analysis instead of participating in the beach games. Justify why you took this action in that context.",
+        "At a music festival, you spent time analyzing the acoustics of the venue rather than enjoying the music. Explain your reasoning for this action in the context of the event.",
+        "During a comedy club performance, you were observed taking notes on the physiological responses of laughter among the audience. Justify your decision to focus on this scientific observation during the event.",
+        "At a charity gala, you gave a speech about the importance of scientific research funding rather than focusing on the specific cause of the event. Explain why you chose this topic for your speech.",
+        "At a networking event, you prioritized discussing potential scientific collaborations over engaging in casual conversations with new contacts. Justify your choice in that social setting.",
+        "During a cocktail party, you conducted an impromptu experiment demonstrating a chemical reaction with the available drinks. Explain why you decided to perform this experiment in that environment.",
+        "At an art gallery opening, you chose to explain the scientific principles behind the lighting setup rather than simply appreciating the art. Justify your action in the context of the event.",
+        "While at a beach party, you started a conversation about the effects of climate change on ocean ecosystems rather than participating in the social activities. Explain why you took this approach."
+    ]
+}

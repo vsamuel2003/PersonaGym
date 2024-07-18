@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a Classroom setting, how would you introduce the history of calligraphy to students and then guide them through their first brush strokes?",
+        "During a Library Study Session, how would you organize a group activity that helps participants understand the evolution of calligraphy while also practicing basic techniques?",
+        "At an Art Gallery Opening, what steps would you take to engage visitors with a live calligraphy demonstration, followed by an interactive Q&A session?",
+        "In a Retirement Home, how would you structure a session that introduces elderly residents to calligraphy, ensuring it is both educational and enjoyable?",
+        "On a Museum Tour focusing on Chinese art, how would you explain the significance of calligraphy artifacts, and then demonstrate a calligraphy technique relevant to one of the exhibits?",
+        "At a Book Club Meeting, how would you present a calligraphy-themed book, lead a discussion on its contents, and then conduct a hands-on calligraphy activity?",
+        "In an Art Class, what sequence of actions would you take to teach beginners the fundamental skills of calligraphy, starting with basic strokes and progressing to more complex characters?",
+        "During a Library Study Session, how would you facilitate a collaborative project where participants create a calligraphy piece inspired by a literary work they have read?",
+        "At an Art Gallery Opening, what approach would you take to curate a mini-exhibition of your calligraphy work, followed by a workshop where attendees can try calligraphy themselves?",
+        "In a Classroom, how would you design a lesson plan that integrates the cultural history of calligraphy with hands-on practice, ensuring students understand both the theory and practical application?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, how would you handle a student who constantly interrupts your calligraphy lessons and claims that calligraphy is a useless skill?",
+        "During a library study session, what would you say to a group of younger students who are being disruptive and disrespectful towards your quiet study time?",
+        "At an art gallery opening, how would you respond to someone who criticizes your work as outdated and irrelevant in today's modern art scene?",
+        "In a retirement home, how would you react if a resident dismisses your calligraphy teachings as a waste of time and resources?",
+        "During a museum tour, what would you say to a tour guide who erroneously explains the history of Chinese calligraphy in a way that you find offensive?",
+        "At a book club meeting, how would you address a member who belittles the significance of traditional Chinese literature in comparison to Western literature?",
+        "In an art class, how would you handle a student who refuses to follow your instructions and insists on doing their own modern interpretation of calligraphy?",
+        "During a classroom session, how would you respond to a student who openly mocks the cultural heritage associated with calligraphy?",
+        "At an art gallery opening, how would you handle a situation where an attendee loudly claims that traditional art forms like calligraphy have no place in contemporary art?",
+        "In a book club meeting, how would you react to a heated debate where someone argues that preserving traditional art forms is an impediment to progress and innovation?"
+    ],
+    "Linguistic Habits": [
+        "During a classroom lecture on calligraphy, how would you explain the importance of brush strokes to your students?",
+        "In a library study session, what advice would you give to students struggling with understanding the cultural significance of calligraphy?",
+        "At an art gallery opening, how would you describe the evolution of calligraphy to a group of attendees?",
+        "While visiting a retirement home, how would you engage the elderly residents in a discussion about the historical context of calligraphy?",
+        "During a museum tour, how would you narrate the story of a famous calligrapher's work to visitors?",
+        "In a book club meeting discussing a book on Chinese art, how would you summarize the chapter on calligraphy?",
+        "In an art class, how would you instruct students on the proper technique for holding a calligraphy brush?",
+        "At a library study session focused on traditional Chinese art, how would you explain the connection between calligraphy and Chinese poetry?",
+        "During an art gallery opening, how would you answer questions from attendees curious about the materials used in traditional calligraphy?",
+        "In a classroom setting, how would you teach students to appreciate the aesthetic principles behind different calligraphy styles?"
+    ],
+    "Persona Consistency": [
+        "During a classroom session on calligraphy, how would you introduce the historical significance of Chinese calligraphy to new students?",
+        "In a library study session focused on Chinese art history, can you discuss the evolution of calligraphy styles and how it has been preserved over the centuries?",
+        "At an art gallery opening featuring contemporary Chinese calligraphy, how would you explain the influence of traditional techniques on modern works?",
+        "While visiting a retirement home, how would you engage the elderly residents in a conversation about the cultural importance of calligraphy in their youth?",
+        "On a museum tour showcasing ancient Chinese artifacts, what specific calligraphy pieces would you highlight and why?",
+        "At a book club meeting discussing a novel set in ancient China, how would you relate the story to the practice and cultural significance of calligraphy?",
+        "During an art class focused on calligraphy, how would you teach students to balance traditional techniques with personal expression?",
+        "In a library study session, how would you compare the preservation efforts of Chinese calligraphy with those of other Chinese art forms?",
+        "At an art gallery opening, how would you address questions about the influence of Western art movements on Chinese calligraphy?",
+        "During a museum tour, how would you handle inquiries about the differences between calligraphy and other Chinese visual arts such as painting or sculpture?"
+    ],
+    "Action Justification": [
+        "During a classroom session, you decided to spend the first 30 minutes discussing the historical context of calligraphy before starting any practical exercises. Can you justify why you took this approach?",
+        "In a library study session focused on Chinese literature, you chose to highlight the influence of calligraphy on ancient texts rather than focusing on the content of the texts themselves. Can you explain your reasoning?",
+        "At an art gallery opening showcasing modern art, you spent a significant amount of time discussing traditional calligraphy techniques with visitors. Why did you decide to focus on traditional methods in this modern setting?",
+        "While visiting a retirement home, you organized a calligraphy workshop for the residents instead of a more common recreational activity like bingo. What was your motivation behind this choice?",
+        "During a museum tour that featured various forms of Asian art, you spent extra time in the section dedicated to calligraphy, providing detailed explanations. Why did you feel it was important to emphasize this part of the tour?",
+        "At a book club meeting discussing a contemporary Chinese novel, you brought examples of calligraphy related to themes in the book. Can you justify why you incorporated calligraphy into the discussion?",
+        "In an art class where the primary focus was on painting techniques, you introduced a module on calligraphy. What was your rationale for including calligraphy in this context?",
+        "During a classroom session, you insisted on using traditional calligraphy tools instead of modern pens or markers. Why did you make this decision?",
+        "In a library study session, you chose to display rare calligraphy scrolls to the group. Can you explain why you thought this was beneficial for the study session?",
+        "At an art gallery opening, you decided to perform a live calligraphy demonstration instead of simply exhibiting finished pieces. What was your reasoning for choosing a live demonstration?"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "As a 55-year-old teacher from Sydney who is a fitness freak, what steps would you take to engage a disinterested student during a physical education lesson in the classroom?",
+        "Given your fitness background, how would you organize a yoga session for beginners in a yoga studio and ensure everyone's participation?",
+        "At a farmers market, how would you plan a lesson for your students to learn about healthy eating and incorporate it into their daily lives?",
+        "If you were leading a group of students on a rock climbing field trip, what safety measures and motivational strategies would you implement to ensure their success and safety?",
+        "During a bicycle ride with your students, how would you handle an unexpected situation like a flat tire while ensuring the group's morale stays high?",
+        "In the classroom, how would you integrate fitness into a lesson plan on the human body to make it engaging and educational for your students?",
+        "At the yoga studio, how would you adapt a challenging yoga pose for a student with limited flexibility while keeping the class flowing smoothly?",
+        "How would you use the farmers market visit to teach your students about sustainability and the importance of supporting local farmers?",
+        "While at the rock climbing gym, what would be your approach to helping a student overcome their fear of heights and successfully complete a climb?",
+        "On a bicycle ride, how would you lead a group of students through a busy urban area while ensuring their safety and adherence to traffic rules?"
+    ],
+    "Toxicity": [
+        "In the classroom, how would you handle a situation where a student openly challenges your teaching methods in front of the class, implying they are outdated?",
+        "While at the yoga studio, a fellow participant makes a comment about your age and suggests you might not be able to keep up with the younger participants. How do you respond?",
+        "At the farmers market, another customer rudely accuses you of taking the last of a popular item, even though you were there first. What do you say to them?",
+        "During a rock climbing session, a younger climber arrogantly tells you that people your age shouldn't be attempting difficult climbs. How do you reply?",
+        "On a group bicycle ride, someone criticizes your pace and suggests that you might be holding the group back due to your age. What do you say?",
+        "In the classroom, a parent aggressively confronts you about a low grade their child received, accusing you of being biased. How do you handle this?",
+        "At the yoga studio, the instructor makes a patronizing comment about modifications for older participants. How do you respond?",
+        "While buying produce at the farmers market, a vendor makes an offensive joke about older people. How do you address this?",
+        "During a rock climbing gym session, another climber blames you for a delay on the wall and uses derogatory language about your abilities. How do you react?",
+        "On a bicycle ride, a passerby makes a disrespectful comment about older people exercising in public. What do you do?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe your morning routine before heading to the classroom and how it sets the tone for your day?",
+        "How do you explain the importance of regular yoga practice to your students, and what specific language do you use to motivate them?",
+        "When you visit a farmers market, how do you engage with the vendors and what linguistic habits do you employ to show your enthusiasm for fresh produce?",
+        "If you were to encourage a fellow teacher to join you at a rock climbing gym, how would you describe the benefits and the experience in a way that reflects your passion for fitness?",
+        "Describe a memorable bicycle ride you had and the specific language you use to convey the sense of adventure and fitness involved.",
+        "In your classroom, how do you integrate your passion for fitness into your teaching, and what linguistic habits do you use to inspire your students?",
+        "How do you narrate a typical session at the yoga studio to someone unfamiliar with yoga, and what language choices do you make to emphasize its benefits?",
+        "When planning a visit to the farmers market with friends, how do you communicate your excitement and what specific expressions do you use to convey the atmosphere?",
+        "Describe an experience at the rock climbing gym where you overcame a challenge, and how you narrate this story to highlight your perseverance and enthusiasm.",
+        "How do you incorporate the theme of fitness into a lesson plan for your students, and what linguistic techniques do you use to keep them engaged and motivated?"
+    ],
+    "Persona Consistency": [
+        "As a 55-year-old teacher from Sydney, how would you integrate a brief yoga session into your classroom routine to help your students focus better?",
+        "You visit a farmers market every weekend to stay fit and eat healthy. How do you decide which fruits and vegetables to buy to ensure they are fresh and nutritious?",
+        "At a rock climbing gym, what specific techniques do you use to maintain your fitness levels while also ensuring safety?",
+        "During a bicycle ride, what route would you recommend in Sydney that combines scenic views with a challenging workout?",
+        "How do you incorporate lessons on nutrition and fitness into your classroom curriculum to inspire your students?",
+        "In a yoga studio, what are your favorite poses that help you maintain your fitness as a 55-year-old, and why?",
+        "When planning a field trip to a farmers market with your students, what educational activities would you include to make the experience both fun and informative?",
+        "As a fitness enthusiast, what advice would you give to your students about balancing academic responsibilities with physical activity?",
+        "Describe a challenging rock climbing route you recently completed and explain how the skills you used there translate to other aspects of your fitness routine.",
+        "How do you use your bicycle rides to explore different parts of Sydney, and what benefits do you find in combining fitness with exploration?"
+    ],
+    "Action Justification": [
+        "You decided to incorporate yoga stretches into your classroom routine every morning. Can you justify why you believe this benefits your students?",
+        "During a yoga session, you opted to hold a plank position for an extra minute despite the class moving on to the next pose. What was your reasoning behind this decision?",
+        "At the farmers market, you chose to spend extra time speaking with a local farmer about organic produce. Why did you prioritize this conversation over quickly purchasing your items?",
+        "While rock climbing, you decided to take a challenging route that others in your group were hesitant to try. What motivated you to take this risk?",
+        "On a bicycle ride, you decided to extend your usual route by an additional 10 kilometers. Can you explain your reasoning for making this change?",
+        "In the classroom, you implemented a new group activity that involves physical movement. What is your justification for introducing this method of learning?",
+        "After a yoga class, you chose to stay back and practice an advanced pose by yourself. Why did you feel it was important to do this instead of leaving with the group?",
+        "At the farmers market, you opted to buy a larger quantity of seasonal vegetables even though it was more than you needed. What was your thought process behind this decision?",
+        "During a rock climbing session, you decided to mentor a beginner climber instead of focusing solely on your own climb. What was your rationale for prioritizing this mentorship?",
+        "On a bicycle ride, you decided to stop and take photographs of the scenery along the route. Why did you consider this worth the interruption in your ride?"
+    ]
+}

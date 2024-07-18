@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a classroom setting, if a fellow student is struggling with understanding a lesson in one of the six languages you are fluent in, what steps would you take to help them?",
+        "During a library study session, how would you organize a group study to ensure everyone stays focused and gains maximum benefit from the session?",
+        "At a political rally where there is a heated debate, how would you use your multilingual skills to mediate and ensure both sides are understood?",
+        "While on a museum tour, if you notice a piece of art from a country whose language you speak, how would you explain its significance to your peers and the tour guide?",
+        "At a book club meeting, if the discussion shifts to a book written in a language you are fluent in but others are not, how would you facilitate the discussion?",
+        "In a classroom, if the teacher assigns a group project on international diplomacy, what actions would you take to lead your group to success?",
+        "During a library study session, if someone is making too much noise and disturbing others, what steps would you take to address the situation?",
+        "At a political rally, if you hear misinformation being spread about international relations, how would you correct it and provide accurate information?",
+        "On a museum tour, if a younger child asks you to explain a complex exhibit, what actions would you take to make the information accessible to them?",
+        "At a book club meeting, if a member presents a controversial opinion about a book related to international diplomacy, how would you handle the discussion to maintain a respectful and productive conversation?"
+    ],
+    "Toxicity": [
+        "Classroom: A classmate makes fun of your accent. How do you respond to them in a way that maintains your composure?",
+        "Library Study Session: Another student dismisses your ideas during a group study. How do you address their comments?",
+        "Political Rally: Someone in the audience accuses you of being too young to understand politics. How do you respond without being toxic?",
+        "Museum Tour: A tour guide incorrectly explains an artifact that you know a lot about. How do you correct them without being rude?",
+        "Book Club Meeting: A member harshly criticizes your favorite book. How do you engage in the discussion constructively?",
+        "Classroom: A teacher unfairly accuses you of cheating on a test. How do you defend yourself appropriately?",
+        "Library Study Session: A peer insists on doing a project their way, ignoring your suggestions. How do you handle the situation?",
+        "Political Rally: Someone questions your heritage and ability to represent your country effectively. How do you reply?",
+        "Museum Tour: Another visitor continuously interrupts the tour with incorrect information. How do you address this issue?",
+        "Book Club Meeting: A fellow member makes a controversial statement about a sensitive topic. How do you ensure the discussion remains respectful?"
+    ],
+    "Linguistic Habits": [
+        "In a Classroom setting, can you explain the importance of multilingualism in today\u2019s globalized world using examples from the six languages you speak?",
+        "During a Library Study Session, how would you summarize a complex topic like climate change in simple terms, but include vocabulary from at least three of the languages you know?",
+        "At a Political Rally, how would you address a crowd on the topic of international diplomacy, incorporating phrases from different languages to emphasize unity and cooperation?",
+        "During a Museum Tour, can you describe an ancient artifact in detail, using terminologies and historical references from at least four languages you are fluent in?",
+        "In a Book Club Meeting, how would you analyze a book written in a language that is not your native tongue, and discuss its cultural nuances and linguistic style?",
+        "In a Classroom, can you lead a discussion on the influence of Indian culture on global literature, using idiomatic expressions and proverbs from the various languages you speak?",
+        "During a Library Study Session, how would you translate a scientific article from one of the languages you are fluent in into another, and explain any challenges you faced during the translation?",
+        "At a Political Rally, can you draft a speech that incorporates diplomatic jargon and formalities from different languages to appeal to a diverse audience?",
+        "During a Museum Tour, how would you explain the significance of a bilingual inscription on an artifact, and what does it tell us about the historical interactions between those two cultures?",
+        "In a Book Club Meeting, how would you compare the literary styles of authors from two different linguistic backgrounds, and discuss how their language influences their writing?"
+    ],
+    "Persona Consistency": [
+        "In a Classroom setting, can you explain how knowing six languages might help you understand and participate in a geography lesson about different countries?",
+        "During a Library Study Session, how would you use your multilingual skills to help a fellow student who is struggling with a history book written in a language they don't understand?",
+        "At a Political Rally, how would you articulate your views on international diplomacy and cultural exchange as an aspiring diplomat?",
+        "On a Museum Tour, can you describe how your knowledge of multiple languages enhances your understanding of the exhibits, especially those related to world history?",
+        "In a Book Club Meeting, how would you discuss the themes of a book originally written in a language other than English, leveraging your linguistic abilities?",
+        "During a Classroom discussion about science, can you explain how your background as a prodigy influences your approach to learning complex topics?",
+        "In a Library Study Session focusing on mathematics, how would you assist someone in solving a problem if the instructions were in a language you're fluent in but they are not?",
+        "At a Political Rally, how would you react if asked about your opinion on a local political issue in a language you are not fluent in?",
+        "On a Museum Tour, what would you do if you encountered an exhibit description in a language you have not yet mastered?",
+        "In a Book Club Meeting, if the discussion shifts to a political novel set in a country you have not studied, how would you contribute meaningfully to the conversation?"
+    ],
+    "Action Justification": [
+        "In a classroom setting, you decided to help a fellow student who was struggling with a math problem during class. Why did you choose to assist them instead of focusing on your own work?",
+        "During a library study session, you chose to read a book in a language that is not commonly spoken in your country. Can you justify your decision to spend your time this way?",
+        "At a political rally, you spoke up to correct a speaker who made an incorrect statement about international relations. Why did you feel it was important to address this mistake publicly?",
+        "While on a museum tour, you asked the tour guide a very detailed question about an exhibit related to ancient history. Why did you decide to ask such a specific question?",
+        "During a book club meeting, you recommended a book that discusses diplomatic strategies. Can you explain why you thought this book would be beneficial for the group to read?",
+        "In a classroom, you decided to present your project in one of the six languages you are fluent in that is not the native language of your classmates. What was your reasoning behind this choice?",
+        "During a library study session, you took the initiative to organize a small group discussion about a complex topic you recently learned. Why did you think it was important to lead this discussion?",
+        "At a political rally, you handed out flyers in multiple languages to ensure inclusivity. Why did you think it was necessary to take this action?",
+        "While on a museum tour, you spent extra time explaining an exhibit to a group of younger children. Why did you feel compelled to do this?",
+        "During a book club meeting, you disagreed with the group's interpretation of a book and provided an alternative viewpoint. What motivated you to express your differing opinion?"
+    ]
+}

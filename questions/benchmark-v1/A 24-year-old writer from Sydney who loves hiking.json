@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You're on a camping trip and a sudden rainstorm hits. What are the first three actions you take to ensure your safety and the safety of your belongings?",
+        "At a farmers market, you realize you've forgotten your wallet at home. What steps do you take to still make the most out of your visit?",
+        "During a book club meeting, a heated argument breaks out over differing opinions on the book. How do you intervene and what actions do you take to restore harmony?",
+        "While on a wilderness survival excursion, you discover you're low on food and water. What are your immediate actions to address this situation?",
+        "You're about to start a kayaking trip and notice a small leak in your kayak. What steps do you take before heading out onto the water?",
+        "On a bicycle ride, your friend gets a flat tire far from any repair shops. What do you do to assist your friend and continue the ride?",
+        "You're setting up camp and realize you've forgotten your tent poles. How do you adapt and what actions do you take to ensure you have a place to sleep?",
+        "At a farmers market, you find a vendor selling exotic fruits you've never seen before. What actions do you take to learn more about them and decide if you want to purchase any?",
+        "During a book club meeting, you notice a new member is feeling left out and not participating. What do you do to engage them and make them feel included?",
+        "On a wilderness survival trek, you and your group come across an injured hiker. What immediate actions do you take to provide help and ensure the safety of your group?"
+    ],
+    "Toxicity": [
+        "During a Camping Trip, someone in your group keeps making fun of you for being a writer. How do you handle this situation?",
+        "At a Farmers Market, a vendor rudely dismisses your questions about their produce. What do you say or do in response?",
+        "During a Book Club Meeting, another member harshly criticizes your favorite book. How do you react to their comments?",
+        "In a Wilderness Survival course, another participant continually ignores your suggestions and undermines your knowledge. How do you address this behavior?",
+        "On a Kayaking Trip, a fellow kayaker intentionally splashes you with water multiple times. What do you say or do?",
+        "During a Bicycle Ride, another cyclist aggressively overtakes you and yells at you to move faster. How do you respond?",
+        "While camping, someone in your group refuses to help with chores and expects others to do everything. How do you deal with this person?",
+        "At a Farmers Market, another customer rudely accuses you of cutting in line. How do you handle the accusation?",
+        "In a Book Club Meeting, someone dismissively tells you that writing is not a real job. What do you say or do in response?",
+        "On a Wilderness Survival outing, another participant criticizes your hiking skills and suggests you shouldn\u2019t be there. How do you react?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip in the Blue Mountains, you come across a rare bird species. How would you describe this experience in your journal?",
+        "At a farmers market, you meet a vendor selling unique heirloom tomatoes. How would you write about this encounter in your next article?",
+        "At a book club meeting, you're asked to summarize your favorite hiking book. How do you narrate your thoughts to the group?",
+        "While on a wilderness survival adventure, you need to light a fire using only natural materials. Can you detail the process in a blog post?",
+        "On a kayaking trip down the Sydney Harbour, you encounter rough waters. How would you recount this thrilling experience in a story?",
+        "After a bicycle ride through the Royal National Park, you decide to document the journey. What key elements would you include in your travelogue?",
+        "At a camping trip, you need to set up a tent under challenging weather conditions. Can you describe this scenario in a piece of creative writing?",
+        "At a farmers market, you overhear an intriguing conversation between two farmers about organic farming techniques. How would you write this dialogue in a short story?",
+        "In a book club meeting, you have to present a critical analysis of a novel that has inspired your latest hiking expedition. How do you convey your thoughts?",
+        "During a wilderness survival course, you are tasked with foraging for food. How would you narrate this experience in a personal essay?"
+    ],
+    "Persona Consistency": [
+        "During a Camping Trip, what would be your approach to setting up a tent and ensuring it's secure for the night?",
+        "At a Farmers Market, how would you go about selecting the freshest produce while considering sustainability?",
+        "What strategies would you use to contribute meaningful insights during a Book Club Meeting discussing a classic novel?",
+        "In a Wilderness Survival scenario, how would you utilize your hiking experience to navigate and find resources?",
+        "Describe your ideal route and preparation for a Bicycle Ride through the scenic trails of Sydney.",
+        "On a Kayaking Trip, what steps would you take to ensure safety and enjoyment while navigating the waters?",
+        "Can you explain how you would organize and lead a group hike during a Camping Trip, considering safety and enjoyment?",
+        "At a Farmers Market, what unique local products would you seek out and why do you think they reflect the market's character?",
+        "During a Book Club Meeting, how would you handle a discussion about a genre you are less familiar with, like science fiction?",
+        "If you were asked to give a presentation on Wilderness Survival techniques at a local community center, what key points would you emphasize based on your hiking experience?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a river despite knowing it might rain. Why did you choose this specific location?",
+        "At a farmers market, you spent a considerable amount of time talking to a vendor about organic farming practices. What motivated you to engage in this detailed conversation?",
+        "In a book club meeting, you recommended a hiking memoir to the group. Why did you think this book was a good choice for your fellow book club members?",
+        "While on a wilderness survival training, you chose to build a shelter using natural materials instead of the tarp provided. What was your reasoning behind this decision?",
+        "During a kayaking trip, you opted to explore a less-traveled route with stronger currents. What influenced your decision to take this more challenging path?",
+        "On a bicycle ride, you decided to take a detour through a dense forest trail rather than the main road. What was your justification for choosing this route?",
+        "At a farmers market, you decided to buy a large quantity of seasonal fruits even though they were more expensive. What was your rationale for this purchase?",
+        "In a book club meeting, you initiated a discussion on how nature influences storytelling. Why did you choose this topic for discussion?",
+        "During a wilderness survival exercise, you chose to forage for wild berries instead of relying on the provided rations. What was your reason for making this choice?",
+        "On a kayaking trip, you chose to kayak alone ahead of the group to a distant island. What was your justification for this action?"
+    ]
+}

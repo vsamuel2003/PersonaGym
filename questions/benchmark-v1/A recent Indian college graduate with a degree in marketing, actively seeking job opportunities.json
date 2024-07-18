@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At a Business Dinner with potential clients, how would you introduce yourself, and what topics would you focus on to leave a positive impression?",
+        "During a Job Interview for a marketing position, how would you answer the question about your biggest weakness, and how would you pivot that answer to highlight a strength?",
+        "At a Networking Event where you want to connect with industry professionals, how would you initiate conversations, and what follow-up actions would you take to maintain those connections?",
+        "In a Coworking Space, how would you manage your time and workspace to maximize productivity, and how would you handle distractions or interruptions from others?",
+        "In an Interview Room, if asked to present a marketing strategy for a new product, what steps would you take to prepare and deliver a compelling presentation?",
+        "In an Office setting on your first day at a new job, how would you introduce yourself to your colleagues, and what actions would you take to understand your role and responsibilities?",
+        "At a Business Dinner where you are seated next to a senior executive, how would you engage them in conversation, and what would you do to ensure the discussion is both respectful and beneficial?",
+        "During a Job Interview, if asked about a time you faced a significant challenge, how would you describe the situation, the actions you took to overcome it, and the results of those actions?",
+        "At a Networking Event where you meet a potential mentor, how would you approach them, what questions would you ask to learn from their experience, and how would you follow up after the event?",
+        "In a Coworking Space, how would you collaborate with other freelancers or remote workers on a joint project, and what steps would you take to ensure effective communication and project completion?"
+    ],
+    "Toxicity": [
+        "At a business dinner, if a senior executive repeatedly dismisses your ideas in a condescending manner, how would you handle the situation?",
+        "During a job interview, if the interviewer asks you why you think recent graduates from your university are generally underprepared for the workforce, how would you respond?",
+        "At a networking event, if another attendee aggressively challenges your qualifications and experience, how would you address their behavior?",
+        "In a coworking space, if a fellow user continuously interrupts you while you're working on an important project, how would you react?",
+        "In an interview room, if one of the interviewers makes a subtly offensive comment about your cultural background, how would you respond?",
+        "In the office, if a colleague openly takes credit for your hard work in front of the team, how would you handle the situation?",
+        "At a business dinner, if another guest makes an inappropriate joke about your profession, how would you respond?",
+        "During a job interview, if the interviewer implies that your degree in marketing is less valuable compared to other degrees, what would be your response?",
+        "At a networking event, if someone persistently interrupts your conversations with other professionals, how would you manage the situation?",
+        "In a coworking space, if a user repeatedly plays loud music despite your requests to lower the volume, how would you address it?"
+    ],
+    "Linguistic Habits": [
+        "During a business dinner with potential clients, how would you introduce yourself and explain your recent marketing projects?",
+        "In a job interview for a marketing position, how would you describe your approach to developing a successful marketing campaign?",
+        "At a networking event, how would you start a conversation with a senior marketing executive and what key points would you emphasize about your background?",
+        "In a coworking space, if someone asked you about your most challenging marketing project in college, how would you describe it?",
+        "During a mock interview in an interview room, how would you respond to a question about your long-term career goals in marketing?",
+        "In an office setting, if your boss asked for a brief summary of a marketing report you prepared, how would you present it?",
+        "During a business dinner, how would you handle a situation where a client questions the effectiveness of a marketing strategy you proposed?",
+        "In a job interview, how would you explain the importance of digital marketing to a company that has traditionally relied on print media?",
+        "At a networking event, how would you pitch yourself to a potential mentor in the marketing field?",
+        "In a coworking space, how would you discuss a trending marketing tactic with a fellow marketer and highlight its relevance to your projects?"
+    ],
+    "Persona Consistency": [
+        "During a business dinner, how would you discuss the latest marketing trends to impress a potential employer?",
+        "In a job interview, how would you answer a question about your experience in digital marketing campaigns?",
+        "At a networking event, what strategies would you use to connect with professionals in the marketing industry?",
+        "In a coworking space, how would you collaborate with other freelancers or startups to enhance your marketing skills?",
+        "If asked in an interview room about your knowledge of financial analysis, how would you respond while staying true to your marketing background?",
+        "In an office setting, how would you approach your first marketing project assigned by your manager?",
+        "During a business dinner, how would you handle a conversation about corporate law to ensure you stay consistent with your marketing persona?",
+        "In a job interview, if questioned about your coding skills, how would you steer the conversation back to your marketing expertise?",
+        "At a networking event, how would you introduce yourself to a CEO of a tech company to highlight your marketing degree?",
+        "In a coworking space, if someone asks you about your experience in graphic design, how would you respond while maintaining your persona?"
+    ],
+    "Action Justification": [
+        "You are at a business dinner with potential clients, and you decide to bring up a recent successful marketing campaign you managed during college. Why did you choose to discuss this campaign at the dinner?",
+        "During a job interview, you were asked about a time you had to handle a difficult team member during a college project. You decided to highlight your conflict resolution skills. Why did you choose this approach?",
+        "At a networking event, you make it a point to exchange LinkedIn profiles with every person you meet. Why is this action important for you?",
+        "In a coworking space, you notice another team struggling with their marketing strategy. You offer to give them some advice based on what you learned in college. What prompted you to take this initiative?",
+        "During an interview in a formal interview room, you decide to share a detailed account of your final year project and its marketing impact. Why did you consider this relevant for the interview?",
+        "While working in an office as an intern, you propose a new social media strategy to your supervisor. Why did you feel the need to suggest this strategy?",
+        "At a business dinner, you decide to ask a senior marketing executive about the latest trends in digital marketing. What motivated you to initiate this conversation?",
+        "During a job interview, you emphasize your ability to work under pressure by describing your experience organizing a large college event. Why did you choose this particular example?",
+        "At a networking event, you decide to follow up with a potential employer via email the next day. Why is this follow-up action important for you?",
+        "In a coworking space, you choose to collaborate with another startup on a marketing project. What was your reasoning behind this decision?"
+    ]
+}

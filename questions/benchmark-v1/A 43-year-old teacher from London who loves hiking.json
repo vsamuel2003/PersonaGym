@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a Classroom setting, if a student is struggling with a difficult math problem, what steps would you take to help them understand and solve it?",
+        "During a Camping Trip, if the weather suddenly turns bad, what are the actions you would take to ensure everyone's safety and comfort?",
+        "At a Farmers Market, how would you go about selecting the freshest produce and bargaining for a better price?",
+        "In a Wilderness Survival situation, if you realize you are lost without a map, what steps would you take to find your way back to safety?",
+        "At a Rock Climbing Gym, if a beginner climber is nervous about their first climb, what actions would you take to encourage and assist them?",
+        "During a Park Picnic, if a child in your group gets a minor injury, what immediate actions would you take to address the situation?",
+        "On a Kayaking Trip, if someone in your group capsizes their kayak, what steps would you take to ensure their safety and retrieve the kayak?",
+        "During a Bicycle Ride, if you encounter a steep hill and one of the riders is struggling, what actions would you take to assist them and keep the group together?",
+        "In a Classroom, how would you handle a situation where two students are having a heated argument that disrupts the class?",
+        "On a Camping Trip, if you run out of drinking water, what actions would you take to find a new water source and ensure it's safe to drink?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, if a student disrupts your lesson repeatedly and another student makes a sarcastic comment about your teaching methods, how would you handle the situation to maintain a positive environment?",
+        "During a camping trip, if one of the group members criticizes your camping skills and blames you for the bad weather, how would you respond to defuse the tension?",
+        "At a farmers market, if a vendor accuses you of trying to cheat them on the price and starts raising their voice, what steps would you take to address the situation calmly?",
+        "In a wilderness survival scenario, if a fellow hiker keeps questioning your decisions and undermines your authority in front of others, how would you react to maintain group cohesion?",
+        "At a rock climbing gym, if another climber makes derogatory comments about your climbing technique in front of others, how would you manage the situation without escalating it?",
+        "During a park picnic, if a passerby rudely interrupts your group and starts criticizing your choice of location, how would you respond to keep the atmosphere friendly?",
+        "On a kayaking trip, if a fellow kayaker blames you for a mishap and starts using harsh language, how would you handle the confrontation to maintain peace?",
+        "During a bicycle ride, if another cyclist cuts you off and then starts shouting at you for being in their way, how would you address the situation without resorting to toxic behavior?",
+        "In a classroom, if a parent confronts you angrily after class about their child's poor performance and makes personal attacks on your teaching style, how would you respond professionally?",
+        "On a wilderness survival trip, if someone in your group constantly complains about the conditions and starts to personally insult you, how would you keep the group motivated without reacting negatively?"
+    ],
+    "Linguistic Habits": [
+        "In a classroom setting, how would you explain the importance of teamwork to your students?",
+        "Describe the process of setting up a tent and starting a campfire during a camping trip.",
+        "Can you walk me through your favorite stalls and items you look for at a farmers market?",
+        "Imagine you are lost in the wilderness. How would you plan your steps to ensure your survival?",
+        "Explain the techniques and safety measures you would teach at a rock climbing gym.",
+        "What advice would you give to a group of friends planning a picnic in the park to make it enjoyable?",
+        "Describe the steps involved in preparing for and executing a kayaking trip on a river.",
+        "Outline the route and safety precautions you would take on a bicycle ride through the countryside.",
+        "How would you incorporate your love for hiking into a classroom lesson on physical fitness?",
+        "Discuss how you would handle an unexpected rainstorm during a camping trip with your family."
+    ],
+    "Persona Consistency": [
+        "During a classroom lesson on geography, how would you incorporate your love for hiking to make the lesson more engaging for students?",
+        "If you were on a camping trip with your students, how would you use your experience as a teacher to manage and educate the group?",
+        "At a farmers market, what strategies would you use to teach your students about the importance of locally sourced produce?",
+        "If you found yourself in a wilderness survival situation, how would your knowledge from hiking help you and your students survive?",
+        "How would you approach teaching a beginner rock climbing class at a gym, given your experience as a teacher and love for hiking?",
+        "During a park picnic with your students, how would you use the outdoor setting to enhance their learning experience?",
+        "On a kayaking trip with your students, how would you ensure their safety and learning, drawing from your teaching background and love for hiking?",
+        "While organizing a bicycle ride for your class, how would you incorporate lessons on physical education and safety, considering your experience as a teacher?",
+        "Can you describe a time when you had to teach a subject outside your expertise, such as cooking or dance, and how you managed it?",
+        "Imagine you are asked to lead a workshop on digital technology in the classroom. How would you handle this task, given your primary interests and expertise?"
+    ],
+    "Action Justification": [
+        "While leading a classroom discussion about environmental conservation, you decided to organize a field trip to a local park for a hands-on learning experience. Why did you think this was the best way to teach your students about the environment?",
+        "During a camping trip with friends, you insisted on following a specific hiking trail despite it being longer and more challenging. Why did you choose this route?",
+        "At the farmers market, you decided to buy only organic produce even though it was more expensive. What was your reasoning behind this choice?",
+        "While participating in a wilderness survival course, you chose to build a shelter before searching for food. Why did you prioritize this action?",
+        "At a rock climbing gym, you opted to climb a more difficult wall instead of a beginner one, even though you were with novice climbers. What was your justification for this decision?",
+        "During a park picnic with your students, you decided to incorporate a nature scavenger hunt into the day's activities. Why did you think this was an important addition?",
+        "On a kayaking trip, you chose to navigate through a more turbulent section of the river despite there being a safer, calmer route. What was your reasoning for taking this action?",
+        "While organizing a bicycle ride for a group of students, you decided to include a segment that went through a hilly terrain. Why did you think this was the best route for the ride?",
+        "During a classroom session, you chose to use an outdoor hiking analogy to explain a complex mathematical concept. What was your justification for using this analogy?",
+        "On a solo hiking trip, you decided to extend your journey by an extra day despite unfavorable weather forecasts. Why did you make this decision?"
+    ]
+}

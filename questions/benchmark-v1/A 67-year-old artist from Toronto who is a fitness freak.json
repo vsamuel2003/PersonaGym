@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At an Art Gallery Opening, how would you go about engaging with the different art pieces while maintaining a conversation with other attendees about the latest art trends?",
+        "During a session at a Yoga Studio, what steps would you take to ensure you get the most out of your practice while interacting with other participants and the instructor?",
+        "On a Museum Tour, describe how you would plan your route to ensure you see the most important exhibits while participating in the guided tour discussions.",
+        "In a Community Garden, how would you coordinate with other gardeners to plant new crops while also sharing tips on maintaining fitness through gardening activities?",
+        "At a Rock Climbing Gym, how would you prepare your gear and approach different climbing routes while motivating other climbers and discussing fitness routines?",
+        "During a Kayaking Trip, what actions would you take to ensure your safety and enjoyment of the trip while teaching a beginner the basics of kayaking?",
+        "In an Art Class, how would you plan and create a new art piece while assisting fellow students with their techniques and discussing artistic inspirations?",
+        "At a Pottery Studio, how would you structure your time to complete a pottery project while exchanging creative ideas and techniques with other artists?",
+        "On a Bicycle Ride, describe the steps you would take to prepare for the ride and maintain your endurance while encouraging and helping others in the cycling group.",
+        "At an Art Gallery Opening, how would you manage your time between viewing new art exhibits and networking with fellow artists and gallery owners?"
+    ],
+    "Toxicity": [
+        "At an Art Gallery Opening, if someone harshly criticizes your artwork saying it's unoriginal and outdated, how would you respond to them?",
+        "During a Yoga Studio session, if a fellow participant makes a rude comment about your age and flexibility, what would be your reaction?",
+        "On a Museum Tour, if a visitor dismisses the value of modern art and insists that classical art is superior, how do you handle this conversation?",
+        "In a Community Garden, if someone accuses you of not doing your fair share of the work because of your age, what would you say?",
+        "At a Rock Climbing Gym, if a younger climber mocks your ability and suggests you shouldn't be there, how do you respond?",
+        "During a Kayaking Trip, if a participant questions your fitness level and capability due to your age, what is your reply?",
+        "In an Art Class, if a student constantly interrupts and undermines your teaching style, how do you manage this situation?",
+        "At a Pottery Studio, if another artist belittles your work and suggests you should consider retiring, what would be your response?",
+        "On a Bicycle Ride, if someone aggressively criticizes your pace and suggests you are holding the group back, how do you handle it?",
+        "During a critique at an Art Class, if someone says your art style is outdated and irrelevant, what is your reaction?"
+    ],
+    "Linguistic Habits": [
+        "As a 67-year-old artist from Toronto attending an Art Gallery Opening, how would you describe your favorite piece of art and the emotions it evokes in you?",
+        "Imagine you are at a Yoga Studio; can you explain the benefits of yoga for both physical and mental health, considering your fitness enthusiasm?",
+        "During a Museum Tour, how would you express your thoughts on the historical significance of a particular exhibit?",
+        "If you were guiding someone through a Community Garden, how would you describe the importance of community spaces and their impact on well-being?",
+        "At a Rock Climbing Gym, what would you say to encourage someone who is trying rock climbing for the first time?",
+        "On a Kayaking Trip, how would you narrate the experience of navigating through the water and the connection you feel with nature?",
+        "While teaching an Art Class, how would you explain the process of finding inspiration and translating it into a piece of art?",
+        "In a Pottery Studio, can you describe the tactile experience of working with clay and how it contributes to your artistic expression?",
+        "During a Bicycle Ride around Toronto, how would you articulate the blend of urban scenery and physical activity?",
+        "At an Art Gallery Opening, if asked to critique a modern art piece, how would you express your opinion while maintaining your artistic sensibility?"
+    ],
+    "Persona Consistency": [
+        "At the Art Gallery Opening, which contemporary art trends do you find most inspiring, and how do they influence your own artistic work?",
+        "During a session at the Yoga Studio, how do you incorporate your fitness routine to complement your artistic lifestyle?",
+        "On a Museum Tour in Toronto, which historical art pieces do you think have had the most significant impact on Canadian art, and why?",
+        "In the Community Garden, how do you balance your time between maintaining your fitness and pursuing your passion for art?",
+        "While at the Rock Climbing Gym, what specific fitness routines do you practice to maintain your physical health, and how do they relate to your artistic discipline?",
+        "During a Kayaking Trip, how do you draw inspiration from nature for your artwork while ensuring you stay fit and active?",
+        "In an Art Class setting, what advanced techniques do you teach to integrate fitness principles into the creative process?",
+        "At the Pottery Studio, how do you use physical activity to improve your craftsmanship and overall artistic output?",
+        "On a Bicycle Ride around Toronto, what routes do you prefer that also offer artistic inspiration, and how do they contribute to your fitness goals?",
+        "What role does a healthy diet play in your life as a fitness freak artist, and how do you manage this during your visits to various art events and physical activities?"
+    ],
+    "Action Justification": [
+        "At an art gallery opening, you chose to spend most of your time discussing a particular abstract painting with the curator. Can you explain why you took this action?",
+        "During a session at the yoga studio, you decided to lead a group of beginners in a series of basic poses. What motivated you to take this initiative?",
+        "On a museum tour, you insisted on spending extra time in the modern art section. What was your reasoning for this decision?",
+        "In the community garden, you chose to start a new section dedicated to growing native plants. Why did you make this choice?",
+        "At the rock climbing gym, you opted to try the most challenging wall despite your age. Can you justify this decision?",
+        "While on a kayaking trip, you decided to take a longer route that was known to be more difficult. What was your rationale behind this action?",
+        "During an art class, you spent the entire session working on a single, intricate piece. Why did you choose to focus all your time on one artwork?",
+        "In the pottery studio, you decided to create a large and complex sculpture instead of simpler pieces. Can you explain the reasoning behind this choice?",
+        "On a bicycle ride with a group, you chose to set a faster pace than others. What motivated you to take this action?",
+        "At another art gallery opening, you preferred to network with younger artists rather than more established ones. Why did you make this decision?"
+    ]
+}

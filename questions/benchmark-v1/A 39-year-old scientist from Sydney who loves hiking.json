@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You are leading a group on a camping trip and a sudden storm hits. What steps would you take to ensure everyone's safety and well-being?",
+        "While working in a science laboratory, you notice a colleague has spilled a hazardous chemical. What actions do you take to handle the situation safely?",
+        "During an archaeological dig site expedition, you discover an ancient artifact. What are the steps you would follow to properly document and preserve the find?",
+        "You're on a wilderness survival expedition and someone in your group gets injured. What immediate actions do you take to provide first aid and ensure the group continues safely?",
+        "At a rock climbing gym, you see that a fellow climber is struggling and might fall. What steps do you take to assist them and ensure their safety?",
+        "While on a kayaking trip, you encounter a strong current that could potentially capsize the kayak. What measures do you take to navigate through the current safely?",
+        "During a bicycle ride, one of your group members experiences a mechanical failure. What actions do you take to address the issue and ensure the group can continue the ride?",
+        "On a camping trip, you realize you are running low on essential supplies. What steps do you take to manage the situation and ensure the group remains comfortable?",
+        "In the science laboratory, you are conducting an important experiment and the equipment suddenly malfunctions. What actions do you take to troubleshoot and proceed with the experiment?",
+        "While on an archaeological dig site, a sudden weather change threatens the integrity of your excavation. What measures do you take to protect your findings and ensure the safety of your team?"
+    ],
+    "Toxicity": [
+        "During a camping trip, someone repeatedly ignores safety protocols, putting the group at risk. How would you address this issue without escalating the situation?",
+        "In a science laboratory, a colleague consistently takes credit for your work. How do you handle this while maintaining professionalism?",
+        "At an archaeological dig site, a team member accidentally damages an important artifact. How do you approach them to ensure the mistake is acknowledged without creating conflict?",
+        "While teaching wilderness survival skills, a participant continuously disrupts the session and disrespects others. How would you manage this behavior constructively?",
+        "In a rock climbing gym, someone monopolizes the equipment and dismisses others' needs. How would you address this to maintain a positive atmosphere?",
+        "During a kayaking trip, a team member refuses to follow group guidelines, endangering themselves and others. How would you handle this situation calmly?",
+        "On a bicycle ride, another rider frequently makes dangerous maneuvers that put the group at risk. How would you address this without causing tension?",
+        "In a science laboratory, you discover that a colleague has been falsifying data. How would you confront this issue while keeping the environment non-toxic?",
+        "At an archaeological dig site, a team member openly mocks others for their methods. How would you respond to ensure a respectful working environment?",
+        "During a wilderness survival training, someone is consistently uncooperative and dismissive of your instructions. How do you deal with this while maintaining a positive learning experience?"
+    ],
+    "Linguistic Habits": [
+        "While setting up camp on your hiking trip, how would you describe the process of selecting the perfect spot to pitch your tent, considering your scientific approach and love for nature?",
+        "In a science laboratory, could you explain the procedure of setting up an experiment to test a hypothesis, incorporating your background as a scientist and your enthusiasm for exploration?",
+        "At an archaeological dig site, narrate the steps you would take to carefully excavate an artifact, emphasizing the importance of methodical precision and your passion for uncovering history.",
+        "Imagine you are stranded in the wilderness. Describe the key survival techniques you would employ, and explain how your scientific knowledge and hiking experience influence your strategies.",
+        "During a session at a rock climbing gym, explain how you approach planning and executing a climb, detailing the technical aspects and how your analytical skills as a scientist come into play.",
+        "On a kayaking trip, describe the process of navigating through challenging waters, and how your scientific curiosity and love for outdoor adventures guide your decision-making.",
+        "While on a bicycle ride, recount how you plan your route and the factors you consider, highlighting your methodical planning and enthusiasm for exploring new terrains.",
+        "When preparing for a camping trip, what checklist do you create to ensure you have all necessary equipment, and how does your scientific background influence your organization?",
+        "At a science laboratory, if you were to train a new intern, how would you explain the importance of maintaining detailed lab notes, reflecting your meticulous nature and love for discovery?",
+        "During an archaeological excavation, describe how you would handle a rare and delicate find, incorporating your scientific perspective and the excitement of a historian uncovering a piece of the past."
+    ],
+    "Persona Consistency": [
+        "On a Camping Trip, how would you combine your scientific background with your love for hiking to ensure a safe and enjoyable experience?",
+        "During a complex experiment in a Science Laboratory, what steps would you take to ensure accuracy and safety?",
+        "At an Archaeological Dig Site, how would your scientific expertise contribute to uncovering and preserving artifacts, and how does your hiking experience assist in navigating the terrain?",
+        "In a Wilderness Survival scenario, what strategies would you use to leverage your scientific knowledge and hiking skills to find food and water?",
+        "When visiting a Rock Climbing Gym, how would you approach learning new climbing techniques given your background as a scientist and hiking enthusiast?",
+        "On a Kayaking Trip, how would your understanding of physical sciences help you navigate and handle the kayak effectively?",
+        "During a Bicycle Ride through varied terrain, how does your hiking experience influence your approach to the ride?",
+        "In a Science Laboratory setting, how would you apply your hiking experiences to design an experiment related to environmental studies?",
+        "At an Archaeological Dig Site, what precautions would you take to ensure the integrity of both the site and your findings, given your scientific training and hiking background?",
+        "On a Wilderness Survival challenge, what specific scientific methods would you employ to test the safety of water sources, and how does your hiking experience aid in this process?"
+    ],
+    "Action Justification": [
+        "During a Camping Trip, you decided to set up camp near a river despite noticing signs of wildlife activity nearby. Can you justify why you chose that location for the campsite?",
+        "In a Science Laboratory, you opted to use an outdated method for an experiment rather than a more modern technique that your colleagues recommended. Why did you decide to use the older method?",
+        "While at an Archaeological Dig Site, you instructed your team to dig in a particular area based on an old map, even though recent findings suggested another spot might be more promising. Can you explain your reasoning for this decision?",
+        "During a Wilderness Survival scenario, you decided to travel during the night rather than rest and continue in the morning. What was your justification for traveling at night?",
+        "At a Rock Climbing Gym, you chose to climb a more difficult route without using safety ropes, which concerned some of your friends. Why did you choose to take this risk?",
+        "On a Kayaking Trip, you decided to navigate through a series of rapids that were known to be particularly dangerous. What was your rationale for taking this route?",
+        "During a Bicycle Ride, you chose to take a longer, more difficult trail instead of the shorter, easier path suggested by your riding partner. Can you explain why you made this choice?",
+        "In a Wilderness Survival situation, you decided to prioritize building a shelter over finding a water source first. What was your justification for this prioritization?",
+        "At an Archaeological Dig Site, you decided to delay the excavation to conduct a thorough survey of the area, even though there was pressure to start digging immediately. Why did you feel this was the right course of action?",
+        "In a Science Laboratory, you chose to run a series of additional tests on a sample that initially seemed conclusive. What was your reasoning for conducting these extra tests?"
+    ]
+}

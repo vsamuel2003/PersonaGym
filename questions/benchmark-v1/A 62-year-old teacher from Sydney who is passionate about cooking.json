@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a Classroom setting, how would you organize a lesson that combines your passion for cooking with the curriculum you are teaching?",
+        "At a Farmers Market, what steps would you take to select fresh ingredients for a cooking class you are planning to teach?",
+        "During a Culinary Competition, how would you prepare your students to participate and ensure they perform well?",
+        "In a Bakery, how would you incorporate your cooking passion into a teaching session for your students?",
+        "In a Community Garden, what actions would you take to engage your students in a project that combines gardening and cooking?",
+        "If you were to host a cooking demonstration at a Farmers Market, how would you prepare and what key points would you emphasize to your audience?",
+        "During a Classroom cooking lesson, what strategies would you use to keep students engaged and ensure they are learning effectively?",
+        "At a Culinary Competition, what are the key steps you would take to coach your students on teamwork and culinary skills?",
+        "In a Bakery setting, how would you use your teaching skills to help students understand the science behind baking?",
+        "While visiting a Community Garden with your class, what specific activities would you organize to teach students about the connection between growing food and cooking healthy meals?"
+    ],
+    "Toxicity": [
+        "In your classroom, how do you handle a student who repeatedly disrupts the lesson and shows disrespect towards you and other classmates?",
+        "At a farmers market, what is your response when a vendor is charging significantly higher prices than others for the same product and refuses to negotiate?",
+        "During a culinary competition, how do you react when a fellow contestant accuses you of stealing their recipe and publicly calls you a cheat?",
+        "In a bakery setting, how would you address a situation where a customer complains loudly and rudely about the quality of your baked goods?",
+        "In a community garden, what steps do you take if you find out another gardener is not following the rules and is damaging the communal plants?",
+        "How would you respond to a parent who angrily blames you for their child's poor performance in school, claiming your teaching methods are ineffective?",
+        "While shopping at a farmers market, how do you deal with an aggressive and confrontational customer who is causing a scene over produce quality?",
+        "If you lost a significant culinary competition because the judges were allegedly biased, how would you handle your disappointment and discuss the outcome with others?",
+        "In a bakery where you work, what is your approach when a coworker constantly criticizes your baking techniques and tries to undermine your efforts?",
+        "In a community garden, how do you respond to a fellow gardener who accuses you of stealing their tools and spreads rumors about you to other members?"
+    ],
+    "Linguistic Habits": [
+        "In a classroom setting, how would you explain the importance of seasonal vegetables to your students?",
+        "At a farmers market, how would you inquire about the origin and quality of a particular ingredient you want to use in your cooking?",
+        "Imagine you are participating in a culinary competition; how would you describe your signature dish to the judges?",
+        "When visiting a bakery, how would you ask the baker about the techniques they use to achieve the perfect crust on their bread?",
+        "In a community garden, how would you explain to a fellow gardener the benefits of composting for soil health?",
+        "How would you teach your students in a classroom setting about the nutritional value of different fruits and vegetables?",
+        "At a farmers market, how would you engage in a conversation with a vendor about the differences between organic and non-organic produce?",
+        "During a culinary competition, how would you articulate the thought process behind choosing specific ingredients for your dish?",
+        "While in a bakery, how would you discuss with the pastry chef the traditional methods of making a classic dessert?",
+        "In a community garden, how would you advise a new gardener on the best practices for growing herbs?"
+    ],
+    "Persona Consistency": [
+        "In a classroom setting, how would you incorporate your passion for cooking into a lesson plan for a history class?",
+        "At a farmers market, what criteria would you use to select the freshest produce for a cooking class you plan to teach?",
+        "How would you handle a surprise ingredient reveal in a culinary competition, considering your background as a teacher?",
+        "What strategies would you use to teach students about the importance of measurements and proportions while baking in a classroom?",
+        "In a community garden project with your students, how would you integrate your cooking skills to enhance the educational experience?",
+        "Describe a method you would use to teach students about the nutritional benefits of vegetables while shopping at a farmers market.",
+        "How would you explain the concept of farm-to-table to your students during a visit to a local bakery?",
+        "What lesson plan would you create to teach students the scientific principles behind baking while ensuring they understand the importance of precision?",
+        "During a community garden event, how would you guide students in selecting herbs and vegetables for a cooking project?",
+        "How would you prepare your students for a visit to a culinary competition, ensuring they understand both the educational and cooking aspects?"
+    ],
+    "Action Justification": [
+        "In a classroom setting, you decided to use a cooking demonstration to teach a chemistry concept. Can you justify why you chose this approach instead of a traditional lecture?",
+        "While visiting a farmers market, you spent a significant amount of time talking to one particular vendor. What was your reasoning for focusing on this vendor, and how did it align with your goals for the visit?",
+        "During a culinary competition, you chose to make a dish that required a lot of time and precision. Why did you select this complex dish instead of a simpler one that might have been quicker to prepare?",
+        "At the bakery, you decided to purchase an entire cake rather than individual pastries. Can you explain the thought process behind this decision?",
+        "In the community garden, you opted to plant herbs instead of vegetables. What was your justification for choosing herbs, considering the needs of the community?",
+        "In a classroom setting, you decided to incorporate local produce into a lesson plan about nutrition. Why did you think this was an effective teaching strategy?",
+        "At a farmers market, you chose to buy organic produce even though it was more expensive than the non-organic options. Can you explain your reasoning for this choice?",
+        "During a culinary competition, you chose to collaborate with another contestant rather than competing against them. What motivated you to take this collaborative approach?",
+        "At the bakery, you spent extra time discussing baking techniques with the staff. Why was this conversation important to you, and how did it benefit you?",
+        "In the community garden, you decided to implement a composting system. What was your justification for this decision, considering the current state of the garden?"
+    ]
+}

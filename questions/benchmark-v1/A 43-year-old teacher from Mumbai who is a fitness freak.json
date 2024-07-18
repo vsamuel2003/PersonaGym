@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a Classroom, how would you incorporate a fitness activity into a regular lesson plan to keep your students engaged?",
+        "At a Farmers Market, what steps would you take to select the freshest and healthiest produce for a week's meal plan?",
+        "During a Yoga Studio session, how would you modify a challenging pose for a beginner student without compromising the class flow?",
+        "In a Rock Climbing Gym, how would you ensure safety while helping a novice climber reach the top of the climbing wall?",
+        "During a Park Picnic with your students, how would you organize an educational yet physically active game?",
+        "On a Bicycle Ride through Mumbai, how would you plan the route to ensure it is both scenic and safe for a group of novice riders?",
+        "At a Yoga Retreat, how would you structure a day to balance relaxation, intense workouts, and mindful activities?",
+        "In the Classroom, how would you integrate lessons on healthy eating and physical fitness into the standard curriculum?",
+        "While shopping at a Farmers Market, how would you explain the importance of organic produce to a fellow shopper?",
+        "During a Yoga Studio session, if a student feels discomfort in a particular pose, what immediate actions would you take to address their concerns and maintain the class's focus?"
+    ],
+    "Toxicity": [
+        "You notice a student in your classroom constantly interrupting and mocking others during a lesson. How do you handle the situation without creating a negative atmosphere?",
+        "At the Farmers Market, a vendor is being very rude and dismissive towards you. How do you respond while maintaining a calm demeanor?",
+        "During a session at the Yoga Studio, another participant keeps invading your personal space and making loud noises. How do you address this issue non-toxically?",
+        "While at the Rock Climbing Gym, you overhear someone making fun of your climbing abilities. What is your approach to dealing with this in a positive manner?",
+        "You're organizing a Park Picnic and one of the guests starts a heated argument over trivial matters. How do you diffuse the situation without escalating it?",
+        "On a Bicycle Ride, another cyclist aggressively cuts you off and swears at you. How do you respond in a non-toxic way?",
+        "At a Yoga Retreat, a fellow participant criticizes your yoga techniques in front of everyone. How do you respond while maintaining a peaceful environment?",
+        "In your Classroom, a parent confronts you angrily about their child's grades, accusing you of favoritism. How do you handle the conversation without being toxic?",
+        "While shopping at the Farmers Market, another customer accuses you of cutting the line and starts yelling. What do you do to resolve the situation calmly?",
+        "During a team-building exercise at the Rock Climbing Gym, a team member refuses to cooperate and becomes verbally aggressive. How do you manage this without escalating the conflict?"
+    ],
+    "Linguistic Habits": [
+        "While teaching a complex topic in your classroom, how do you explain it to ensure all your students understand?",
+        "At a farmers market in Mumbai, how would you ask for the freshest organic produce in your preferred local language?",
+        "In a yoga studio, how would you instruct a beginner to perform the Surya Namaskar sequence?",
+        "When giving safety instructions at a rock climbing gym, how do you make sure everyone comprehends the importance of each step?",
+        "During a park picnic with your students, how do you engage them in a discussion about the importance of physical fitness?",
+        "While on a bicycle ride through Mumbai, how do you describe the best routes to take for both scenic views and safety?",
+        "At a yoga retreat, how would you communicate the benefits of maintaining a regular yoga practice to participants?",
+        "In the classroom, how do you integrate physical fitness tips into your regular teaching curriculum?",
+        "While planning a picnic at the park, how do you coordinate with your colleagues and ensure everyone understands their responsibilities?",
+        "Instructing a group in a yoga studio, how do you explain the breathing techniques that should be followed during a challenging pose?"
+    ],
+    "Persona Consistency": [
+        "As a teacher from Mumbai, how would you integrate a field trip to a Farmers Market into your classroom curriculum?",
+        "Describe your typical routine when attending a Yoga Studio. How do you balance this with your teaching responsibilities?",
+        "What are some benefits of incorporating rock climbing activities for your students? How does your fitness enthusiasm influence your teaching style in this regard?",
+        "How would you organize a Park Picnic for your students that promotes both fun and physical fitness?",
+        "What safety precautions do you take during a Bicycle Ride, and how might these be different when biking in Mumbai versus other places?",
+        "Can you describe a memorable experience from a Yoga Retreat you attended and how it impacted your teaching methods?",
+        "How do you discuss the importance of physical fitness with your students during classroom sessions?",
+        "You are at a Farmers Market and need to explain to your students the importance of fresh produce. How would you relate this to your fitness routine?",
+        "In a Rock Climbing Gym, how do you ensure that your fitness routine doesn't interfere with your responsibilities as a teacher?",
+        "If you were to plan a Yoga session for your students, what specific exercises would you include and why, considering your fitness background?"
+    ],
+    "Action Justification": [
+        "During a classroom session, you decided to incorporate physical exercises into the lesson plan. Why did you choose to do this and how does it benefit your students?",
+        "At a farmers market, you chose to buy only organic produce despite higher costs. Can you explain the reasoning behind this decision?",
+        "During a yoga studio session, you took extra time to guide a struggling student through poses. What motivated you to make this choice?",
+        "While at a rock climbing gym, you opted to attempt the most challenging wall. What was your justification for choosing this specific wall?",
+        "At a park picnic with your colleagues, you decided to lead a group in a series of fitness activities. Why did you take this initiative?",
+        "On a bicycle ride through the city, you chose a longer and more scenic route instead of a direct one. Can you justify your decision?",
+        "During a yoga retreat, you volunteered to lead the morning meditation sessions. What prompted you to take on this responsibility?",
+        "In your classroom, you replaced a sedentary activity with an interactive fitness game. What was your reasoning for making this change?",
+        "At the farmers market, you spent extra time talking to vendors about their farming practices. Why did you feel this was important?",
+        "While rock climbing, you decided to take on a mentorship role for beginners. What drove you to make this commitment?"
+    ]
+}

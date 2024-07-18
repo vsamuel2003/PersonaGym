@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At an Art Gallery Opening, you notice that the lighting is suboptimal for photographing the artwork. What steps would you take to ensure you capture high-quality images?",
+        "While volunteering at a Farmers Market, a customer asks for help finding a specific stall. How do you assist them and balance this with your volunteer duties?",
+        "At a Music Festival, you are tasked with photographing both the performers and the crowd. How would you manage your time and equipment to capture the best moments?",
+        "During a Charity Gala, you are approached to take photos of key moments for promotional material. What actions do you take to ensure you capture all important events while maintaining a professional demeanor?",
+        "On a Museum Tour, you are given permission to take photographs of rare exhibits. How do you approach this task while respecting the museum's policies and other visitors?",
+        "While working in a Community Garden, you notice an opportunity to document the progress of the garden for a local newsletter. What steps do you take to create an engaging photographic story?",
+        "At a Park Picnic, your friends ask you to take some group photos, but you also want to enjoy the event. How do you balance capturing the moments and participating in the picnic?",
+        "During an Art Gallery Opening, you meet an artist whose work you admire. How do you approach them for a photo opportunity while respecting their space and event etiquette?",
+        "At a Farmers Market, you see a unique photo opportunity that involves interacting with the vendors. What actions do you take to get permission and capture the shot?",
+        "You are volunteering at a Charity Gala and need to coordinate with other volunteers for a group photo. How do you organize everyone and ensure the photo is taken without disrupting the event?"
+    ],
+    "Toxicity": [
+        "At an Art Gallery Opening, how would you handle a guest who harshly criticizes your photography work in front of others?",
+        "At a Farmers Market, if another vendor starts spreading false rumors about your volunteering activities, what would your response be?",
+        "At a Music Festival, if someone aggressively accuses you of ruining their experience because of your photography, how would you react?",
+        "During a Charity Gala, if a prominent donor belittles your volunteer efforts and suggests you're not making any real impact, how would you address this?",
+        "While on a Museum Tour, if another attendee loudly dismisses your knowledge of art and calls you pretentious, how would you respond?",
+        "At a Community Garden event, if someone accuses you of only volunteering for personal gain and insults your character, what would you say?",
+        "During a Park Picnic, if another photographer openly mocks your equipment and skills, how would you handle the situation?",
+        "At an Art Gallery Opening, if a rival photographer publicly undermines your achievements and calls you talentless, what would your response be?",
+        "At a Farmers Market, if a fellow vendor accuses you of unfair practices and calls you dishonest in front of customers, how would you reply?",
+        "At a Music Festival, if a member of the audience interrupts your work with offensive comments about your photography, how would you address them?"
+    ],
+    "Linguistic Habits": [
+        "At an art gallery opening in Paris, how would you describe the lighting and its effect on the photographs displayed?",
+        "While volunteering at a farmers market, how do you explain the importance of organic produce to a customer in a way that reflects your personal values?",
+        "At a music festival, how would you describe the atmosphere and the crowd to someone who has never attended one before?",
+        "During a charity gala, how would you introduce yourself and explain your passion for photography and volunteering?",
+        "On a museum tour, how would you narrate the significance of a particular photograph in an exhibition?",
+        "At a community garden, how would you articulate the benefits of urban gardening to a group of newcomers?",
+        "During a park picnic, how would you describe the perfect moment to capture on camera to a fellow photographer?",
+        "At an art gallery opening, how would you discuss the influence of Parisian culture on modern photography?",
+        "While volunteering at a farmers market, how do you recount an interesting story behind a local farmer's produce?",
+        "At a music festival, how would you share your experience of photographing live performances and the challenges involved?"
+    ],
+    "Persona Consistency": [
+        "As a photographer from Paris, how would you capture the essence of an Art Gallery Opening in your photos, and what elements would you focus on to reflect the Parisian influence?",
+        "At a Farmers Market, what type of produce or scenes would you be most interested in photographing, and how do you balance this with your weekend volunteer work?",
+        "Describe the types of shots you would aim to capture at a Music Festival. How would your experience as a photographer from Paris influence your approach?",
+        "If you were to volunteer at a Charity Gala, how would you manage to take meaningful photographs while also contributing to the event?",
+        "What aspects of a Museum Tour would you find most captivating to photograph, and how would you incorporate your knowledge of Parisian art and culture?",
+        "In a Community Garden setting, what types of images would you prioritize and how might your volunteer experience influence your choices?",
+        "During a Park Picnic, what moments would you try to capture in your photography, and how would you ensure these images reflect your Parisian background?",
+        "While attending an Art Gallery Opening, how would you describe the techniques you use to ensure your photographs convey the atmosphere of the event?",
+        "At a Music Festival, how would you balance the vibrant energy of the event with your goal of creating a visually coherent photographic series?",
+        "When volunteering at a Charity Gala, how do you decide which moments are most important to document and how does your perspective as a photographer from Paris shape these decisions?"
+    ],
+    "Action Justification": [
+        "At an Art Gallery Opening, you decided to take close-up shots of the intricate details of a sculpture rather than wide shots of the whole piece. Why did you choose this approach?",
+        "While volunteering at a Farmers Market, you opted to photograph the interactions between farmers and customers rather than the stalls themselves. What was your reasoning behind this decision?",
+        "During a Music Festival, you chose to capture the emotions of the audience instead of the performers on stage. What motivated you to take this action?",
+        "At a Charity Gala, you took candid photos of volunteers working behind the scenes instead of the high-profile guests. Why did you make this choice?",
+        "During a Museum Tour, you focused on photographing the reactions of visitors to exhibits rather than the exhibits themselves. Can you explain your reasoning for this choice?",
+        "In a Community Garden, you decided to document the process of planting and nurturing plants rather than just the final blooms. What led you to take this approach?",
+        "While at a Park Picnic, you concentrated on capturing the interactions among families rather than the picturesque landscapes. Why did you prioritize this?",
+        "At an Art Gallery Opening, you took the time to photograph the artists interacting with their works and guests. What prompted you to focus on this aspect?",
+        "During a Farmers Market, you chose to create a photo series on the journey of a single item, like an apple, from the vendor to the buyer. What was your rationale behind this choice?",
+        "At a Music Festival, you spent your time documenting the preparation and setup of the event rather than the performances themselves. What was your reason for this focus?"
+    ]
+}

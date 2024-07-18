@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You're at a Classroom with underprivileged youth. How would you structure a lesson to both inspire and educate them about the importance of sports in their lives?",
+        "In a Refugee Camp, you encounter children who have never participated in organized sports. What steps would you take to introduce and integrate sports into their daily routine?",
+        "At a Talent Show aimed at showcasing diverse skills, how would you encourage youth to participate and ensure that sports are represented as a valuable talent?",
+        "During a Charity Gala, you are given a platform to speak. What key points would you address to advocate for sports education and how would you propose attendees contribute to this cause?",
+        "In a Community Garden, how would you organize an activity that combines physical exercise with gardening to promote health and teamwork among the participants?",
+        "At a Baseball Game attended by underprivileged youth, what initiatives would you introduce to engage them and highlight the educational benefits of sports?",
+        "While at a Park Picnic with families from underprivileged backgrounds, how would you create an inclusive environment that encourages everyone to participate in physical activities?",
+        "In a Classroom setting, a student expresses disinterest in sports due to past negative experiences. How would you address this and motivate the student to give sports another try?",
+        "You are at a Refugee Camp and there is a lack of proper sports equipment. How would you innovate and create makeshift sports activities with the resources available?",
+        "At a Charity Gala, you have the opportunity to network with potential donors. How would you pitch a sports program for underprivileged youth, ensuring that the donors understand its impact and importance?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, if one of the students insults another student's athletic abilities, how would you address the situation?",
+        "During a visit to a refugee camp, you overhear someone making derogatory comments about the refugees' capabilities. How do you respond?",
+        "At a talent show, a participant is unfairly criticized by a judge for their performance. What would be your approach to handle this?",
+        "While speaking at a charity gala, an attendee makes a rude remark about the importance of sports education. How do you handle this?",
+        "In a community garden, a disagreement breaks out between two members about the use of space. How would you mediate the situation?",
+        "At a baseball game, you witness a coach berating a young player for making a mistake. What steps would you take to address this?",
+        "During a park picnic, a group of people are making fun of a child who is struggling to play a game. How would you intervene?",
+        "In a classroom discussion about sports, a student claims that only certain ethnic groups are good at athletics. How do you respond to this?",
+        "While at a refugee camp, someone suggests that sports programs are a waste of resources for refugees. How do you address this viewpoint?",
+        "At a charity gala, a donor expresses doubt about the impact of sports education for underprivileged youth. What is your response?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe how you would motivate a classroom of underprivileged youth to set and achieve their sports goals, using specific phrases or expressions you find effective?",
+        "Imagine you are speaking to a group of children in a refugee camp about the importance of sports in overcoming adversity. What key points would you emphasize and how would you articulate them?",
+        "If you were a judge at a talent show for young athletes, what kind of encouraging feedback would you give to a performer who is nervous and lacks confidence?",
+        "At a charity gala, you are asked to give a speech about the impact of sports education on underprivileged youth. How would you structure your speech and what language would you use to inspire the audience?",
+        "In a community garden setting, how would you explain the parallels between nurturing a garden and developing athletic skills to a group of youth?",
+        "During a baseball game, one of the young players makes a significant mistake. How would you address the team to maintain morale and encourage a positive learning experience?",
+        "At a park picnic with your youth team, how would you discuss the value of teamwork and sportsmanship, using examples from your Olympic experience?",
+        "How would you communicate the importance of resilience and perseverance in sports to children in a refugee camp, drawing from your own experiences as an athlete?",
+        "At a talent show, how would you explain the concept of fair play and respectful competition to participants, using specific anecdotes from your coaching career?",
+        "In a classroom setting, how would you incorporate sports metaphors to teach life lessons to your students, and can you give an example of one such lesson?"
+    ],
+    "Persona Consistency": [
+        "In a Classroom setting, how would you incorporate your Olympic experience to inspire and educate underprivileged youth about the importance of sports education?",
+        "While visiting a Refugee Camp, what specific strategies would you use to introduce sports activities that could help improve the morale and physical well-being of the children there?",
+        "At a Talent Show, how would you leverage your background as an Olympic athlete to judge and provide constructive feedback to participants, especially those showcasing athletic skills?",
+        "During a Charity Gala, how would you articulate the importance of sports education for underprivileged youth and potentially secure funding or support for your initiatives?",
+        "In a Community Garden, can you explain how you might integrate sports and physical activities into the gardening projects to encourage healthy lifestyles among participants?",
+        "At a Baseball Game, how would you draw parallels between your training as an Olympic athlete and the skills required for baseball, to educate youth about sports diversity?",
+        "During a Park Picnic, what activities would you organize to engage both children and adults in sports and fitness, and how would you draw from your Olympic experience to make it effective?",
+        "In a Classroom setting, how would you address the challenges faced by underprivileged youth in accessing sports facilities, and what solutions would you propose?",
+        "At a Refugee Camp, how would you handle a situation where the lack of resources makes it difficult to conduct sports activities, and what alternatives would you suggest?",
+        "During a Talent Show, if asked to perform a non-athletic talent, how would you respond to maintain persona consistency and avoid fabricating unrelated skills?"
+    ],
+    "Action Justification": [
+        "In a classroom setting, you decided to organize a sports-related project for the underprivileged youth you coach. Can you justify why you chose to integrate sports into their educational activities?",
+        "During your visit to a refugee camp, you initiated a daily exercise routine for the children there. What motivated you to prioritize physical activity in such an environment?",
+        "At a local talent show, you encouraged one of your youth athletes to participate in a non-sports talent like singing or dancing. Why did you think it was important for them to explore talents outside of sports?",
+        "At a charity gala, you chose to give a speech about the importance of sports education rather than focusing on your personal Olympic achievements. What was the reason behind this approach?",
+        "While working at a community garden, you introduced a sports day event for the children involved. How did you justify combining gardening with sports activities?",
+        "During a baseball game with the youth you coach, you emphasized teamwork and collaboration over winning. Why did you focus on these values during the game?",
+        "At a park picnic organized for the underprivileged youth, you set up an obstacle course and invited everyone to participate. What was your rationale behind creating this physical challenge in a casual setting?",
+        "In a classroom, you decided to use examples from your Olympic training to teach lessons on discipline and perseverance. Why did you think these examples would be effective in an educational setting?",
+        "While visiting a refugee camp, you advocated for the creation of a small sports facility. Can you explain why you believed this was a necessary addition to the camp?",
+        "At a community garden, you allocated a section for playing sports and exercises. What was your justification for incorporating a physical activity area in a gardening space?"
+    ]
+}

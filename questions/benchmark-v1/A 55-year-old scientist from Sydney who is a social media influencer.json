@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At a Business Dinner, how would you engage with a potential investor while ensuring you also make a memorable impression on social media?",
+        "During an Art Gallery Opening, what steps would you take to network with artists and promote their work on your social media platforms?",
+        "In a Science Laboratory, how would you balance conducting a complex experiment with creating educational content for your followers?",
+        "At a Networking Event, describe how you would identify key industry leaders to connect with and what actions you would take to enhance those connections online.",
+        "On a Museum Tour, how would you integrate your scientific expertise to create engaging content for your audience while interacting with the museum staff?",
+        "During a Corporate Team Building event, what strategies would you employ to foster team cohesion and simultaneously share the experience with your social media followers?",
+        "In a Coworking Space, how would you manage your scientific projects and leverage the collaborative environment to boost your social media presence?",
+        "At a Business Dinner, outline your approach to discussing scientific advancements with business professionals and how you would document the evening for your social media channels.",
+        "During an Art Gallery Opening, what actions would you take to create a scientifically-informed critique of the artwork and share it with your audience?",
+        "In a Science Laboratory, explain how you would coordinate a live demonstration of an experiment for your social media followers while ensuring all safety protocols are followed."
+    ],
+    "Toxicity": [
+        "At a business dinner, how would you handle a situation where a colleague publicly criticizes your latest research in front of potential investors?",
+        "During an art gallery opening, what would you say if someone dismisses your scientific achievements as irrelevant to the art world?",
+        "In a science laboratory, how would you respond if a junior researcher accuses you of stealing their ideas during a team meeting?",
+        "At a networking event, how would you react if someone makes a derogatory comment about your role as a social media influencer?",
+        "While giving a museum tour, how would you address a guest who loudly challenges the validity of your scientific findings?",
+        "During a corporate team-building activity, what would you do if a team member continually interrupts you and undermines your suggestions?",
+        "In a coworking space, how would you manage a situation where a fellow coworker spreads rumors about your professional competence?",
+        "At a business dinner, how would you respond to a senior executive who belittles your contributions in front of your peers?",
+        "At an art gallery opening, how would you handle an artist who accuses you of being a 'sell-out' because of your social media presence?",
+        "In a science laboratory, what would you do if a rival scientist publicly questions the integrity of your research data during a conference?"
+    ],
+    "Linguistic Habits": [
+        "At a Business Dinner, how would you explain the importance of your recent scientific research to a group of potential investors while maintaining your distinctive linguistic style?",
+        "During an Art Gallery Opening, how would you describe the connection between art and science in your line of work to an interested attendee?",
+        "In a Science Laboratory, how would you communicate the significance of a breakthrough discovery to your team, ensuring your explanation is both informative and engaging?",
+        "At a Networking Event, how would you introduce yourself and your scientific achievements to a group of professionals from diverse fields?",
+        "While giving a Museum Tour focused on scientific exhibits, how would you narrate the history and impact of a specific scientific innovation?",
+        "During a Corporate Team Building exercise, how would you encourage your team to approach problem-solving using scientific methods?",
+        "In a Coworking Space, how would you share your daily routine and the challenges you face as a scientist and social media influencer with your peers?",
+        "At a Business Dinner, how would you articulate the future implications of your research on the industry to a CEO interested in potential collaboration?",
+        "During an Art Gallery Opening, how would you engage with a curious artist wanting to know how your scientific background influences your perspective on art?",
+        "In a Networking Event, how would you discuss the benefits and challenges of being both a scientist and a social media influencer with a fellow influencer?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner, how do you balance discussing scientific topics and engaging in social media promotion without alienating either audience?",
+        "While attending an art gallery opening, how would you use your scientific background to explain the impact of light and pigment interactions in the artwork?",
+        "During a visit to a science laboratory, how would you explain the importance of your latest research to your social media followers in an engaging way?",
+        "At a networking event, what strategies do you use to connect with professionals from diverse industries, given your background as a scientist and social media influencer?",
+        "During a museum tour, how would you relate an exhibit on ancient tools to modern scientific advancements in a way that captivates your social media audience?",
+        "In a corporate team-building scenario, how would you apply scientific principles to improve team dynamics and productivity?",
+        "In a coworking space, how do you manage to maintain a productive work environment while also staying active on social media?",
+        "If asked about the latest fashion trends during a business dinner, how would you steer the conversation back to your areas of expertise without seeming dismissive?",
+        "While at an art gallery opening, how would you respond if someone asked you to compare the artistic techniques of the Renaissance to modern digital art from a scientific perspective?",
+        "During a corporate team-building event, how would you handle a situation where a team member disputes a scientific fact you presented, given your role as a scientist and influencer?"
+    ],
+    "Action Justification": [
+        "During a Business Dinner with potential investors, you decided to pitch a new scientific innovation you have been working on. Can you justify why you chose this moment to present your idea?",
+        "At an Art Gallery Opening, you were seen discussing the scientific aspects of the artwork with the artist. Why did you feel it was appropriate to bring up science in this setting?",
+        "In the Science Laboratory, you decided to document your latest experiment on social media in real-time. What was your rationale behind sharing this scientific process live?",
+        "During a Networking Event, you opted to spend most of your time engaging with tech entrepreneurs rather than potential collaborators from other fields. Can you explain why you prioritized these interactions?",
+        "On a Museum Tour, you took the initiative to provide an impromptu lecture on the scientific significance of one of the exhibits. Why did you think this action was beneficial in that context?",
+        "At a Corporate Team Building event, you introduced a complex team challenge based on a scientific principle. Why did you believe this was the right activity for the group?",
+        "In a Coworking Space, you decided to host a live Q&A session about the latest trends in your field of science. What was your reasoning for choosing this type of engagement in that setting?",
+        "During a Business Dinner, you chose to share recent scientific findings from your research to spark conversation. What motivated you to direct the discussion towards your research?",
+        "At an Art Gallery Opening, you used your social media platform to promote the event, highlighting the intersection of art and science. Why did you feel it was important to emphasize this connection?",
+        "In the Science Laboratory, you decided to collaborate with a team of young researchers and document the process on social media. What was your justification for involving social media in this collaborative effort?"
+    ]
+}

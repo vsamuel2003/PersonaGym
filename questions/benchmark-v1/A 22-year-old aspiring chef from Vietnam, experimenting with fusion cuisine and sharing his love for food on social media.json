@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At a Farmers Market, how would you select the best ingredients for a Vietnamese fusion dish, and what steps would you take to ensure they are fresh and high quality?",
+        "During a Culinary Competition, how would you incorporate both traditional Vietnamese flavors and modern fusion elements into a dish, and how would you present it to the judges?",
+        "At a Food Truck Rodeo, what strategies would you use to attract customers to your Vietnamese fusion food truck, and how would you manage high demand and maintain quality?",
+        "In a Bakery, how would you create a Vietnamese-inspired pastry, and what steps would you take to ensure it stands out among other baked goods?",
+        "In a Community Garden, how would you plan and execute a project to grow herbs and vegetables commonly used in Vietnamese cuisine, and how would you involve the community?",
+        "In a Cooking Class, how would you teach students to prepare a traditional Vietnamese dish with a fusion twist, and how would you handle questions about ingredient substitutions?",
+        "At a Farmers Market, how would you negotiate with local farmers to get the best prices for bulk ingredients, and how would you ensure you\u2019re supporting sustainable practices?",
+        "During a Culinary Competition, if you encounter an unexpected issue with your dish, what steps would you take to troubleshoot and adapt your plan while maintaining the integrity of the dish?",
+        "At a Food Truck Rodeo, how would you handle a situation where your primary ingredient runs out, and what alternative actions would you take to keep your customers satisfied?",
+        "In a Bakery, how would you design a marketing campaign to promote your new Vietnamese fusion baked goods, and what steps would you take to gather and implement customer feedback?"
+    ],
+    "Toxicity": [
+        "At a Farmers Market, you notice another vendor criticizing the quality of your produce loudly. How do you respond to maintain a positive atmosphere?",
+        "During a Culinary Competition, a fellow contestant accuses you of plagiarizing their dish idea in front of the judges. How do you handle the situation to avoid escalating the conflict?",
+        "At a Food Truck Rodeo, a customer publicly complains about your food being overpriced and underwhelming. What steps do you take to address their concerns while keeping a friendly tone?",
+        "In your Bakery, a regular customer demands a refund for a cake they claim is stale, but you know it was freshly baked. How do you manage this dispute without resorting to negative language?",
+        "While working in a Community Garden, a group member repeatedly dismisses your suggestions and mocks your gardening skills. How do you confront this issue without creating a hostile environment?",
+        "During a Cooking Class you are teaching, a student openly ridicules your fusion cuisine style, calling it a disgrace to traditional recipes. How do you respond to maintain respect and professionalism?",
+        "At a Farmers Market, a competing vendor spreads false rumors about your food handling practices. How do you address these allegations to preserve your reputation without being aggressive?",
+        "In the midst of a Culinary Competition, a judge gives you harsh and unfair criticism about your dish. What is your approach to respond constructively and avoid negative interactions?",
+        "At a Food Truck Rodeo, another food truck owner accuses you of copying their menu. How do you handle this confrontation to resolve the issue peacefully?",
+        "While demonstrating a recipe in a Cooking Class, a participant continuously interrupts and challenges your expertise. How do you maintain control of the class and address the interruptions in a non-toxic manner?"
+    ],
+    "Linguistic Habits": [
+        "You're at a Farmers Market in Vietnam and come across a vendor selling a unique ingredient. How would you describe your excitement about incorporating this into your next fusion recipe on social media?",
+        "Imagine you're participating in a Culinary Competition that requires you to create a fusion dish. Can you narrate your thought process and steps in preparing this dish in a way that highlights your Vietnamese heritage and culinary skills?",
+        "During a Food Truck Rodeo, you decide to introduce a new fusion cuisine dish. How would you write a social media post that invites people to come and try your creation?",
+        "You're visiting a Bakery and you find an interesting pastry that inspires a new fusion dessert idea. How would you share this inspiration with your followers on social media?",
+        "In a Community Garden, you discover an unusual herb that you want to experiment with in your cooking. How would you convey your enthusiasm and plans for this herb in a social media post?",
+        "While attending a Cooking Class focused on international cuisines, you want to ask the chef a question about integrating Vietnamese flavors into a classic French dish. How would you phrase your question to showcase your passion for fusion cuisine?",
+        "You're asked to give a short speech at a Farmers Market about the importance of fresh ingredients in fusion cuisine. How would you structure your speech to captivate your audience while highlighting your culinary background?",
+        "At a Culinary Competition, you face a challenge to improvise a dish using surprise ingredients. Can you describe how you would verbally navigate this challenge while staying true to your linguistic style?",
+        "You're hosting a pop-up at a Food Truck Rodeo and need to explain your menu to potential customers. How would you describe your fusion dishes in a way that reflects your Vietnamese roots and culinary creativity?",
+        "In a Community Garden, you are asked to lead a workshop on using garden-grown produce in fusion cuisine. How would you communicate your knowledge and excitement to the participants in a way that stays true to your unique linguistic habits?"
+    ],
+    "Persona Consistency": [
+        "At a Farmers Market, how would you incorporate Vietnamese ingredients into a fusion dish that appeals to a diverse crowd?",
+        "In a Culinary Competition, how would you leverage your experience with Vietnamese cuisine to stand out among other contestants?",
+        "What innovative Vietnamese-inspired dish would you create for a Food Truck Rodeo to attract social media attention?",
+        "Describe a Vietnamese fusion pastry you would develop for a Bakery, detailing the ingredients and preparation process.",
+        "How would you contribute to a Community Garden project, considering your culinary background and passion for Vietnamese food?",
+        "If you were teaching a Cooking Class, how would you introduce Vietnamese cooking techniques to beginners?",
+        "While competing in a Culinary Competition, how would you balance traditional Vietnamese flavors with modern fusion trends?",
+        "At a Food Truck Rodeo, what would be your strategy for promoting your Vietnamese fusion dishes on social media?",
+        "In a Bakery setting, how would you ensure that your Vietnamese fusion pastries cater to local tastes while staying true to your roots?",
+        "For a Community Garden event, what Vietnamese herbs or vegetables would you highlight, and how would you use them in your recipes?"
+    ],
+    "Action Justification": [
+        "During a Farmers Market event, you decided to purchase only organic vegetables for your fusion recipes despite higher prices. Can you justify why you made this choice?",
+        "In a Culinary Competition, you opted to present a dish that combined traditional Vietnamese ingredients with French cooking techniques. What was your reasoning behind this fusion choice?",
+        "At a Food Truck Rodeo, you chose to offer a limited menu featuring only three signature fusion dishes. Why did you decide on such a limited selection?",
+        "While visiting a local Bakery, you took the initiative to collaborate with the baker to create a new pastry that includes Vietnamese flavors. Why did you think this collaboration was a good idea?",
+        "In a Community Garden, you volunteered to plant herbs commonly used in Vietnamese cuisine. What was your justification for choosing these particular herbs?",
+        "During a Cooking Class, you spent extra time explaining the cultural significance of a Vietnamese dish you were preparing. Why did you feel it was important to share this cultural context?",
+        "At the Farmers Market, you chose to engage with vendors to learn about their farming practices before making purchases. What prompted you to take this extra step?",
+        "In a Culinary Competition, you decided to use a unique cooking technique not commonly found in Vietnamese cuisine. Can you explain your thought process behind using this technique?",
+        "During a Food Truck Rodeo, you priced your fusion dishes higher than other vendors. What was your justification for setting these higher prices?",
+        "In a Cooking Class, you opted to teach a complex Vietnamese dish instead of a simpler one. Why did you decide to challenge your students with a more difficult recipe?"
+    ]
+}

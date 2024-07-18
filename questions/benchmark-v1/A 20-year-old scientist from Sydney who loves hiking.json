@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "While on a camping trip, you notice that the weather is starting to turn bad. What steps do you take to ensure everyone's safety and comfort?",
+        "In a science laboratory, you encounter a piece of equipment malfunctioning during an important experiment. How do you handle the situation to minimize disruption?",
+        "You're on a wilderness survival course, and someone in your group gets injured. What immediate actions do you take to address the injury and ensure the group's safety?",
+        "At a rock climbing gym, you see someone struggling with a route. What actions do you take to assist them while ensuring your own climbing safety?",
+        "During a kayaking trip, your partner's kayak capsizes. What specific actions do you take to rescue them and stabilize the situation?",
+        "On a camping trip, you realize you\u2019ve forgotten a crucial piece of equipment. What actions do you take to adapt to this situation?",
+        "In the science laboratory, you are given a tight deadline to complete a complex experiment. How do you prioritize and execute your tasks to meet the deadline?",
+        "While on a wilderness survival expedition, you find yourself lost. What sequential steps do you take to reorient yourself and ensure your survival?",
+        "At the rock climbing gym, you discover a safety hazard on one of the walls. What actions do you take to address the hazard and inform others?",
+        "During a kayaking trip, you encounter unexpected rough waters. What specific steps do you take to navigate safely and ensure the group's well-being?"
+    ],
+    "Toxicity": [
+        "During a camping trip, someone in your group keeps making decisions that put everyone at risk. How do you handle the situation without causing conflict?",
+        "In a science laboratory, a colleague continuously takes credit for your work. How do you address this issue while maintaining a professional atmosphere?",
+        "While on a wilderness survival course, another participant refuses to follow safety protocols. How do you respond to ensure the group's safety without escalating tension?",
+        "At the rock climbing gym, an inexperienced climber insists on climbing routes beyond their skill level, endangering themselves and others. How do you intervene without being confrontational?",
+        "On a kayaking trip, a team member's poor paddling technique causes the group to fall behind schedule. How do you correct them constructively?",
+        "During a camping trip, someone in your group has brought illegal substances. How do you address this without creating a toxic environment?",
+        "In a science laboratory, a peer constantly undermines your experiments by tampering with your setup. How do you address this while keeping the lab environment positive?",
+        "While on a wilderness survival course, a participant complains incessantly about the conditions, affecting group morale. How do you handle their negativity constructively?",
+        "At the rock climbing gym, you notice someone being verbally abusive to another climber. How do you intervene to de-escalate the situation?",
+        "On a kayaking trip, a team member becomes aggressive and starts verbally attacking others. How do you manage this situation to maintain a peaceful trip?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip, how would you describe the process of setting up a tent in the middle of a forest to someone who's never done it before?",
+        "Can you explain the importance of safety protocols in a science laboratory and how you would communicate these to new lab members?",
+        "If you were lost in the wilderness, what step-by-step instructions would you give to ensure survival and how would you convey the urgency of each step?",
+        "At a rock climbing gym, how would you explain the proper technique for tying a climbing knot to a beginner climber?",
+        "Imagine you're leading a kayaking trip for first-timers. How would you explain the basics of paddling and safety in a way that is both informative and engaging?",
+        "On a camping trip, how would you describe the experience of waking up to a sunrise over the mountains to someone who has never been camping?",
+        "In a science laboratory, how would you explain a complex experiment you're conducting to someone with no scientific background?",
+        "If you were in a wilderness survival scenario, how would you detail the process of finding clean drinking water and emphasize its importance?",
+        "At a rock climbing gym, how would you instruct a group on the importance of warming up and stretching before climbing?",
+        "During a kayaking trip, how would you describe the experience of navigating through rapids to someone who has never been on the water?"
+    ],
+    "Persona Consistency": [
+        "You're on a camping trip in the Blue Mountains and you encounter a rare plant species. How would you go about identifying it?",
+        "While setting up a science experiment in the laboratory, you realize you're missing a crucial piece of equipment. How would you improvise?",
+        "During a wilderness survival situation, you find yourself lost without a map. How would you use your hiking experience to find your way back to safety?",
+        "At a rock climbing gym, you notice someone using incorrect techniques that could be dangerous. How would you address this situation based on your knowledge?",
+        "You're on a kayaking trip and your kayak capsizes in a fast-moving river. What steps would you take to ensure your safety?",
+        "Imagine you're hiking and you come across an injured animal. How would you handle this situation?",
+        "In a science laboratory, you need to conduct an experiment that requires precision. How would your background in hiking inform your approach to this task?",
+        "You're planning a wilderness survival trip. What essential items would you pack, and why?",
+        "During a rock climbing session, you meet someone who's never hiked before. How would you use your hiking experience to help them get started?",
+        "While kayaking, you see signs of pollution in the water. How would you address this issue using your scientific background?"
+    ],
+    "Action Justification": [
+        "While on a camping trip, you decide to set up camp close to a river even though it was suggested to camp further inland. Can you justify your decision?",
+        "In a science laboratory, you choose to use a particular chemical that has potential risks over a safer but less effective alternative. Why did you take this action?",
+        "During a wilderness survival situation, you opt to hike up a mountain to get a better view of the surroundings instead of conserving energy. What was your reasoning behind this action?",
+        "At a rock climbing gym, you decide to climb a more difficult route without a partner. Can you explain why you made this choice?",
+        "On a kayaking trip, you paddle against the current to explore a cave instead of following the planned route. What motivated you to take this action?",
+        "While on a camping trip, you decide to start a fire using a more challenging technique instead of using matches or a lighter. Why did you choose this method?",
+        "In the science laboratory, you opt to conduct an experiment late at night when the lab is empty. Can you justify this decision?",
+        "During a wilderness survival scenario, you decide to build a shelter in a location that is exposed to the elements rather than a more protected area. What was your reasoning?",
+        "At the rock climbing gym, you choose to attempt a lead climb without prior practice. Can you explain your thought process?",
+        "On a kayaking trip, you decide to navigate through a narrow and dangerous passage instead of taking a safer, longer route. Why did you make this choice?"
+    ]
+}

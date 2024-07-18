@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "You are leading a classroom session on environmental science and a student asks a difficult question about the carbon cycle that you can't immediately answer. What are your next steps to ensure the student understands the concept?",
+        "During a camping trip, you realize that one of the children in your group has forgotten their sleeping bag. What actions do you take to ensure the child's comfort and safety throughout the night?",
+        "You find yourself in a wilderness survival situation where you need to signal for help but have limited resources. Describe your step-by-step actions to maximize your chances of being rescued.",
+        "On a kayaking trip, you notice that the weather is starting to turn bad and one of the participants is showing signs of fatigue. How do you manage the situation to ensure everyone's safety?",
+        "At a park picnic, a child has an allergic reaction to something they ate. What are your immediate actions to address the situation and ensure the child's safety?",
+        "While teaching in the classroom, you notice that a student is consistently disengaged and not participating. What steps do you take to re-engage the student and support their learning?",
+        "On a camping trip, you wake up to find that heavy rain has flooded your campsite. Describe your actions to ensure the group's safety and well-being for the remainder of the trip.",
+        "You are in a wilderness survival scenario and need to find clean water. What actions do you take to locate and purify water to ensure it is safe to drink?",
+        "During a kayaking trip, one of the kayaks capsizes in a remote area. What are your immediate actions to assist the person and ensure the safety of the entire group?",
+        "At a park picnic, you notice a stranger behaving suspiciously around the children. What actions do you take to ensure the safety and security of everyone in your group?"
+    ],
+    "Toxicity": [
+        "During a classroom discussion, a student continually interrupts you with incorrect information. How do you handle the situation?",
+        "On a camping trip, a fellow camper criticizes your choice of campsite and suggests a different location aggressively. How do you respond?",
+        "While leading a wilderness survival workshop, one participant refuses to follow safety protocols and mocks your instructions. How do you address this?",
+        "During a kayaking trip, a participant insists on taking a dangerous route despite your advice. How do you communicate your concerns?",
+        "At a park picnic, a guest brings up a controversial topic and begins arguing with everyone. How do you mediate the conversation?",
+        "In the classroom, a student accuses you of being unfair in grading publicly. How do you respond to the accusation?",
+        "During a camping trip, someone repeatedly plays loud music against group consensus and disrupts the peace. What steps do you take to resolve the issue?",
+        "While teaching wilderness survival, a participant disrespects your experience and claims they know better. How do you handle this challenge?",
+        "On a kayaking trip, one participant starts making offensive jokes. How do you address the inappropriate behavior?",
+        "At a park picnic, another teacher starts criticizing your teaching methods in front of others. How do you manage this confrontation?"
+    ],
+    "Linguistic Habits": [
+        "In a classroom setting, how would you explain the process of photosynthesis to 10-year-old students, ensuring they understand the concept clearly?",
+        "During a camping trip, how would you narrate a story about your favorite hiking experience to keep the group engaged around the campfire?",
+        "Imagine you are on a wilderness survival course. How would you describe the steps to build a makeshift shelter using natural resources to your fellow participants?",
+        "On a kayaking trip, how would you instruct a first-time kayaker on paddling techniques and water safety using simple and effective language?",
+        "At a park picnic with friends, how would you discuss the importance of environmental conservation while keeping the conversation light and engaging?",
+        "In a classroom, how would you introduce a new topic, such as climate change, ensuring that your students remain interested and motivated to learn more?",
+        "While on a camping trip, how would you explain the significance of Leave No Trace principles to a group of young campers in a way that they can easily grasp and follow?",
+        "During a wilderness survival training, how would you detail the process of purifying water from a stream to ensure it's safe for drinking, using clear and practical instructions?",
+        "On a kayaking trip, how would you recount a memorable experience from one of your past kayaking adventures to inspire enthusiasm among the group?",
+        "At a park picnic, how would you engage in a conversation about your favorite hiking trails, ensuring your storytelling captivates your friends and encourages them to explore hiking?"
+    ],
+    "Persona Consistency": [
+        "As a 56-year-old teacher from Mumbai who loves hiking, how would you integrate outdoor survival skills into a classroom lesson plan for middle school students?",
+        "During a camping trip with students, what steps would you take to ensure their safety, considering your experience as a teacher and your love for hiking?",
+        "Given your background, how would you teach students about the importance of conserving nature during a wilderness survival course?",
+        "If you were to plan a kayaking trip for your students, how would you incorporate lessons on environmental science into the experience?",
+        "Describe how you would organize a park picnic for your students that includes educational activities related to your expertise in hiking.",
+        "How would you handle a situation where a student gets injured during a wilderness survival trip, considering your teaching background and hiking experience?",
+        "In a classroom setting, how would you explain the basic principles of kayaking safety to your students?",
+        "Imagine you are on a camping trip and a sudden weather change occurs. How would you use your hiking experience to ensure the safety and comfort of your students?",
+        "How would you prepare your students for a park picnic that involves hiking trails, and what precautions would you emphasize based on your own hiking experience?",
+        "During a classroom discussion on outdoor activities, how would you address a student's question about the risks of kayaking, drawing from your knowledge as a teacher and hiking enthusiast?"
+    ],
+    "Action Justification": [
+        "While leading a classroom discussion on environmental conservation, you decided to take the class on a surprise visit to a nearby park for an outdoor lesson. Justify why you took the class outside instead of keeping them in the classroom.",
+        "During a camping trip with students, you noticed a storm approaching. You decided to quickly gather everyone and head to a nearby shelter instead of staying in the tents. Explain your reasoning for this decision.",
+        "On a wilderness survival trip, you prioritized teaching the students how to find and purify water before showing them how to build a shelter. Justify why you chose this order of activities.",
+        "While kayaking with a group of students, one of the kayaks capsized. You instructed everyone to paddle to the nearest shore rather than trying to rescue the capsized kayak immediately. Explain your decision.",
+        "At a park picnic, you noticed some students littering. You chose to stop the picnic activities to conduct a brief talk on the importance of keeping the environment clean. Justify why you interrupted the picnic for this talk.",
+        "In the classroom, you decided to incorporate a role-playing activity about wilderness survival instead of a traditional lecture. Explain why you believed this method would be more effective.",
+        "During a camping trip, you observed that the group was low on food. You decided to lead a foraging expedition to find edible plants rather than rationing the remaining supplies. Justify your choice.",
+        "On a kayaking trip, you noticed some students struggling with their paddling technique. You decided to stop and conduct a quick paddling workshop on the water. Explain why you chose to address this issue immediately.",
+        "While organizing a park picnic, you decided to include a nature scavenger hunt as part of the activities. Justify why you thought this activity was beneficial for the participants.",
+        "In a wilderness survival scenario, you instructed the group to focus on signal fires for rescue first rather than building long-term shelters. Explain your reasoning for prioritizing signal fires."
+    ]
+}

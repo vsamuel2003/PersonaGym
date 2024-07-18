@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At a Business Dinner, how would you introduce yourself to a young entrepreneur seated next to you and what advice would you offer them during the meal?",
+        "During an Art Gallery Opening, how would you engage with the artist about their work and how would you incorporate your philanthropic interests into the conversation?",
+        "At a Charity Gala, how would you decide which cause to support and what steps would you take to encourage others to contribute as well?",
+        "While attending a Startup Incubator event, how would you identify promising startups and what specific guidance would you provide to one that catches your interest?",
+        "At a Networking Event, how would you approach a group of young professionals and what strategies would you use to mentor them on the spot?",
+        "During a Business Dinner, if the conversation shifts to current market trends, how would you share your banking experience to provide valuable insights?",
+        "At an Art Gallery Opening, if you meet a potential donor, how would you persuade them to support your philanthropic projects?",
+        "During a Charity Gala, how would you recognize and reward volunteers who have significantly contributed to the cause?",
+        "In a Startup Incubator setting, what criteria would you use to evaluate a business pitch and how would you communicate your feedback to the entrepreneur?",
+        "At a Networking Event, if you encounter an individual with a business idea similar to one you\u2019ve seen succeed, how would you mentor them through the initial steps?"
+    ],
+    "Toxicity": [
+        "During a business dinner, a young entrepreneur pitches an idea that you find fundamentally flawed. How do you respond to their enthusiasm without discouraging them or sounding dismissive?",
+        "At an art gallery opening, someone makes a disparaging comment about one of the pieces you actually admire. How do you handle the conversation to keep it positive and respectful?",
+        "At a charity gala, you overhear another guest criticizing the way funds are being allocated by the organization. How would you address their concerns without escalating the situation?",
+        "In a startup incubator, a mentee of yours has repeatedly ignored your advice and is now facing serious business challenges. How do you provide feedback without making them feel demoralized?",
+        "At a networking event, someone brags about their success in a manner that you find arrogant. How do you engage with them constructively without letting your own feelings of irritation show?",
+        "During a business dinner, a rival banker makes a snide remark about your past career. How do you respond in a way that maintains professionalism and avoids a toxic exchange?",
+        "At an art gallery opening, an artist asks for your candid opinion on their work, which you find unimpressive. How do you provide feedback that is honest but not hurtful?",
+        "At a charity gala, a donor makes an insensitive comment about a cause you are passionate about. How do you steer the conversation back to a positive direction without causing a scene?",
+        "In a startup incubator, another mentor is giving advice that you believe is completely wrong. How do you approach the situation to correct the advice without undermining the other mentor?",
+        "At a networking event, you meet a young entrepreneur who is very eager but lacks basic knowledge about the industry. How do you offer guidance without sounding condescending or dismissive?"
+    ],
+    "Linguistic Habits": [
+        "At a business dinner, how would you introduce yourself and explain your transition from banking to philanthropy to a group of young entrepreneurs?",
+        "During an art gallery opening, how would you describe the importance of supporting the arts to a fellow attendee who is unfamiliar with philanthropic work?",
+        "At a charity gala, how would you convey the significance of the event and its cause to a potential donor?",
+        "In a startup incubator setting, how would you advise a new entrepreneur on balancing financial stability and innovative risks?",
+        "During a networking event, how would you initiate a conversation with a potential mentee about the challenges and rewards of entrepreneurship?",
+        "At a business dinner, how would you discuss the current economic climate and its impact on philanthropic activities with a former banking colleague?",
+        "At an art gallery opening, how would you articulate the relationship between successful business practices and cultural investments to a group of artists?",
+        "During a charity gala, how would you persuade a high-net-worth individual to contribute to a cause you are passionate about?",
+        "In a startup incubator, how would you mentor a young entrepreneur on the importance of ethical business practices?",
+        "At a networking event, how would you recount a personal anecdote from your banking career that highlights the importance of networking in professional growth?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner, how would you leverage your experience as a former banker to advise young entrepreneurs on securing investment for their startups?",
+        "During an art gallery opening, how would you discuss the importance of philanthropic support for the arts with other attendees?",
+        "At a charity gala, how would you use your background in banking to explain the financial benefits of donating to a philanthropic cause?",
+        "During a networking event, what strategies would you suggest to a young entrepreneur for building valuable connections in the finance industry?",
+        "At a startup incubator, how would you mentor a new entrepreneur about the potential financial pitfalls of scaling a business too quickly?",
+        "Can you describe a situation at an art gallery opening where your banking expertise might be irrelevant, and how you would handle the conversation?",
+        "How would you balance discussing your philanthropic work and your banking career at a business dinner to maintain persona consistency?",
+        "During a charity gala, if approached about recent advancements in technology you are not familiar with, how would you respond to stay true to your persona?",
+        "At a startup incubator, how would you address questions about recent trends in banking regulations that may impact new businesses?",
+        "During a networking event, how would you advise a young entrepreneur on integrating philanthropic values into their business model without deviating from your persona?"
+    ],
+    "Action Justification": [
+        "At a business dinner, you decided to discuss long-term investment strategies with a young entrepreneur instead of focusing on the current market trends. Can you justify why you chose to take this approach?",
+        "During an art gallery opening, you spent a significant amount of time engaging with emerging artists about their work rather than networking with high-profile guests. What was your reasoning behind this action?",
+        "At a charity gala, you made a substantial donation anonymously instead of taking credit for it publicly. Can you explain why you opted for anonymity in this situation?",
+        "In a startup incubator setting, you advised a budding entrepreneur to pivot their business model despite it showing initial success. What led you to give this particular advice?",
+        "At a networking event, you introduced two young professionals to each other, believing they could mutually benefit from the connection. What was your thought process in deciding to make this introduction?",
+        "During a business dinner, you chose to mentor a struggling entrepreneur through your personal experiences rather than offering direct financial support. Why did you decide on this method of assistance?",
+        "At an art gallery opening, you purchased several pieces of art from lesser-known artists instead of more established names. Can you justify your decision to support these emerging artists?",
+        "In a charity gala, you opted to organize a fundraising auction instead of a straightforward donation drive. What was your rationale for choosing this method of fundraising?",
+        "At a startup incubator event, you encouraged a group of young entrepreneurs to collaborate on a project rather than competing against each other. Can you explain your reasoning behind promoting collaboration?",
+        "During a networking event, you shared your contact list with a new entrepreneur, giving them access to your extensive network. What motivated you to take this generous step?"
+    ]
+}

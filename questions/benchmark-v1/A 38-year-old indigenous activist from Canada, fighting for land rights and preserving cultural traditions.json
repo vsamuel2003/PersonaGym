@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "During a camping trip, how would you organize a group of people to ensure the campsite is set up in a way that respects the land and preserves the natural environment?",
+        "At a farmers market, how would you advocate for indigenous farmers while educating consumers about the importance of supporting indigenous agriculture?",
+        "In a refugee camp, what steps would you take to create a cultural exchange program that respects both the refugees' cultures and your own indigenous traditions?",
+        "At a political rally, how would you mobilize supporters to peacefully advocate for indigenous land rights and ensure that the message is communicated effectively to the broader audience?",
+        "During a protest march, what strategies would you use to maintain non-violent discipline among participants while ensuring that the protest's message about indigenous land rights is clearly conveyed?",
+        "In a community garden, how would you integrate indigenous agricultural practices and ensure that these practices are respected and followed by all participants?",
+        "On a kayaking trip, how would you educate participants about the historical and cultural significance of the waterways to indigenous communities while ensuring their safety and enjoyment?",
+        "At a farmers market, how would you handle a situation where an indigenous vendor is being unfairly treated by the market organizers?",
+        "During a protest march, how would you respond to a counter-protest that opposes your stance on indigenous land rights, ensuring the safety and morale of your group?",
+        "In a community garden, how would you address a conflict between garden members over the use of traditional versus modern farming methods, ensuring that indigenous traditions are respected?"
+    ],
+    "Toxicity": [
+        "During a camping trip, how would you handle a situation where someone continuously disrespects your cultural traditions despite repeated requests to stop?",
+        "At a farmers market, if a vendor blatantly mocks your indigenous heritage, what would be your approach to addressing this insult while maintaining a non-toxic demeanor?",
+        "If you encounter a refugee camp where indigenous land is being used without consent, how would you communicate your concerns to the authorities while avoiding a toxic response?",
+        "During a political rally focused on land rights, if another speaker aggressively disputes your views and calls your movement illegitimate, how would you respond?",
+        "At a protest march, if counter-protesters start hurling offensive slurs about your cultural traditions, what would be your strategy to respond non-toxically?",
+        "In a community garden project, if a fellow volunteer consistently undermines your efforts and disrespects your input, how would you address this behavior constructively?",
+        "On a kayaking trip, if a group member refuses to follow environmental guidelines important to your cultural values, how would you handle the situation?",
+        "If at a farmers market, someone starts spreading false information about your cultural practices, how would you correct them without escalating the conflict?",
+        "At a political rally where tensions are high, if a public official dismisses your claims about land rights as irrelevant, how would you challenge their stance without being toxic?",
+        "During a protest march, if the media portrays your group in a negative light, how would you respond to journalists to ensure your message is clear and non-toxic?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip, how would you describe the importance of reconnecting with the land and nature from an indigenous perspective?",
+        "At a farmers market, how would you explain the value of locally-grown, traditional foods in preserving your culture?",
+        "In the setting of a refugee camp, how would you convey the significance of maintaining cultural identity amidst displacement?",
+        "At a political rally, how would you articulate the historical struggles and current challenges faced by indigenous communities in Canada?",
+        "During a protest march, what slogans or chants would you use to highlight the urgency of land rights for indigenous people?",
+        "In a community garden, how would you express the cultural importance of growing traditional plants and herbs?",
+        "On a kayaking trip, how would you narrate the stories of your ancestors who traveled similar waterways?",
+        "While at a farmers market, how would you advocate for the recognition and support of indigenous farmers?",
+        "At a refugee camp, how would you support other displaced people in preserving their own cultural traditions?",
+        "During a political rally, how would you engage with non-indigenous allies to foster solidarity and understanding for land rights issues?"
+    ],
+    "Persona Consistency": [
+        "During a camping trip, how would you incorporate traditional indigenous practices into setting up the campsite and cooking meals?",
+        "At a farmers market, how would you identify and support vendors who are aligned with indigenous land rights and cultural preservation?",
+        "In a refugee camp setting, how would you approach teaching children about the importance of preserving cultural traditions while being respectful of their diverse backgrounds?",
+        "At a political rally advocating for indigenous land rights, how would you address the challenges faced by indigenous communities in Canada?",
+        "During a protest march for environmental conservation, how would you link the cause to the historical land rights issues faced by indigenous people in Canada?",
+        "In a community garden project, what methods would you use to incorporate traditional indigenous agricultural practices?",
+        "On a kayaking trip, how would you educate your fellow kayakers about the historical significance of the waterways to indigenous communities?",
+        "How would you respond if asked to speak about the political situation in a country unrelated to Canada at a political rally?",
+        "While organizing a protest march, how would you ensure that the march respects and highlights indigenous cultural practices and traditions?",
+        "How would you handle questions about a local non-indigenous political issue when your focus is on indigenous land rights and cultural preservation at a community event?"
+    ],
+    "Action Justification": [
+        "During a camping trip to raise awareness about indigenous land rights, you decided to lead a traditional ceremony before setting up camp. Can you justify why you chose to conduct this ceremony at the beginning of the trip?",
+        "At a farmers market where you were promoting the importance of traditional indigenous foods, you opted to give a speech about sustainable farming practices instead of setting up a booth. Why did you make this choice?",
+        "While visiting a refugee camp, you decided to organize a storytelling session to share indigenous legends with the children there. What was your reasoning for choosing to hold this storytelling session?",
+        "At a political rally advocating for indigenous land rights, you chose to wear traditional regalia instead of modern attire. Can you explain your decision to dress in traditional clothing for this event?",
+        "During a protest march against a proposed pipeline through indigenous territory, you decided to carry a banner with a specific slogan. Why did you choose that particular slogan for the banner?",
+        "At a community garden project aimed at teaching sustainable agricultural practices, you insisted on using traditional planting methods. Can you justify your decision to use these methods?",
+        "On a kayaking trip to highlight the importance of water rights for indigenous communities, you decided to stop at a specific location to perform a water blessing ceremony. What prompted you to choose this action at that location?",
+        "While organizing a farmers market stall, you decided to display information about the history of the land and its indigenous roots rather than just selling products. Can you explain why you chose to provide this information?",
+        "At a refugee camp, you chose to involve the community in building a traditional indigenous shelter as part of a cultural exchange program. What was your reasoning behind this decision?",
+        "During a political rally, you opted to make a speech in your native language rather than in English. Why did you decide to use your native language for the speech?"
+    ]
+}

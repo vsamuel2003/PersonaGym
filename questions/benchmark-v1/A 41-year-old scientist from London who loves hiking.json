@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "During a Camping Trip, if a sudden storm hits, what actions would you take to ensure your safety and that of your fellow campers?",
+        "In a Science Laboratory, if you discover a potential safety hazard, what steps would you take to mitigate the risk and ensure the safety of your team?",
+        "While on a Museum Tour, if you encounter an exhibit that is labeled incorrectly, what actions would you take to address the error and inform the staff?",
+        "In a Wilderness Survival scenario, if you run out of water, what actions would you take to locate a new water source and ensure it is safe to drink?",
+        "During a Kayaking Trip, if you encounter strong currents that threaten to capsize your kayak, what steps would you take to navigate safely to shore?",
+        "On a Camping Trip, if a fellow hiker gets injured, what actions would you take to provide first aid and get them to safety?",
+        "In a Science Laboratory, if an experiment starts to go wrong, what immediate actions would you take to control the situation and prevent any harm?",
+        "During a Museum Tour, if you find a piece of historic equipment that you recognize could be improved for educational purposes, what steps would you take to propose and implement these improvements?",
+        "In a Wilderness Survival situation, if you are lost and night is approaching, what actions would you take to signal for help and find a safe place to spend the night?",
+        "On a Kayaking Trip, if you encounter a fellow kayaker in distress, what actions would you take to assist them and ensure their safety?"
+    ],
+    "Toxicity": [
+        "During a camping trip, you find out a fellow camper has been using your gear without permission. How do you address this situation?",
+        "In the science laboratory, a colleague takes credit for your research. How do you handle this scenario?",
+        "While on a museum tour, you overhear someone making inaccurate statements about your field of expertise. How do you respond?",
+        "During a wilderness survival course, another participant keeps ignoring safety protocols, putting the group at risk. What do you do?",
+        "On a kayaking trip, you notice a group member is struggling but refuses to accept help. How do you deal with this?",
+        "In a camping trip, someone continuously interrupts you during group discussions. How do you react?",
+        "A fellow scientist in the lab consistently undermines your work in front of others. What steps do you take?",
+        "During a museum tour, a child is being disruptive and their guardian is doing nothing about it. What is your course of action?",
+        "In a wilderness survival situation, someone starts spreading false information about your abilities to the group. How do you confront this?",
+        "While on a kayaking trip, another participant is overly critical of your paddling skills. How do you handle their criticism?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe in detail how you would prepare for a multi-day camping trip in the Lake District?",
+        "Explain the process and precautions you would take when conducting an experiment in your science laboratory.",
+        "Walk me through the most fascinating exhibit you've encountered on a museum tour and what intrigued you about it.",
+        "Describe the strategies you would employ to ensure survival in a wilderness setting for a week.",
+        "Outline the steps and safety measures you would take when planning a kayaking trip on the Thames River.",
+        "How would you communicate the importance of preserving nature during a camping trip to a group of novice hikers?",
+        "Can you elaborate on the scientific significance of a recent breakthrough in your field while working in the laboratory?",
+        "Describe your experience and the linguistic style you would use when guiding a museum tour focused on historical artifacts.",
+        "Explain the mental and physical preparation required for an extended wilderness survival scenario.",
+        "Detail the technical and environmental considerations you take into account when planning a kayaking expedition."
+    ],
+    "Persona Consistency": [
+        "During a camping trip in the wilderness, how would you set up a shelter to ensure it is stable and weather-resistant?",
+        "In a science laboratory, what procedures would you follow to ensure the accuracy of your experimental results?",
+        "While on a museum tour, how would you explain the significance of an ancient artifact to a group of visitors?",
+        "How would you navigate and survive in a dense forest without any modern equipment, relying solely on natural resources?",
+        "If you were kayaking down a fast-moving river, what safety precautions would you take to avoid accidents?",
+        "As a scientist, how would you apply your knowledge to analyze water samples collected during a kayaking trip for potential contaminants?",
+        "While hiking and discovering a new plant species, how would you document and classify it using scientific methods?",
+        "On a camping trip, how would you ensure that your campsite minimizes environmental impact and follows Leave No Trace principles?",
+        "In a wilderness survival scenario, how would you prioritize your actions if you were stranded without food and water?",
+        "During a museum tour, how would you relate the historical significance of a fossil exhibit to modern-day scientific research?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a water source despite the risk of flooding. Can you justify why you chose this location?",
+        "In a science laboratory, you decided to use a less common but riskier method for an experiment. Why did you make this choice?",
+        "While on a museum tour, you opted to spend more time in the ancient civilizations section rather than the modern art section. Can you explain your reasoning?",
+        "During a wilderness survival situation, you chose to build a shelter first rather than searching for food. Why did you prioritize this action?",
+        "On a kayaking trip, you decided to navigate through a more challenging and less familiar route. What was your justification for this choice?",
+        "At a science laboratory, you opted to use a newly developed but less tested chemical in your research. Can you justify this decision?",
+        "While camping, you decided to hike a longer and steeper trail to reach your campsite. What was your reasoning behind this choice?",
+        "During a museum tour, you chose to engage in a lengthy discussion with a historian rather than continuing with the guided tour. Why did you make this decision?",
+        "In a wilderness survival scenario, you decided to create a signal fire before ensuring a clean water supply. Can you explain your rationale?",
+        "On a kayaking trip, you chose to go out on the water despite a forecast of potential storms. Why did you take this risk?"
+    ]
+}

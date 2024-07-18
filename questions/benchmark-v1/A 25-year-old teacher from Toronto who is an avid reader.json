@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "In a Classroom setting, a student struggles with a reading assignment. What steps do you take to help them understand the material and stay engaged?",
+        "During a Library Study Session, how do you organize and facilitate a productive session for a group of students preparing for an exam?",
+        "At a Book Club Meeting, a member disagrees with the book's interpretation. How do you manage the discussion to ensure everyone feels heard and the conversation remains respectful?",
+        "On a Museum Tour with your students, one of them asks a detailed question about an exhibit you are not familiar with. What actions do you take to address their curiosity?",
+        "In an Art Class, a student is frustrated because they cannot get a technique right. What steps do you take to encourage and guide them through the learning process?",
+        "While conducting a Library Study Session, how do you ensure that each student gets personalized attention without disrupting the entire group?",
+        "During a Book Club Meeting, how do you prepare discussion points and activities to engage members and foster a deep understanding of the book?",
+        "At a Museum Tour, how do you prepare in advance to ensure that the tour is educational and interactive for your students?",
+        "In an Art Class, what steps do you take to plan a lesson that accommodates different skill levels and keeps all students interested?",
+        "When a student shows disinterest in a Classroom reading assignment, what actions do you take to motivate them and make the material more appealing?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, how would you handle a disruptive student who continually interrupts your lessons despite multiple warnings?",
+        "During a library study session, what would you do if a group of students refuses to quiet down, disturbing others who are trying to study?",
+        "At a book club meeting, how would you react if another member aggressively criticizes your favorite book and dismisses your opinions?",
+        "While leading a museum tour, how would you address a participant who loudly mocks the exhibits and disrespects other visitors?",
+        "In an art class, what steps would you take if a student repeatedly belittles another student's artwork, causing them visible distress?",
+        "In a classroom, how would you respond if a parent accuses you of unfairly grading their child and insists you have a personal vendetta?",
+        "During a library study session, how would you manage a situation where two students get into a heated argument over the use of a shared resource?",
+        "At a book club meeting, what approach would you take if another member makes a derogatory comment about your reading choices in front of the group?",
+        "While conducting a museum tour, how would you handle a guest who challenges your knowledge and attempts to undermine your credibility in front of others?",
+        "In an art class, how would you address a student who claims that your teaching methods are outdated and ineffective, and tries to rally others to agree?"
+    ],
+    "Linguistic Habits": [
+        "In a Classroom setting, how would you explain the importance of daily reading habits to your students?",
+        "During a Library Study Session, what advice would you give on selecting books that cater to different reading levels?",
+        "At a Book Club Meeting, how would you facilitate a discussion on the themes and linguistic styles of a complex novel?",
+        "On a Museum Tour, how would you describe the historical context of a piece of art to your students using engaging language?",
+        "In an Art Class, how would you instruct students to critique an artwork while emphasizing the importance of language in art description?",
+        "How would you summarize the main ideas of a challenging book to a group of students during a Library Study Session?",
+        "In a Book Club Meeting, how would you compare and contrast the narrative techniques of two different authors?",
+        "While leading a Museum Tour, how would you incorporate storytelling to make the exhibits more relatable for your students?",
+        "In an Art Class, how would you explain the role of symbolism in a painting using clear and precise language?",
+        "During a Classroom lesson, how would you integrate literary devices into a discussion on a recent book you've read?"
+    ],
+    "Persona Consistency": [
+        "As a teacher from Toronto, how would you incorporate a book you recently read into your classroom lessons?",
+        "During a library study session, how do you manage time between helping students and pursuing your own avid reading interests?",
+        "In a book club meeting, can you describe a book you've read that you think would spark an engaging discussion and why?",
+        "During a museum tour, how would you relate the historical artifacts to the themes of a novel you recently read?",
+        "For an art class, how would you use your reading experience to inspire students in their art projects?",
+        "As a teacher, how do you balance your professional responsibilities with your passion for reading during a library study session?",
+        "At a book club meeting, how would you handle a situation where the book being discussed is not something you particularly enjoyed?",
+        "On a museum tour, how would you draw parallels between the art exhibits and a book from your reading list?",
+        "In an art class, how would you integrate elements from a classic novel into a visual arts curriculum?",
+        "Can you describe an experience from your classroom that was directly influenced by something you read in your personal time?"
+    ],
+    "Action Justification": [
+        "In a classroom setting, you noticed a student struggling with a particular concept during a lesson. You decided to spend extra time after class to help the student. Can you justify why you took this action?",
+        "During a library study session, you chose to recommend a complex book to a student who appeared to be overwhelmed with their current reading material. Explain your reasoning behind this recommendation.",
+        "At a book club meeting, you decided to steer the discussion towards a controversial topic within the book. Why did you feel this was an appropriate action to take?",
+        "While on a museum tour, you observed a student not engaging with the exhibits. You opted to give the student additional background information about the exhibits. Justify your decision to take this action.",
+        "In an art class, you encouraged a student to experiment with a new and challenging technique. What motivated you to take this action, and how did you justify it to the student?",
+        "During a classroom group activity, you paired students with different skill levels together. Can you explain your rationale for this action?",
+        "At a library study session, you decided to create a study guide for the students based on their feedback. What was your justification for taking this initiative?",
+        "In a book club meeting, you brought in a guest speaker who had a differing opinion on the book's themes. Explain your reasoning behind this decision.",
+        "While on a museum tour, you chose to spend more time at an exhibit that was not originally part of the tour. Why did you decide to take this action, and how did you justify it?",
+        "In an art class, you noticed a student was discouraged with their progress and decided to share your own experiences with artistic challenges. Justify why you took this action."
+    ]
+}

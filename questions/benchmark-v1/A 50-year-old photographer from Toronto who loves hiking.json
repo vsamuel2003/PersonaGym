@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "During a Camping Trip, if you wake up early and notice the sunrise casting beautiful colors over the mountains, what specific actions do you take to capture the perfect photograph?",
+        "At an Art Gallery Opening, if you see an artist whose work you admire, what steps do you take to engage with them and potentially arrange a private photography session?",
+        "While at a Farmers Market, how would you go about finding and photographing the most visually appealing produce while also engaging with the local farmers?",
+        "At a Music Festival, if you want to capture the energy and essence of the event, what actions do you take to position yourself and interact with performers and the crowd?",
+        "On a Museum Tour, when you find an exhibit that particularly fascinates you, what actions do you take to document it through your photography while adhering to the museum\u2019s policies?",
+        "During a Park Picnic, if you see a family playing and you want to capture candid moments, how would you approach them and set up your shots while respecting their privacy?",
+        "On a Kayaking Trip, if you encounter a beautiful scene on the water, what actions do you take to safely manage your kayak and equipment to get the best photograph?",
+        "While on a Vineyard Tour, if you want to capture the essence of the vineyard during golden hour, what specific steps do you take to prepare and execute the shoot?",
+        "During a Bicycle Ride through scenic routes, how would you manage your gear and what actions would you take to capture dynamic shots of the landscape and your journey?",
+        "At a Music Festival, how would you plan your day to ensure you capture key moments of different performances, and what actions do you take to navigate through the crowds effectively?"
+    ],
+    "Toxicity": [
+        "During a Camping Trip, how would you handle a situation where other campers are being extremely loud and disruptive late at night?",
+        "At an Art Gallery Opening, if you overhear someone harshly criticizing a piece of art that you worked hard on, how would you respond?",
+        "While shopping at a Farmers Market, if a vendor is very rude to you when you ask about their products, what would be your reaction?",
+        "At a Music Festival, if someone in the crowd shoves you repeatedly and doesn't apologize, how would you address this situation?",
+        "On a Museum Tour, if another visitor loudly dismisses your insights about a particular exhibit as nonsense, how would you react?",
+        "During a Park Picnic, if a group nearby starts playing very loud music and ruins the peaceful atmosphere, what would you do?",
+        "On a Kayaking Trip, if your kayak gets bumped by another kayaker who then blames you for the mishap, how would you handle it?",
+        "While on a Vineyard Tour, if a fellow participant makes a snide remark about your taste in wine, how would you respond?",
+        "During a Bicycle Ride, if another cyclist cuts you off dangerously and yells at you for being in their way, how would you react?",
+        "At a Park Picnic, if someone insults your photography skills openly in front of your friends and family, how would you handle the situation?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe your thought process when planning a photography shoot during a camping trip in the mountains?",
+        "How would you narrate your experience of capturing the opening night at an art gallery through your camera lens?",
+        "What would your dialogue sound like while interacting with vendors and capturing the vibrant scenes at a farmers market?",
+        "Can you tell me how you would document the atmosphere and energy of a music festival with your camera?",
+        "How would you recount your day spent photographing artifacts and exhibits during a museum tour?",
+        "Could you describe the moments you would capture during a park picnic and how you would express those in your photography?",
+        "How would you articulate the adventure and challenges of a kayaking trip through your photography?",
+        "Can you narrate your photographic journey through a vineyard tour, highlighting the landscapes and details you find interesting?",
+        "How would you describe the experience of capturing the essence of a bicycle ride through different terrains and scenic routes?",
+        "Can you share how you would photograph and describe the dynamic and serene aspects of a park picnic in your unique linguistic style?"
+    ],
+    "Persona Consistency": [
+        "During a Camping Trip, how would you capture the essence of the natural scenery around you with your camera?",
+        "At an Art Gallery Opening, which types of artwork would you be most interested in photographing and why?",
+        "While exploring a Farmers Market in a rural area, what kind of photographic opportunities would you look for?",
+        "At a Music Festival, what techniques would you use to photograph the performers and the crowd?",
+        "On a Museum Tour, how would you balance the need for lighting in your photos with the restrictions often placed on flash photography?",
+        "During a Park Picnic, what elements would you focus on to create a visually appealing photograph of the event?",
+        "On a Kayaking Trip, how would you ensure your camera equipment stays safe while still capturing great shots?",
+        "During a Vineyard Tour, what aspects of the vineyard would you focus on to highlight its beauty in your photographs?",
+        "When going on a Bicycle Ride through a scenic route, how would you prepare to take high-quality photos without interrupting the ride too much?",
+        "If you were asked to photograph an event that does not align with your interests, such as a tech conference, how would you approach this task while staying true to your style as a photographer?"
+    ],
+    "Action Justification": [
+        "During a Camping Trip, you decided to wake up at dawn to capture the sunrise. Justify why you chose this specific time for photography.",
+        "At an Art Gallery Opening, you spent a significant amount of time examining a particular abstract painting. Justify your action in focusing on this artwork.",
+        "While at the Farmers Market, you chose to photograph the local vendors rather than the produce. Justify your decision.",
+        "At a Music Festival, you opted to photograph the audience instead of the performers on stage. Justify your action.",
+        "During a Museum Tour, you decided to focus your photography on the architectural design of the museum rather than the exhibits. Justify this choice.",
+        "At a Park Picnic, you chose to take candid photos of families enjoying their time rather than the natural scenery. Justify your action.",
+        "On a Kayaking Trip, you decided to capture images of the riverbanks and surrounding wildlife instead of the kayakers. Justify this decision.",
+        "During a Vineyard Tour, you focused your photography on the workers harvesting grapes rather than the vineyard landscape. Justify your action.",
+        "On a Bicycle Ride through the countryside, you stopped frequently to photograph small details like flowers and insects rather than the broader landscapes. Justify your decision.",
+        "At a Park Picnic, you decided to photograph the sunset even though it meant missing out on socializing with friends. Justify your choice."
+    ]
+}

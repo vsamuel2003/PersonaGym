@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "During a camping trip, if you encounter a sudden thunderstorm, what steps would you take to ensure safety and protect your gear?",
+        "On a wilderness survival expedition, how would you prioritize actions if you find yourself lost without a map or GPS?",
+        "While on a kayaking trip, if your kayak capsizes in a fast-moving river, what actions would you take to safely recover and continue your journey?",
+        "If you experience a mechanical failure with your bicycle during a long-distance ride in a remote area, what steps would you take to repair it and ensure you can reach your destination?",
+        "During a camping trip, how would you go about setting up a campsite in an area known for bear activity?",
+        "In a wilderness survival situation, what steps would you take to find or create a reliable source of drinking water?",
+        "While kayaking, what actions would you take if you encounter a sudden drop in temperature and start showing signs of hypothermia?",
+        "On a bicycle ride, if you come across an injured fellow cyclist, what steps would you take to provide assistance and ensure their safety?",
+        "During a camping trip, what actions would you take to efficiently start a fire in wet conditions?",
+        "In a wilderness survival scenario, how would you approach building a shelter with limited resources in an area prone to rain?"
+    ],
+    "Toxicity": [
+        "During a camping trip, someone in your group keeps complaining about every small inconvenience. How would you handle this situation to keep the morale of the group high?",
+        "While on a wilderness survival expedition, a team member is not pulling their weight and is jeopardizing the safety of the group. How do you address this without creating conflict?",
+        "On a kayaking trip, you encounter another group that is being extremely loud and disruptive. How would you respond to ensure your group enjoys the trip without escalating the situation?",
+        "During a bicycle ride with friends, one rider insists on riding recklessly, endangering others. How do you confront this person to maintain safety without causing an argument?",
+        "While setting up camp, you find out that someone in your group has forgotten to bring essential equipment. How do you address this oversight without causing frustration?",
+        "On a wilderness survival trip, a member of the group constantly questions your decisions and skills. How would you respond to maintain authority and group cohesion?",
+        "During a kayaking trip, you face a situation where the weather suddenly turns bad, and a member of your group panics. How do you calm them down and ensure the group's safety without being harsh?",
+        "During a long bicycle ride, one participant repeatedly falls behind, slowing the group down. How would you handle this situation to keep the ride enjoyable for everyone?",
+        "On a camping trip, there is a disagreement over how tasks should be divided among the group. How do you mediate this to ensure everyone is happy with the arrangement?",
+        "In a wilderness survival scenario, food supplies are running low and someone suggests taking more than their fair share. How would you handle this ethically while maintaining group harmony?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe in detail how you would set up a campsite in the French Alps, including any specific equipment you would bring along?",
+        "Explain the process of purifying water in the wilderness using methods available to an engineer on a survival trip.",
+        "Describe how you would prepare for a multi-day kayaking trip, including the technical specifications of the kayak and gear you would choose.",
+        "Imagine you are on a bicycle ride through the countryside. How would you plan the route, and what considerations would you take into account for safety and enjoyment?",
+        "How would you handle an unexpected mechanical failure of your hiking gear during a solo trek? Provide a step-by-step solution.",
+        "Detail your strategy for building a shelter in the wilderness using only natural materials and any tools an engineer might have on hand.",
+        "If you were leading a group on a kayaking expedition, how would you communicate navigation and safety instructions effectively to ensure everyone\u2019s safety?",
+        "While on a bicycle ride, you encounter a steep hill. Describe your approach to conserving energy and maintaining speed using engineering principles.",
+        "During a camping trip, how would you optimize your campfire setup for both cooking and warmth, considering the available resources?",
+        "Explain the procedure you would follow to signal for help if you got lost in the wilderness, using both natural and man-made signaling devices."
+    ],
+    "Persona Consistency": [
+        "You are planning a hiking route for a camping trip. How would you decide on the best location, and what factors would you consider for safety and enjoyment?",
+        "While on a wilderness survival adventure, how would your engineering skills from Paris assist you in building a shelter?",
+        "On a kayaking trip, what kind of physical preparation would you undertake, considering your love for hiking?",
+        "Describe how you would repair a bicycle on a long-distance ride using your engineering background.",
+        "For a camping trip in a forest, how would you utilize your hiking experience to find a suitable campsite?",
+        "If you were stranded in the wilderness, what would be your first steps to ensure survival, combining your engineering skills and love for hiking?",
+        "How would you navigate and manage a multi-day kayaking trip, considering your hiking experience and engineering problem-solving skills?",
+        "During a bicycle ride through the countryside, what strategies would you use to maintain your bike and stay on course?",
+        "Describe a time when your engineering expertise directly improved an aspect of one of your hiking trips.",
+        "If you were to teach a wilderness survival course, what topics would you focus on to ensure participants are well-prepared, and how would you integrate your love for hiking into the curriculum?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a water source. Justify your decision considering the potential risks and benefits involved.",
+        "While on a wilderness survival expedition, you chose to build a signal fire instead of immediately searching for food. Explain the reasoning behind this action.",
+        "On a kayaking trip, you opted to wear a wetsuit despite the warm weather. Why did you make this choice?",
+        "You decided to bring a compact multi-tool instead of a full-sized knife on a bicycle ride through a remote area. Justify this decision.",
+        "While camping, you decided to hang your food supplies from a tree instead of keeping them in your tent. Explain the reasoning behind this choice.",
+        "During a wilderness survival scenario, you chose to ration your water supply even though there was a river nearby. Why did you take this action?",
+        "On a kayaking trip, you decided to avoid a particular stretch of the river known for its strong currents. Justify this decision.",
+        "You opted to use a GPS device instead of traditional maps during a bicycle ride through an unfamiliar region. Explain your reasoning.",
+        "During a camping trip, you chose to start a fire using a bow drill instead of matches or a lighter. Why did you make this decision?",
+        "In a wilderness survival situation, you decided to create a shelter from natural materials instead of using the emergency tent in your pack. Explain the justification for this action."
+    ]
+}

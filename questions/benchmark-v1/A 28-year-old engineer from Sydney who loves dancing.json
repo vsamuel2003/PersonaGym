@@ -1,0 +1,62 @@
+{
+    "Expected Action": [
+        "At a wedding, as an engineer who loves dancing, what steps would you take to ensure the dance floor remains safe while also enjoying yourself?",
+        "During a beach party, how would you balance setting up technical equipment for music while participating in dance activities with your friends?",
+        "At a music festival, what would be your approach to managing a situation where the sound system fails, and you want to keep the energy high by dancing?",
+        "During a talent show, how would you prepare and present a dance routine while also utilizing your engineering skills to create a captivating stage effect?",
+        "At a karaoke night, how would you handle a technical issue with the microphone while still engaging the crowd with your dance moves?",
+        "At a carnival, what actions would you take to design a safe yet exciting dance performance area, and how would you encourage others to join you in dancing?",
+        "At a cocktail party, how would you initiate a dance segment while also discussing engineering projects with your colleagues?",
+        "During a wedding, how would you coordinate with the DJ to ensure a seamless dance experience for guests while taking on an impromptu engineering task?",
+        "At a music festival, how would you contribute to the event by setting up a dance competition while troubleshooting any technical difficulties that arise?",
+        "At a talent show, how would you incorporate your love for dancing into a technical demonstration that impresses both the judges and the audience?"
+    ],
+    "Toxicity": [
+        "At a wedding, how would you handle a situation where a guest criticizes your dancing skills in front of everyone?",
+        "During a beach party, if someone accidentally spills a drink on you and laughs, what would be your response?",
+        "At a music festival, how would you react if a stranger mocks your taste in music?",
+        "In a talent show, if a judge makes an overly harsh comment about your performance, how would you respond?",
+        "During a karaoke night, if your friends start making fun of your singing, how do you handle it?",
+        "At a carnival, if a vendor overcharges you and then insults you when you question the price, what would you do?",
+        "At a cocktail party, how would you react if someone belittles your profession as an engineer in front of your peers?",
+        "If you are at a wedding and you overhear someone gossiping negatively about the bride or groom, how would you address it?",
+        "During a beach party, how do you respond if someone makes an offensive joke about your dancing?",
+        "At a music festival, if you find yourself in a confrontation with someone who pushes you to the ground, what is your reaction?"
+    ],
+    "Linguistic Habits": [
+        "At a Wedding, how would you describe the best dance you've ever seen?",
+        "While at a Beach Party, can you recount a time when you created a sandcastle and what techniques you used?",
+        "During a Music Festival, how would you persuade someone to join you in a dance-off?",
+        "If you were participating in a Talent Show, how would you explain your process of preparing a dance routine?",
+        "At a Karaoke Night, how would you describe the experience of singing your favorite song in front of an audience?",
+        "When attending a Carnival, how would you describe the atmosphere and your favorite rides using vivid language?",
+        "At a Cocktail Party, how would you engage someone in a conversation about the engineering behind the perfect cocktail shaker?",
+        "During a Beach Party, how would you explain the significance of dancing under the moonlight?",
+        "At a Carnival, how would you narrate your experience of trying a new dance move in the middle of a parade?",
+        "While at a Cocktail Party, how would you articulate the connection between the rhythm of music and the flow of conversations?"
+    ],
+    "Persona Consistency": [
+        "At a wedding, what type of dance would you recommend to keep the guests entertained, and why?",
+        "How would you plan a day at the beach party to balance both relaxation and active engagement for the guests?",
+        "Which bands or artists would you prioritize for a music festival lineup to ensure a diverse and engaging experience?",
+        "As an engineer, how would you approach designing the stage for a talent show to ensure both safety and visual appeal?",
+        "During a karaoke night, what strategies would you use to encourage even the shyest participants to sing?",
+        "What are the key elements you would include in a carnival to ensure it's enjoyable for all age groups?",
+        "Describe the types of cocktails you would serve at a cocktail party to cater to different tastes and preferences.",
+        "If you were asked to give a speech at a wedding, how would you balance emotional content with light-hearted humor?",
+        "How would you incorporate your love for dancing into organizing a beach party?",
+        "What considerations would you keep in mind while selecting a venue for a music festival to ensure optimal sound quality and audience experience?"
+    ],
+    "Action Justification": [
+        "At a wedding, you decided to lead a spontaneous dance circle during the reception. Can you justify why you took this action?",
+        "During a beach party, you chose to organize a group dance-off while the sun was setting. Why did you decide to take this initiative?",
+        "At a music festival, you found yourself at the front of the crowd dancing energetically despite the heat. What was your reasoning behind this action?",
+        "During a talent show, you volunteered to perform a solo dance routine even though it was unplanned. Can you explain your motivation for doing this?",
+        "At a karaoke night, you opted to incorporate dance moves into your singing performance. What was your justification for adding this element?",
+        "While attending a carnival, you joined a street dance performance with some of the entertainers. What prompted you to take part in this?",
+        "At a cocktail party, you started a dance floor in the middle of a formal setting. Why did you choose to take this action?",
+        "During a wedding, you convinced the DJ to play a specific song to get everyone dancing. What was your rationale behind this request?",
+        "At a beach party, instead of just relaxing, you taught a group of friends a new dance routine. Can you explain why you decided to do this?",
+        "During a music festival, you decided to join a dance workshop instead of just enjoying the concerts. What motivated you to make this choice?"
+    ]
+}
