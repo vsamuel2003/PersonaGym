@@ -4,11 +4,11 @@
 
 This repository contains the dataset and code of the paper:
 > **PersonaGym** 
-> [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592)  <br>
+> [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592) [[website]]([https://arxiv.org/abs/2404.15592](https://vsamuel2003.github.io/PersonaGym-website/))  <br>
 
 
 ## Personas and Static Environments
-Our personas used in our experiment is located in the [personas](https://github.com/vsamuel2003/PersonaGym/blob/master/code/personas.py) file. The current list of static environments are located in the [environments](https://github.com/vsamuel2003/PersonaGym/blob/master/code/eval_tasks.py) file
+Our personas used in our experiment are located in the [personas](https://github.com/vsamuel2003/PersonaGym/blob/master/code/personas.py) file. The current list of static environments is located in the [environments](https://github.com/vsamuel2003/PersonaGym/blob/master/code/eval_tasks.py) file
 
 
 ## Setup
@@ -22,22 +22,28 @@ pip install -r requirements.txt
 ```
 
 ## Available Models
-Currently our framework supports the evaluation of any model available through the OpenAI, Anthorpic, or TogetherAI APIs. 
+Currently, our framework supports the evaluation of any model available through the OpenAI, Anthorpic, or TogetherAI APIs. 
 
 ## Evaluation
 
-To start the evaluation of a persona or multple personas, begin by inputting your OpenAI, Anthropic, and TogetherAI API keys [here](https://github.com/vsamuel2003/PersonaGym/blob/master/code/api_keys.py)
+To start the evaluation of a persona or multiple personas, begin by inputting your OpenAI, Anthropic, and TogetherAI API keys [here](https://github.com/vsamuel2003/PersonaGym/blob/master/code/api_keys.py)
 ```bash
 OPENAI_API_KEY = "Insert OpenAI key here"
 CLAUDE_API_KEY = "Insert Claude key here"
 LLAMA_API_KEY = "Insert Llama key here"
 ```
 
-Then run the `run.py` file in the code directory. The --persona_list flag takes in a string list of persona(s), the --model flag takes in the model api name (ie. meta-llama/Llama-2-70b-chat-hf), and the --model_name flag indicates the name to be used when saving results from the given model to be evaluated.
+Then move to the code directory and  run the `run.py` file. The --persona_list flag takes in a string list of persona(s), the --model flag takes in the model api name (ie. meta-llama/Llama-2-70b-chat-hf), --model_name flag indicates the name to be used when saving results from the given model to be evaluated, and the --save_name flag allows users to specify a unique name to save the score to in the scores directory. Additionally to enable continuing progress in evaluation, the --saved_questions is an optional flag to enable loading in already generated questions that indicates the directory within the questions directory that the saved questions are located, the --saved_responses flag is an optional flag that is the directory path to where the persona agent's responses are located. Finally the --benchmark enables running on our benchmark. Currently this flag should be set to benchmark-v1 for evaluation.
+
 An example of running the `run.py` file is included below
 
 ```bash
 python run.py --persona_list '["an Asian software engineer", "a high school physics teacher"]' --model meta-llama/Llama-2-70b-chat-hf --model_name llama_2_70b
+```
+An example of evaluating on our benchmark is included below
+
+```bash
+python run.py  --model meta-llama/Llama-2-70b-chat-hf --model_name llama_2_70b --benchmark benchmark-v1
 ```
 
 ## Bugs or Questions
