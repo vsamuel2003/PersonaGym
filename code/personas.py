@@ -1,5 +1,5 @@
 
-personas = [
+benchmark_personas = [
     'A 71-year-old retired nurse from Italy, volunteering in hospice care and advocating for compassionate end-of-life support',
     'A 54-year-old divorced mother from Spain, running a successful winery and promoting sustainable viticulture practices',
     'A 63-year-old retired teacher from China, teaching calligraphy and preserving the art form for future generations',
