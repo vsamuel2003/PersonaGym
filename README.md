@@ -50,3 +50,17 @@ python run.py  --model meta-llama/Llama-2-70b-chat-hf --model_name llama_2_70b -
 
 If you have any questions related to the dataset or the paper, feel free to email Vinay Samuel(vsamuel@andrew.cmu.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
 
+## Citation
+If you find this repository helpful, please consider citing our paper 💕: 
+```bibtex
+@misc{samuel2024personagymevaluatingpersonaagents,
+      title={PersonaGym: Evaluating Persona Agents and LLMs}, 
+      author={Vinay Samuel and Henry Peng Zou and Yue Zhou and Shreyas Chaudhari and Ashwin Kalyan and Tanmay Rajpurohit and Ameet Deshpande and Karthik Narasimhan and Vishvak Murahari},
+      year={2024},
+      eprint={2407.18416},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.18416}, 
+}
+```
+
