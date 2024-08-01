@@ -53,14 +53,11 @@ If you have any questions related to the dataset or the paper, feel free to emai
 ## Citation
 If you find this repository helpful, please consider citing our paper: 
 ```bibtex
-@misc{samuel2024personagymevaluatingpersonaagents,
-      title={PersonaGym: Evaluating Persona Agents and LLMs}, 
-      author={Vinay Samuel and Henry Peng Zou and Yue Zhou and Shreyas Chaudhari and Ashwin Kalyan and Tanmay Rajpurohit and Ameet Deshpande and Karthik Narasimhan and Vishvak Murahari},
-      year={2024},
-      eprint={2407.18416},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.18416}, 
+@article{samuel2024personagym,
+  title={PersonaGym: Evaluating Persona Agents and LLMs},
+  author={Samuel, Vinay and Zou, Henry Peng and Zhou, Yue and Chaudhari, Shreyas and Kalyan, Ashwin and Rajpurohit, Tanmay and Deshpande, Ameet and Narasimhan, Karthik and Murahari, Vishvak},
+  journal={arXiv preprint arXiv:2407.18416},
+  year={2024}
 }
 ```
 
