@@ -3,8 +3,11 @@
 ![Task](pipeline.jpg)
 
 This repository contains the dataset and code of the paper:
-> **PersonaGym: Evaluating Persona Agents and LLMs** 
+> **PersonaGym: Evaluating Persona Agents and LLMs**
+> Under Review
+> <!--
 > [[Paper]](https://arxiv.org/pdf/2407.18416) [[arXiv]](https://arxiv.org/abs/2407.18416) [[website]](https://personagym.com)  <br>
+> -->
 
 
 ## Personas and Static Environments
@@ -45,7 +48,7 @@ An example of evaluating on our benchmark is included below
 ```bash
 python run.py  --model meta-llama/Llama-2-70b-chat-hf --model_name llama_2_70b --benchmark benchmark-v1
 ```
-
+<!--
 ## Bugs or Questions
 
 If you have any questions related to the dataset or the paper, feel free to email Vinay Samuel(vsamuel@andrew.cmu.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
@@ -60,4 +63,5 @@ If you find this repository helpful, please consider citing our paper:
   year={2024}
 }
 ```
+-->
 
