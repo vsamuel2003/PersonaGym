@@ -2,9 +2,8 @@
 
 ![Task](pipeline.jpg)
 
-This repository contains the dataset and code of the paper:
+This repository contains the dataset and code of the paper (Under Review):
 > **PersonaGym: Evaluating Persona Agents and LLMs**
-> Under Review
 > <!--
 > [[Paper]](https://arxiv.org/pdf/2407.18416) [[arXiv]](https://arxiv.org/abs/2407.18416) [[website]](https://personagym.com)  <br>
 > -->
