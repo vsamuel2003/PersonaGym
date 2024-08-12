@@ -202,7 +202,7 @@ def save_responses(persona, task_to_qa, model_name):
         json.dump(task_to_qa, file, indent=4)
 
 def save_scores(save_name, scores):
-    dir = f"../scores/{save_name"
+    dir = f"../scores/{save_name}"
     if not os.path.exists(dir):
         os.makedirs(dir)
 
